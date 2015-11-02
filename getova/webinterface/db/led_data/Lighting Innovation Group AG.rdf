@@ -1,0 +1,25 @@
+_:g2174113900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " lineare LED-Module " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " flächige LED-Module " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " KNX/EIB " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " DMX " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " DALI " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " analoge Ansteuerung " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " Bodeneinbauleuchten " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " Unterwasser LED-Leuchten " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " Wandfluter " .
+_:g2174113900 <http://fitman.sti2.at/company/produces> " sonstige LED Leuchten " .
+_:g2174113900 <http://fitman.sti2.at/company/hasSpeciality> " Elektronik " .
+_:g2174113900 <http://fitman.sti2.at/company/hasSpeciality> " optische Systeme " .
+_:g2174113900 <http://fitman.sti2.at/company/hasSpeciality> " Platinenbestückung " .
+_:g2174113900 <http://fitman.sti2.at/company/hasSpeciality> " Lichtplanung " .
+_:g2174113900 <http://fitman.sti2.at/company/hasWebsite> "http://www.lig.ht" .
+_:g2174113900 <http://fitman.sti2.at/company/hasMail> "    info@ lig.ht\n" .
+_:g2174113900 <http://fitman.sti2.at/company/name> "Lighting Innovation Group AG" .
+_:g2174113900 <http://fitman.sti2.at/company/hasLocality> "Schaffhausen" .
+_:g2174113900 <http://fitman.sti2.at/company/hasStreetAddress> "    Mühlentalstrasse 28\n" .
+_:g2174113900 <http://fitman.sti2.at/company/locatedInRegion> "    Switzerland\n" .
+_:g2174113900 <http://fitman.sti2.at/company/postalCode> "8200" .
+_:g2174113900 <http://fitman.sti2.at/company/country> "    Switzerland\n" .

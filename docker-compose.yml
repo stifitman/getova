@@ -1,0 +1,22 @@
+getova:
+  build: getova
+  environment:
+      - rails_server_ip="http://localhost:3000"
+      - elastic_search_ip="http://localhost:9200"
+      - results_folder="results"
+  ports:
+      - "3000:3000"
+  expose:
+      - "3000"
+  command: su -l getova -c "source setup_docker.sh" 
+elastic:
+  image: elasticsearch
+  ports:
+     - "9200:9200"
+     - "9300:9300"
+  expose:
+     - "9200:9200"
+     - "9300:9300"
+
+
+

@@ -1,0 +1,12 @@
+_:g2156524020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2156524020 <http://fitman.sti2.at/company/produces> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2156524020 <http://fitman.sti2.at/company/produces> " Arbeits- und Leseleuchten " .
+_:g2156524020 <http://fitman.sti2.at/company/produces> " LED Maschinenleuchten " .
+_:g2156524020 <http://fitman.sti2.at/company/hasWebsite> "http://www.waldmann.com/" .
+_:g2156524020 <http://fitman.sti2.at/company/hasMail> "    info@ waldmann.com\n" .
+_:g2156524020 <http://fitman.sti2.at/company/name> "WaldmannÜber Waldmann" .
+_:g2156524020 <http://fitman.sti2.at/company/hasLocality> "Villingen-Schwenningen" .
+_:g2156524020 <http://fitman.sti2.at/company/hasStreetAddress> "    Peter-Henlein-Strasse 5\n" .
+_:g2156524020 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2156524020 <http://fitman.sti2.at/company/postalCode> "78056" .
+_:g2156524020 <http://fitman.sti2.at/company/country> "    Germany\n" .

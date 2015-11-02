@@ -1,0 +1,13 @@
+_:g2164665120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2164665120 <http://purl.org/goodrelations/v1#category> " OnlineShops " .
+_:g2164665120 <http://xmlns.com/foaf/0.1/page> "http://www.loheide-beleuchtungstechnik.de" .
+_:g2164665120 <http://purl.org/goodrelations/v1#legalName> "Loheide Beleuchtungstechnik" .
+_:g2164665120 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2164317040 .
+_:g2164317040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2164317040 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2164317040 <http://www.w3.org/2006/vcard/ns#locality> "Kirchlinteln" .
+_:g2164317040 <http://www.w3.org/2006/vcard/ns#postal_code> "27308" .
+_:g2164317040 <http://www.w3.org/2006/vcard/ns#street_address> "    Eichendorffweg 19\n" .
+_:g2164317040 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ loheide-beleuchtungstechnik.de\n" .
+_:g2164301500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2164301500 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)4236 - 809974\n" .

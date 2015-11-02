@@ -1,0 +1,15 @@
+_:g2174196560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174196560 <http://xmlns.com/foaf/0.1/page> "http://www.leuro.com" .
+_:g2174196560 <http://purl.org/goodrelations/v1#legalName> "Leurocom" .
+_:g2174196560 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173911460 .
+_:g2173931680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173931680 <http://purl.org/goodrelations/v1#name> " LED-Videodisplays " .
+_:g2173931680 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174196560 .
+_:g2173911460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173911460 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173911460 <http://www.w3.org/2006/vcard/ns#locality> "Winnenden" .
+_:g2173911460 <http://www.w3.org/2006/vcard/ns#postal_code> "71364" .
+_:g2173911460 <http://www.w3.org/2006/vcard/ns#street_address> "    Marie-Curie-Str. 10\n" .
+_:g2173911460 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ leuro.com\n" .
+_:g2173901600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173901600 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7195 - 1031 0\n" .

@@ -1,0 +1,15 @@
+_:g2173055740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173055740 <http://purl.org/goodrelations/v1#offers> _:g2160299080 .
+_:g2173055740 <http://xmlns.com/foaf/0.1/page> "http://www.clp-gmbh.de" .
+_:g2173055740 <http://purl.org/goodrelations/v1#legalName> "CLP GmbH" .
+_:g2173055740 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2160188880 .
+_:g2160299080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160299080 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2160188880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2160188880 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2160188880 <http://www.w3.org/2006/vcard/ns#locality> "Pinneberg" .
+_:g2160188880 <http://www.w3.org/2006/vcard/ns#postal_code> "25421" .
+_:g2160188880 <http://www.w3.org/2006/vcard/ns#street_address> "    Osterholder Allee 2\n" .
+_:g2160188880 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ clp-gmbh.de\n" .
+_:g2160182620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2160182620 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)4101 - 3738002\n" .

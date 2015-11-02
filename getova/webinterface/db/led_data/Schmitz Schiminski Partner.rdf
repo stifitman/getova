@@ -1,0 +1,10 @@
+_:g2160111520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2160111520 <http://fitman.sti2.at/company/hasSpeciality> " Lichtplanung " .
+_:g2160111520 <http://fitman.sti2.at/company/hasWebsite> "http://www.ssp-design.de" .
+_:g2160111520 <http://fitman.sti2.at/company/hasMail> "    info@ ssp-design.de\n" .
+_:g2160111520 <http://fitman.sti2.at/company/name> "Schmitz Schiminski Partner" .
+_:g2160111520 <http://fitman.sti2.at/company/hasLocality> "Hildesheim" .
+_:g2160111520 <http://fitman.sti2.at/company/hasStreetAddress> "    Langer Garten 23 - 25\n" .
+_:g2160111520 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2160111520 <http://fitman.sti2.at/company/postalCode> "31137" .
+_:g2160111520 <http://fitman.sti2.at/company/country> "    Germany\n" .

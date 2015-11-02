@@ -1,0 +1,21 @@
+_:g2173338640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173338640 <http://xmlns.com/foaf/0.1/page> "http://www.dianaelectronic.de" .
+_:g2173338640 <http://purl.org/goodrelations/v1#legalName> "Diana electronic-Systeme GmbH" .
+_:g2173338640 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174441000 .
+_:g2174472940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174472940 <http://purl.org/goodrelations/v1#name> " LED Maschinenleuchten " .
+_:g2174472940 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173338640 .
+_:g2174469620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174469620 <http://purl.org/goodrelations/v1#name> " Machine Vision " .
+_:g2174469620 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173338640 .
+_:g2174458660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174458660 <http://purl.org/goodrelations/v1#name> " Arbeits- und Leseleuchten " .
+_:g2174458660 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173338640 .
+_:g2174441000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174441000 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174441000 <http://www.w3.org/2006/vcard/ns#locality> "Waiblingen" .
+_:g2174441000 <http://www.w3.org/2006/vcard/ns#postal_code> "71336" .
+_:g2174441000 <http://www.w3.org/2006/vcard/ns#street_address> "    Kriegsbergstr. 3\n" .
+_:g2174441000 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ dianaelectronic.de\n" .
+_:g2174439780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174439780 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7151 - 98912 0\n" .

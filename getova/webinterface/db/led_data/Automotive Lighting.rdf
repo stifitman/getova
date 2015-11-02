@@ -1,0 +1,11 @@
+_:g2160199000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2160199000 <http://fitman.sti2.at/company/produces> " Auto LED Signalleuchten " .
+_:g2160199000 <http://fitman.sti2.at/company/produces> " LED Frontlichter " .
+_:g2160199000 <http://fitman.sti2.at/company/hasWebsite> "http://www.al-lighting.de/" .
+_:g2160199000 <http://fitman.sti2.at/company/hasMail> "    info@ al-lighting.com\n" .
+_:g2160199000 <http://fitman.sti2.at/company/name> "Automotive Lighting" .
+_:g2160199000 <http://fitman.sti2.at/company/hasLocality> "Reutlingen" .
+_:g2160199000 <http://fitman.sti2.at/company/hasStreetAddress> "    Tübinger Str. 123\n" .
+_:g2160199000 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2160199000 <http://fitman.sti2.at/company/postalCode> "72762" .
+_:g2160199000 <http://fitman.sti2.at/company/country> "    Germany\n" .

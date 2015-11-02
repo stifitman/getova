@@ -1,0 +1,124 @@
+GIT
+  remote: git://github.com/ruby-rdf/sparql.git
+  revision: 7c4a1e6b05800d79d6f38198b894a1d6512822c2
+  branch: develop
+  specs:
+    sparql (1.1.3)
+      builder (~> 3.0)
+      ebnf (~> 0.3, >= 0.3.5)
+      rdf (~> 1.1, >= 1.1.4)
+      rdf-aggregate-repo (~> 1.1, >= 1.1.0)
+      rdf-xsd (~> 1.1)
+      sparql-client (~> 1.1)
+      sxp (~> 0.1)
+
+PATH
+  remote: .
+  specs:
+    j2o (0.0.80)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.2.2)
+    celluloid (0.15.2)
+      timers (~> 1.1.0)
+    coderay (1.1.0)
+    diff-lcs (1.2.5)
+    ebnf (0.3.6)
+      haml (~> 4.0)
+      rdf (~> 1.1)
+      sxp (~> 0.1, >= 0.1.3)
+    faker (1.4.3)
+      i18n (~> 0.5)
+    ffi (1.9.3)
+    formatador (0.2.5)
+    guard (2.6.1)
+      formatador (>= 0.2.4)
+      listen (~> 2.7)
+      lumberjack (~> 1.0)
+      pry (>= 0.9.12)
+      thor (>= 0.18.1)
+    guard-rspec (4.2.10)
+      guard (~> 2.1)
+      rspec (>= 2.14, < 4.0)
+    haml (4.0.5)
+      tilt
+    htmlentities (4.3.2)
+    i18n (0.6.11)
+    json (1.8.1)
+    json-generator (0.1.0)
+      json-schema
+    json-ld (1.1.5)
+      rdf (~> 1.1, >= 1.1.4)
+    json-schema (2.2.2)
+    listen (2.7.8)
+      celluloid (>= 0.15.2)
+      rb-fsevent (>= 0.9.3)
+      rb-inotify (>= 0.9)
+    lumberjack (1.0.6)
+    method_source (0.8.2)
+    net-http-persistent (2.9.4)
+    pry (0.10.0)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    rake (10.3.2)
+    rb-fsevent (0.9.4)
+    rb-inotify (0.9.5)
+      ffi (>= 0.5.0)
+    rdf (1.1.4.1)
+    rdf-aggregate-repo (1.1.0)
+      rdf (>= 1.1)
+    rdf-rdfa (1.1.3.2)
+      haml (~> 4.0)
+      htmlentities (~> 4.3)
+      rdf (~> 1.1)
+      rdf-xsd (~> 1.1)
+    rdf-rdfxml (1.1.0.1)
+      rdf (~> 1.1)
+      rdf-rdfa (~> 1.1)
+      rdf-xsd (~> 1.1)
+    rdf-turtle (1.1.4)
+      ebnf (~> 0.3, >= 0.3.6)
+      rdf (~> 1.1, >= 1.1.4)
+    rdf-xsd (1.1.1)
+      rdf (~> 1.1)
+    rspec (3.0.0)
+      rspec-core (~> 3.0.0)
+      rspec-expectations (~> 3.0.0)
+      rspec-mocks (~> 3.0.0)
+    rspec-core (3.0.1)
+      rspec-support (~> 3.0.0)
+    rspec-expectations (3.0.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.0.0)
+    rspec-mocks (3.0.1)
+      rspec-support (~> 3.0.0)
+    rspec-support (3.0.0)
+    slop (3.5.0)
+    sparql-client (1.1.1)
+      json (>= 1.8)
+      net-http-persistent (>= 1.4)
+      rdf (>= 1.1)
+    sxp (0.1.5)
+    thor (0.19.1)
+    tilt (2.0.1)
+    timers (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.6)
+  faker
+  guard-rspec
+  j2o!
+  json-generator (~> 0.1.0)
+  json-ld (~> 1.1.2)
+  json-schema (~> 2.2.2)
+  rake
+  rdf (~> 1.1.3)
+  rdf-rdfxml (~> 1.1.0.1)
+  rdf-turtle (~> 1.1.3)
+  sparql (~> 1.1.3)!

@@ -1,0 +1,15 @@
+_:g2166450440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2166450440 <http://purl.org/goodrelations/v1#offers> _:g2175626120 .
+_:g2166450440 <http://xmlns.com/foaf/0.1/page> "http://www.srm-technik.de" .
+_:g2166450440 <http://purl.org/goodrelations/v1#legalName> "SRM Technik" .
+_:g2166450440 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175644340 .
+_:g2175626120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175626120 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2175644340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175644340 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175644340 <http://www.w3.org/2006/vcard/ns#locality> "Berlin" .
+_:g2175644340 <http://www.w3.org/2006/vcard/ns#postal_code> "12099" .
+_:g2175644340 <http://www.w3.org/2006/vcard/ns#street_address> "    Colditzstraße 33\n" .
+_:g2175644340 <http://www.w3.org/2006/vcard/ns#has_email> "    upload@ srm-technik.de\n" .
+_:g2175643180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175643180 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)30 - 701900 0\n" .

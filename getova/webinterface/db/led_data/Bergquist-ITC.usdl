@@ -1,0 +1,15 @@
+_:g2165273280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165273280 <http://xmlns.com/foaf/0.1/page> "http://www.bergquist.de" .
+_:g2165273280 <http://purl.org/goodrelations/v1#legalName> "Bergquist-ITC" .
+_:g2165273280 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165203800 .
+_:g2165224480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165224480 <http://purl.org/goodrelations/v1#name> " Platinen " .
+_:g2165224480 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165273280 .
+_:g2165203800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165203800 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165203800 <http://www.w3.org/2006/vcard/ns#locality> "Pinneberg" .
+_:g2165203800 <http://www.w3.org/2006/vcard/ns#postal_code> "25421" .
+_:g2165203800 <http://www.w3.org/2006/vcard/ns#street_address> "    Haderslebenerstr. 19a\n" .
+_:g2165203800 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ bergquist.de\n" .
+_:g2165194220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165194220 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)4101 - 803 0\n" .

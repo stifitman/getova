@@ -1,0 +1,13 @@
+_:g2165388900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165388900 <http://purl.org/goodrelations/v1#category> " OnlineShops " .
+_:g2165388900 <http://xmlns.com/foaf/0.1/page> "http://www.lumeron.de" .
+_:g2165388900 <http://purl.org/goodrelations/v1#legalName> "LUMERON" .
+_:g2165388900 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165308240 .
+_:g2165308240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165308240 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165308240 <http://www.w3.org/2006/vcard/ns#locality> "Berlin" .
+_:g2165308240 <http://www.w3.org/2006/vcard/ns#postal_code> "10711" .
+_:g2165308240 <http://www.w3.org/2006/vcard/ns#street_address> "    Kurfürstendamm 121a\n" .
+_:g2165308240 <http://www.w3.org/2006/vcard/ns#has_email> "    led@ lumeron.de\n" .
+_:g2165306680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165306680 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)30 - 92124153\n" .

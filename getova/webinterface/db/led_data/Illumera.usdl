@@ -1,0 +1,13 @@
+_:g2156009660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156009660 <http://purl.org/goodrelations/v1#category> " Einzelhandel (B2C) " .
+_:g2156009660 <http://xmlns.com/foaf/0.1/page> "http://www.illumera.de" .
+_:g2156009660 <http://purl.org/goodrelations/v1#legalName> "Illumera" .
+_:g2156009660 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165417960 .
+_:g2165417960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165417960 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165417960 <http://www.w3.org/2006/vcard/ns#locality> "Pattensen" .
+_:g2165417960 <http://www.w3.org/2006/vcard/ns#postal_code> "30982" .
+_:g2165417960 <http://www.w3.org/2006/vcard/ns#street_address> "    Ippenstedter Straße 23\n" .
+_:g2165417960 <http://www.w3.org/2006/vcard/ns#has_email> "    reip@ illumera.de\n" .
+_:g2156575880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2156575880 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)5066 - 996077\n" .

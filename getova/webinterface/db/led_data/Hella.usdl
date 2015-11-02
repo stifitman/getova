@@ -1,0 +1,21 @@
+_:g2173929320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173929320 <http://xmlns.com/foaf/0.1/page> "http://www.hella.de/" .
+_:g2173929320 <http://purl.org/goodrelations/v1#legalName> "Hella" .
+_:g2173929320 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173851140 .
+_:g2173885040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173885040 <http://purl.org/goodrelations/v1#name> " Auto Innenraum " .
+_:g2173885040 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173929320 .
+_:g2173880940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173880940 <http://purl.org/goodrelations/v1#name> " LED Frontlichter " .
+_:g2173880940 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173929320 .
+_:g2173869300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173869300 <http://purl.org/goodrelations/v1#name> " Auto LED Signalleuchten " .
+_:g2173869300 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173929320 .
+_:g2173851140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173851140 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173851140 <http://www.w3.org/2006/vcard/ns#locality> "Lippstadt" .
+_:g2173851140 <http://www.w3.org/2006/vcard/ns#postal_code> "59552" .
+_:g2173851140 <http://www.w3.org/2006/vcard/ns#street_address> "    Rixbecker Straße 75\n" .
+_:g2173851140 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ hella.com\n" .
+_:g2173849740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173849740 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)2941 - 38 0\n" .

@@ -1,0 +1,26 @@
+_:g2160511940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " lineare LED-Module " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " flächige LED-Module " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " Netzteile " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " KNX/EIB " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " DALI " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " DMX " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " analoge Ansteuerung " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " Wandfluter " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " Möbeleinbauleuchten " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " Lichtfliesen " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " Lichtböden / -decken " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " Bodeneinbauleuchten " .
+_:g2160511940 <http://fitman.sti2.at/company/produces> " LED-Ketten " .
+_:g2160511940 <http://fitman.sti2.at/company/hasSpeciality> " Elektronik " .
+_:g2160511940 <http://fitman.sti2.at/company/hasSpeciality> " Platinenbestückung " .
+_:g2160511940 <http://fitman.sti2.at/company/hasWebsite> "http://www.insta.de" .
+_:g2160511940 <http://fitman.sti2.at/company/hasMail> "    info@ insta.de\n" .
+_:g2160511940 <http://fitman.sti2.at/company/name> "Insta" .
+_:g2160511940 <http://fitman.sti2.at/company/hasLocality> "Lüdenscheid" .
+_:g2160511940 <http://fitman.sti2.at/company/hasStreetAddress> "    Hohe Steinert 10\n" .
+_:g2160511940 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2160511940 <http://fitman.sti2.at/company/postalCode> "58509" .
+_:g2160511940 <http://fitman.sti2.at/company/country> "    Germany\n" .

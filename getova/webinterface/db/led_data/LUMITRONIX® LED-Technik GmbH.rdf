@@ -1,0 +1,36 @@
+_:g2164394100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2164394100 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2164394100 <http://fitman.sti2.at/company/produces> " lineare LED-Module " .
+_:g2164394100 <http://fitman.sti2.at/company/produces> " Möbeleinbauleuchten " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " LED-Module " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " LED " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " LED Ansteuerung " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " LED-Ketten " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " Hochleistungs LED " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " standard LED " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " LED Taschenlampen " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " IR-LED (IRED) " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " UV-LED " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " LED-Optiken " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " Bodeneinbauleuchten " .
+_:g2164394100 <http://fitman.sti2.at/company/sells> " Raumbeleuchtung " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_type> " Einzelhandel (B2C) " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_type> " OnlineShops " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Seoul " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Osram OS " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Cree " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Carclo Technical Plastics Ltd " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Nichia " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " LUMITRONIX® LEDTechnik GmbH " .
+_:g2164394100 <http://fitman.sti2.at/company/hasSpeciality> " Lichtmessung " .
+_:g2164394100 <http://fitman.sti2.at/company/hasSpeciality> " Entwicklung & Fertigung " .
+_:g2164394100 <http://fitman.sti2.at/company/distributed_by> "LUMITRONIX® LEDTechnik GmbH" .
+_:g2164394100 <http://fitman.sti2.at/company/hasWebsite> "http://www.leds.de" .
+_:g2164394100 <http://fitman.sti2.at/company/hasMail> "    mail@ leds.de\n" .
+_:g2164394100 <http://fitman.sti2.at/company/name> "LUMITRONIX® LED-Technik GmbH" .
+_:g2164394100 <http://fitman.sti2.at/company/hasLocality> "Hechingen" .
+_:g2164394100 <http://fitman.sti2.at/company/hasStreetAddress> "    Haigerlocher Str. 42\n" .
+_:g2164394100 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2164394100 <http://fitman.sti2.at/company/postalCode> "72379" .
+_:g2164394100 <http://fitman.sti2.at/company/country> "    Germany\n" .

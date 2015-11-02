@@ -1,0 +1,23 @@
+<%- model_class = IndividualFormat -%>
+<div class="page-header">
+  <h1><%=t '.title', :default => model_class.model_name.human.titleize %></h1>
+</div>
+
+<dl class="dl-horizontal">
+  <dt><strong><%= model_class.human_attribute_name(:name) %>:</strong></dt>
+  <dd><%= @individual_format.name %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:baseToFormat) %>:</strong></dt>
+  <dd><%= @individual_format.baseToFormat %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:formatToBase) %>:</strong></dt>
+  <dd><%= @individual_format.formatToBase %></dd>
+</dl>
+
+<div class="form-actions">
+  <%= link_to t('.back', :default => t("helpers.links.back")),
+              individual_formats_path, :class => 'btn'  %>
+  <%= link_to t('.destroy', :default => t("helpers.links.destroy")),
+              individual_format_path(@individual_format),
+              :method => 'delete',
+              :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) },
+              :class => 'btn btn-danger' %>
+</div>

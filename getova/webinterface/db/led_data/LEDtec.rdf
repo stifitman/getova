@@ -1,0 +1,11 @@
+_:g2174110360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174110360 <http://fitman.sti2.at/company/produces> " lineare LED-Module " .
+_:g2174110360 <http://fitman.sti2.at/company/distributed_by> "Createled Electronnics CoLTD" .
+_:g2174110360 <http://fitman.sti2.at/company/hasWebsite> "http://www.ledtec.eu" .
+_:g2174110360 <http://fitman.sti2.at/company/hasMail> "    info@ ledtec.eu\n" .
+_:g2174110360 <http://fitman.sti2.at/company/name> "LEDtec" .
+_:g2174110360 <http://fitman.sti2.at/company/hasLocality> "Rüthen-Oestereiden" .
+_:g2174110360 <http://fitman.sti2.at/company/hasStreetAddress> "    Dusternweg 10\n" .
+_:g2174110360 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2174110360 <http://fitman.sti2.at/company/postalCode> "59602" .
+_:g2174110360 <http://fitman.sti2.at/company/country> "    Germany\n" .

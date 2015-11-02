@@ -1,0 +1,11 @@
+_:g2173933100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173933100 <http://fitman.sti2.at/company/sells> " LED-Ketten " .
+_:g2173933100 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2173933100 <http://fitman.sti2.at/company/hasWebsite> "http://www.keipp.com/sloanled" .
+_:g2173933100 <http://fitman.sti2.at/company/hasMail> "    \n" .
+_:g2173933100 <http://fitman.sti2.at/company/name> "keipp elektro-bau-technik" .
+_:g2173933100 <http://fitman.sti2.at/company/hasLocality> "Ludwigshafen" .
+_:g2173933100 <http://fitman.sti2.at/company/hasStreetAddress> "    Kaiser-WilhelmStr. 16\n" .
+_:g2173933100 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173933100 <http://fitman.sti2.at/company/postalCode> "67059" .
+_:g2173933100 <http://fitman.sti2.at/company/country> "    Germany\n" .

@@ -1,0 +1,15 @@
+_:g2174227800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174227800 <http://xmlns.com/foaf/0.1/page> "http://www.led2work.de" .
+_:g2174227800 <http://purl.org/goodrelations/v1#legalName> "LED2Work" .
+_:g2174227800 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173945960 .
+_:g2174193780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174193780 <http://purl.org/goodrelations/v1#name> " LED Maschinenleuchten " .
+_:g2174193780 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174227800 .
+_:g2173945960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173945960 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173945960 <http://www.w3.org/2006/vcard/ns#locality> "Pforzheim" .
+_:g2173945960 <http://www.w3.org/2006/vcard/ns#postal_code> "75177" .
+_:g2173945960 <http://www.w3.org/2006/vcard/ns#street_address> "    Klumpensee 7\n" .
+_:g2173945960 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ led2work.de\n" .
+_:g2173934780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173934780 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7231 - 3894123\n" .

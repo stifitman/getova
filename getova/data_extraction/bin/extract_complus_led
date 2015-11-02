@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'data_extraction'
+
+
+puts "Extracting LED"
+
+
+LEDExtraction::CompanyExtractor.new.start(
+  extractor_name: "LED-Companies",
+  command_line: true,
+  files: ARGV
+)

@@ -1,0 +1,10 @@
+_:g2175715080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175715080 <http://fitman.sti2.at/company/hasSpeciality> " Elektronik " .
+_:g2175715080 <http://fitman.sti2.at/company/hasWebsite> "http://www.rapid-e-engineering.de" .
+_:g2175715080 <http://fitman.sti2.at/company/hasMail> "    steffen@ rapid-e-engineering.de\n" .
+_:g2175715080 <http://fitman.sti2.at/company/name> "Rapid-e-Engineering" .
+_:g2175715080 <http://fitman.sti2.at/company/hasLocality> "München" .
+_:g2175715080 <http://fitman.sti2.at/company/hasStreetAddress> "    Biedersteiner Str. 59\n" .
+_:g2175715080 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175715080 <http://fitman.sti2.at/company/postalCode> "80805" .
+_:g2175715080 <http://fitman.sti2.at/company/country> "    Germany\n" .

@@ -1,0 +1,15 @@
+_:g2173721860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173721860 <http://purl.org/goodrelations/v1#offers> _:g2173323480 .
+_:g2173721860 <http://xmlns.com/foaf/0.1/page> "http://www.dayandlight.de" .
+_:g2173721860 <http://purl.org/goodrelations/v1#legalName> "Day & Light" .
+_:g2173721860 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174488300 .
+_:g2173323480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173323480 <http://purl.org/goodrelations/v1#name> " Lichtplanung " .
+_:g2174488300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174488300 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174488300 <http://www.w3.org/2006/vcard/ns#locality> "München" .
+_:g2174488300 <http://www.w3.org/2006/vcard/ns#postal_code> "81541" .
+_:g2174488300 <http://www.w3.org/2006/vcard/ns#street_address> "    Bereiteranger 15\n" .
+_:g2174488300 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ dayandlight.de\n" .
+_:g2174485160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174485160 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)89 - 62146752\n" .

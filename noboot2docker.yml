@@ -1,0 +1,23 @@
+getova:
+  build: getova
+  environment:
+      - rails_server_ip="http://localhost:3000"
+      - elastic_search_ip="http://localhost:9200"
+      - results_folder="results"
+  ports:
+      - "3000:3000"
+  expose:
+      - "3000"
+  command: su -l getova -c "cd ~/webinterface && export JAVA_HOME=/usr/lib/jvm/java-8-oracle/ && export elastic_search_ip=http://192.168.59.103:9300 && export rails_server_ip="http://192.168.59.103:3000" && rails s" 
+  #command: su -l getova -c "cd ~/webinterface && export JAVA_HOME=/usr/lib/jvm/java-8-oracle/ && export elastic_search_ip=http://localhost:9300 && export rails_server_ip="http://localhost:3000" && rails s" 
+elastic:
+  image: elasticsearch
+  ports:
+     - "9200:9200"
+     - "9300:9300"
+  expose:
+     - "9200:9200"
+     - "9300:9300"
+
+
+

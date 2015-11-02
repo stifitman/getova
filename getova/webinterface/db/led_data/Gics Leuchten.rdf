@@ -1,0 +1,10 @@
+_:g2173731660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173731660 <http://fitman.sti2.at/company/produces> " Strassenbeleuchtung " .
+_:g2173731660 <http://fitman.sti2.at/company/hasWebsite> "http://www.gics.de" .
+_:g2173731660 <http://fitman.sti2.at/company/hasMail> "    post@ gics.de\n" .
+_:g2173731660 <http://fitman.sti2.at/company/name> "Gics Leuchten" .
+_:g2173731660 <http://fitman.sti2.at/company/hasLocality> "Hamm" .
+_:g2173731660 <http://fitman.sti2.at/company/hasStreetAddress> "    Am Boonekamp 7\n" .
+_:g2173731660 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173731660 <http://fitman.sti2.at/company/postalCode> "59067" .
+_:g2173731660 <http://fitman.sti2.at/company/country> "    Germany\n" .

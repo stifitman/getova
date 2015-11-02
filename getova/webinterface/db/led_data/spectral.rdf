@@ -1,0 +1,12 @@
+_:g2156868260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2156868260 <http://fitman.sti2.at/company/produces> " Arbeits- und Leseleuchten " .
+_:g2156868260 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2156868260 <http://fitman.sti2.at/company/produces> " Lichtböden / -decken " .
+_:g2156868260 <http://fitman.sti2.at/company/hasWebsite> "http://www.spectral-online.de" .
+_:g2156868260 <http://fitman.sti2.at/company/hasMail> "    info@ spectral-online.de\n" .
+_:g2156868260 <http://fitman.sti2.at/company/name> "spectral" .
+_:g2156868260 <http://fitman.sti2.at/company/hasLocality> "Freiburg" .
+_:g2156868260 <http://fitman.sti2.at/company/hasStreetAddress> "    Bötzinger Straße 31\n" .
+_:g2156868260 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2156868260 <http://fitman.sti2.at/company/postalCode> "79111" .
+_:g2156868260 <http://fitman.sti2.at/company/country> "    Germany\n" .

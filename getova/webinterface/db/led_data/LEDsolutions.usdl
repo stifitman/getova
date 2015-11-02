@@ -1,0 +1,21 @@
+_:g2156491120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156491120 <http://xmlns.com/foaf/0.1/page> "http://www.ledsolutions.de" .
+_:g2156491120 <http://purl.org/goodrelations/v1#legalName> "LEDsolutions" .
+_:g2156491120 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165094300 .
+_:g2156454580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156454580 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2156454580 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156491120 .
+_:g2156443140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156443140 <http://purl.org/goodrelations/v1#name> " Bodeneinbauleuchten " .
+_:g2156443140 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156491120 .
+_:g2156423900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156423900 <http://purl.org/goodrelations/v1#name> " LED-Ketten " .
+_:g2156423900 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156491120 .
+_:g2165094300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165094300 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165094300 <http://www.w3.org/2006/vcard/ns#locality> "Wuppertal" .
+_:g2165094300 <http://www.w3.org/2006/vcard/ns#postal_code> "42119" .
+_:g2165094300 <http://www.w3.org/2006/vcard/ns#street_address> "    Lise-Meitner-Str. 1-9\n" .
+_:g2165094300 <http://www.w3.org/2006/vcard/ns#has_email> "    \n" .
+_:g2165091580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165091580 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)202 - 46 000 68\n" .

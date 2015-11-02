@@ -1,0 +1,35 @@
+<h1>Tanet LinkedIn Use-Case</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Data</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+   <tr>
+     <% randomlinkedin = ["https://www.linkedin.com/in/ioantoma", "https://www.linkedin.com/pub/benjamin-hiltpolt/" ] %>
+      <%= form_tag("/scrape_linkedin", method: "get") do %>
+        <%= text_field_tag 'url', randomlinkedin.sample, size: 150 %>
+        <%=  'Scrape and import LinkedIn profiles' %>
+        <input name="Submit_Linkedin" type="submit" />
+      <% end %>
+   </tr>
+
+    <% @tanet_linkedins.each do |tanet_linkedin| %>
+      <tr>
+        <td><%= tanet_linkedin.name %></td>
+        <td><%= tanet_linkedin.data[0..100] %></td>
+        <td><%= link_to 'Show', tanet_linkedin %></td>
+        <td><%= link_to 'Edit', edit_tanet_linkedin_path(tanet_linkedin) %></td>
+        <td><%= link_to 'Destroy', tanet_linkedin, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+

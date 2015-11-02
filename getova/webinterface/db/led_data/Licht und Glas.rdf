@@ -1,0 +1,10 @@
+_:g2156412160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2156412160 <http://fitman.sti2.at/company/produces> " Lichtwände " .
+_:g2156412160 <http://fitman.sti2.at/company/hasWebsite> "http://www.leuchtwand.de" .
+_:g2156412160 <http://fitman.sti2.at/company/hasMail> "    info@ leuchtwand.de\n" .
+_:g2156412160 <http://fitman.sti2.at/company/name> "Licht und Glas" .
+_:g2156412160 <http://fitman.sti2.at/company/hasLocality> "Berlin" .
+_:g2156412160 <http://fitman.sti2.at/company/hasStreetAddress> "    Wichertstraße 21\n" .
+_:g2156412160 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2156412160 <http://fitman.sti2.at/company/postalCode> "10439" .
+_:g2156412160 <http://fitman.sti2.at/company/country> "    Germany\n" .

@@ -1,0 +1,10 @@
+_:g2164665120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2164665120 <http://fitman.sti2.at/company/distribution_type> " OnlineShops " .
+_:g2164665120 <http://fitman.sti2.at/company/hasWebsite> "http://www.loheide-beleuchtungstechnik.de" .
+_:g2164665120 <http://fitman.sti2.at/company/hasMail> "    info@ loheide-beleuchtungstechnik.de\n" .
+_:g2164665120 <http://fitman.sti2.at/company/name> "Loheide Beleuchtungstechnik" .
+_:g2164665120 <http://fitman.sti2.at/company/hasLocality> "Kirchlinteln" .
+_:g2164665120 <http://fitman.sti2.at/company/hasStreetAddress> "    Eichendorffweg 19\n" .
+_:g2164665120 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2164665120 <http://fitman.sti2.at/company/postalCode> "27308" .
+_:g2164665120 <http://fitman.sti2.at/company/country> "    Germany\n" .

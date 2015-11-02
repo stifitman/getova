@@ -1,0 +1,55 @@
+_:g2175704680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166725620 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166660380 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166657460 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166653960 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166642680 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166639540 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166627960 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166624620 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166621240 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166609360 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2166605960 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2175859580 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2175856260 .
+_:g2175704680 <http://purl.org/goodrelations/v1#offers> _:g2175841720 .
+_:g2175704680 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2175704680 <http://xmlns.com/foaf/0.1/page> "http://www.rutec.de" .
+_:g2175704680 <http://purl.org/goodrelations/v1#legalName> "rutec Licht GmbH + Co. KG" .
+_:g2175704680 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175821860 .
+_:g2166725620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166725620 <http://purl.org/goodrelations/v1#name> " flexible LED-Module " .
+_:g2166660380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166660380 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2166657460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166657460 <http://purl.org/goodrelations/v1#name> " LED-Module " .
+_:g2166653960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166653960 <http://purl.org/goodrelations/v1#name> " gesockelte LED " .
+_:g2166642680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166642680 <http://purl.org/goodrelations/v1#name> " LED-Ketten " .
+_:g2166639540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166639540 <http://purl.org/goodrelations/v1#name> " LED Ansteuerung " .
+_:g2166627960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166627960 <http://purl.org/goodrelations/v1#name> " Netzteile " .
+_:g2166624620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166624620 <http://purl.org/goodrelations/v1#name> " DALI " .
+_:g2166621240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166621240 <http://purl.org/goodrelations/v1#name> " DMX " .
+_:g2166609360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166609360 <http://purl.org/goodrelations/v1#name> " Möbeleinbauleuchten " .
+_:g2166605960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2166605960 <http://purl.org/goodrelations/v1#name> " Bodeneinbauleuchten " .
+_:g2175859580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175859580 <http://purl.org/goodrelations/v1#name> " Unterwasser LED-Leuchten " .
+_:g2175856260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175856260 <http://purl.org/goodrelations/v1#name> " Raumbeleuchtung " .
+_:g2175841720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175841720 <http://purl.org/goodrelations/v1#name> " Lichtplanung " .
+_:g2175821860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175821860 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175821860 <http://www.w3.org/2006/vcard/ns#locality> "Syke" .
+_:g2175821860 <http://www.w3.org/2006/vcard/ns#postal_code> "28857" .
+_:g2175821860 <http://www.w3.org/2006/vcard/ns#street_address> "    Carl-Zeiss-Str. 15\n" .
+_:g2175821860 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ rutec.de\n" .
+_:g2175820700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175820700 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)4242 - 9565 0\n" .

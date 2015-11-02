@@ -1,0 +1,10 @@
+_:g2174044860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174044860 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2174044860 <http://fitman.sti2.at/company/hasWebsite> "http://www.ebv.com" .
+_:g2174044860 <http://fitman.sti2.at/company/hasMail> "    info@ ebv.com\n" .
+_:g2174044860 <http://fitman.sti2.at/company/name> "EBV Elektronik" .
+_:g2174044860 <http://fitman.sti2.at/company/hasLocality> "Poing" .
+_:g2174044860 <http://fitman.sti2.at/company/hasStreetAddress> "    Im Technologiepark 2-8\n" .
+_:g2174044860 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2174044860 <http://fitman.sti2.at/company/postalCode> "85586" .
+_:g2174044860 <http://fitman.sti2.at/company/country> "    Germany\n" .

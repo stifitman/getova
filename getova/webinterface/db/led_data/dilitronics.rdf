@@ -1,0 +1,10 @@
+_:g2173111420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173111420 <http://fitman.sti2.at/company/hasSpeciality> " Elektronik " .
+_:g2173111420 <http://fitman.sti2.at/company/hasWebsite> "http://www.dilitronics.com" .
+_:g2173111420 <http://fitman.sti2.at/company/hasMail> "    contact@ dilitronics.com\n" .
+_:g2173111420 <http://fitman.sti2.at/company/name> "dilitronics" .
+_:g2173111420 <http://fitman.sti2.at/company/hasLocality> "Jena" .
+_:g2173111420 <http://fitman.sti2.at/company/hasStreetAddress> "    Moritz-von-Rohr-Str. 1a\n" .
+_:g2173111420 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173111420 <http://fitman.sti2.at/company/postalCode> "07745" .
+_:g2173111420 <http://fitman.sti2.at/company/country> "    Germany\n" .

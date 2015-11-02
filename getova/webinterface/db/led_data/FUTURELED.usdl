@@ -1,0 +1,49 @@
+_:g2165128800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165128800 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2165128800 <http://purl.org/goodrelations/v1#offers> _:g2156445620 .
+_:g2165128800 <http://purl.org/goodrelations/v1#offers> _:g2156442360 .
+_:g2165128800 <http://purl.org/goodrelations/v1#offers> _:g2156438560 .
+_:g2165128800 <http://xmlns.com/foaf/0.1/page> "http://www.futureled.de" .
+_:g2165128800 <http://purl.org/goodrelations/v1#legalName> "FUTURELED" .
+_:g2165128800 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2156421400 .
+_:g2156524760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156524760 <http://purl.org/goodrelations/v1#name> " UV-LED " .
+_:g2156524760 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156521480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156521480 <http://purl.org/goodrelations/v1#name> " IR-LED (IRED) " .
+_:g2156521480 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156509660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156509660 <http://purl.org/goodrelations/v1#name> " COB-LED " .
+_:g2156509660 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156506120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156506120 <http://purl.org/goodrelations/v1#name> " DMX " .
+_:g2156506120 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156493740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156493740 <http://purl.org/goodrelations/v1#name> " analoge Ansteuerung " .
+_:g2156493740 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156489400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156489400 <http://purl.org/goodrelations/v1#name> " UV LED Medizintechnik " .
+_:g2156489400 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156477600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156477600 <http://purl.org/goodrelations/v1#name> " Hochleistungs LED " .
+_:g2156477600 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156473280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156473280 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2156473280 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156461140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156461140 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2156461140 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165128800 .
+_:g2156445620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156445620 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2156442360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156442360 <http://purl.org/goodrelations/v1#name> " optische Systeme " .
+_:g2156438560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156438560 <http://purl.org/goodrelations/v1#name> " Lichtmessung " .
+_:g2156421400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2156421400 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2156421400 <http://www.w3.org/2006/vcard/ns#locality> "Berlin" .
+_:g2156421400 <http://www.w3.org/2006/vcard/ns#postal_code> "12555" .
+_:g2156421400 <http://www.w3.org/2006/vcard/ns#street_address> "    Köpenickerstr. 325 / Haus 201\n" .
+_:g2156421400 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ futureled.de\n" .
+_:g2156409560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2156409560 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)30 - 577 08\n" .

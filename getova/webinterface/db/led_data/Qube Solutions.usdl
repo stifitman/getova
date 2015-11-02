@@ -1,0 +1,13 @@
+_:g2161247700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2161247700 <http://purl.org/goodrelations/v1#category> " OnlineShops " .
+_:g2161247700 <http://xmlns.com/foaf/0.1/page> "http://www.qube-solutions.de" .
+_:g2161247700 <http://purl.org/goodrelations/v1#legalName> "Qube Solutions" .
+_:g2161247700 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175595560 .
+_:g2175595560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175595560 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175595560 <http://www.w3.org/2006/vcard/ns#locality> "Herrenberg" .
+_:g2175595560 <http://www.w3.org/2006/vcard/ns#postal_code> "71083" .
+_:g2175595560 <http://www.w3.org/2006/vcard/ns#street_address> "    Luitgardweg 18\n" .
+_:g2175595560 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ qube-solutions.de\n" .
+_:g2175594380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175594380 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7032 - 786265\n" .

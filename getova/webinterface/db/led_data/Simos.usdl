@@ -1,0 +1,19 @@
+_:g2165957940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165957940 <http://purl.org/goodrelations/v1#offers> _:g2175405080 .
+_:g2165957940 <http://purl.org/goodrelations/v1#offers> _:g2175402380 .
+_:g2165957940 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2165957940 <http://xmlns.com/foaf/0.1/page> "http://www.simos.de" .
+_:g2165957940 <http://purl.org/goodrelations/v1#legalName> "Simos" .
+_:g2165957940 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2156764660 .
+_:g2175405080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175405080 <http://purl.org/goodrelations/v1#name> " Hochleistungs LED " .
+_:g2175402380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175402380 <http://purl.org/goodrelations/v1#name> " flächige LED-Module " .
+_:g2156764660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2156764660 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2156764660 <http://www.w3.org/2006/vcard/ns#locality> "Dachau" .
+_:g2156764660 <http://www.w3.org/2006/vcard/ns#postal_code> "85221" .
+_:g2156764660 <http://www.w3.org/2006/vcard/ns#street_address> "    Fraunhoferstrasse 9\n" .
+_:g2156764660 <http://www.w3.org/2006/vcard/ns#has_email> "    \n" .
+_:g2156763500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2156763500 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)8131 - 29276 0\n" .

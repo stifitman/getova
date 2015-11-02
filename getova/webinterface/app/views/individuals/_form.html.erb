@@ -1,0 +1,28 @@
+<%= form_for @individual, :html => { :class => 'form-horizontal' } do |f| %>
+  <div class="control-group">
+    <%= f.label :name, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :name, :class => 'text_field' %>
+    </div>
+  </div>
+
+  <div class="control-group">
+      <%= f.label "Format", :class => 'control-label' %>
+    <div class="controls">
+      <%= select :selectformat, :id, IndividualFormat.order(:name).map { |m| m.name }%>
+    </div>
+  </div>
+
+  <div class="control-group">
+      <%= f.label "Content", :class => 'control-label' %>
+    <div class="controls">
+      <%= text_area_tag :icontent, nil, rows: 10, cols: 25%>
+    </div>
+  </div>
+
+  <div class="form-actions">
+    <%= f.submit nil, :class => 'btn btn-primary' %>
+    <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+      individuals_path, :class => 'btn' %>
+    </div>
+  <% end %>

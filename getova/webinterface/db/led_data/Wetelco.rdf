@@ -1,0 +1,10 @@
+_:g2175704060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175704060 <http://fitman.sti2.at/company/produces> " LED Informationssysteme " .
+_:g2175704060 <http://fitman.sti2.at/company/hasWebsite> "http://www.wetelco.de" .
+_:g2175704060 <http://fitman.sti2.at/company/hasMail> "    info@ wetelco.de\n" .
+_:g2175704060 <http://fitman.sti2.at/company/name> "Wetelco" .
+_:g2175704060 <http://fitman.sti2.at/company/hasLocality> "Wallenhorst" .
+_:g2175704060 <http://fitman.sti2.at/company/hasStreetAddress> "    Porschestraße 7c\n" .
+_:g2175704060 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175704060 <http://fitman.sti2.at/company/postalCode> "49134" .
+_:g2175704060 <http://fitman.sti2.at/company/country> "    Germany\n" .

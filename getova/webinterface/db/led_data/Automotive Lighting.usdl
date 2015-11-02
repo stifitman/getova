@@ -1,0 +1,18 @@
+_:g2160199000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2160199000 <http://xmlns.com/foaf/0.1/page> "http://www.al-lighting.de/" .
+_:g2160199000 <http://purl.org/goodrelations/v1#legalName> "Automotive Lighting" .
+_:g2160199000 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2164502120 .
+_:g2164653280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164653280 <http://purl.org/goodrelations/v1#name> " Auto LED Signalleuchten " .
+_:g2164653280 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160199000 .
+_:g2164599420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164599420 <http://purl.org/goodrelations/v1#name> " LED Frontlichter " .
+_:g2164599420 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160199000 .
+_:g2164502120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2164502120 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2164502120 <http://www.w3.org/2006/vcard/ns#locality> "Reutlingen" .
+_:g2164502120 <http://www.w3.org/2006/vcard/ns#postal_code> "72762" .
+_:g2164502120 <http://www.w3.org/2006/vcard/ns#street_address> "    Tübinger Str. 123\n" .
+_:g2164502120 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ al-lighting.com\n" .
+_:g2164498860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2164498860 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7121 - 35 1301\n" .

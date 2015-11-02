@@ -1,0 +1,10 @@
+_:g2165291500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165291500 <http://fitman.sti2.at/company/distribution_type> " OnlineShops " .
+_:g2165291500 <http://fitman.sti2.at/company/hasWebsite> "http://www.led-schmelter.de" .
+_:g2165291500 <http://fitman.sti2.at/company/hasMail> "    info@ led-schmelter.de\n" .
+_:g2165291500 <http://fitman.sti2.at/company/name> "Schmelter LED-Technology" .
+_:g2165291500 <http://fitman.sti2.at/company/hasLocality> "Bestwig" .
+_:g2165291500 <http://fitman.sti2.at/company/hasStreetAddress> "    Fliederweg 26\n" .
+_:g2165291500 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165291500 <http://fitman.sti2.at/company/postalCode> "59909" .
+_:g2165291500 <http://fitman.sti2.at/company/country> "    Germany\n" .

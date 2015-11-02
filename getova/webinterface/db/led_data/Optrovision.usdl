@@ -1,0 +1,15 @@
+_:g2175610000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175610000 <http://xmlns.com/foaf/0.1/page> "http://www.optrovision.de" .
+_:g2175610000 <http://purl.org/goodrelations/v1#legalName> "Optrovision" .
+_:g2175610000 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175670280 .
+_:g2175645540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175645540 <http://purl.org/goodrelations/v1#name> " LED-Optiken " .
+_:g2175645540 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2175610000 .
+_:g2175670280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175670280 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175670280 <http://www.w3.org/2006/vcard/ns#locality> "München" .
+_:g2175670280 <http://www.w3.org/2006/vcard/ns#postal_code> "80333" .
+_:g2175670280 <http://www.w3.org/2006/vcard/ns#street_address> "    Augustenstrasse 13\n" .
+_:g2175670280 <http://www.w3.org/2006/vcard/ns#has_email> "    jung@ optrovision.de\n" .
+_:g2175669120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175669120 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)89 - 512667 84\n" .

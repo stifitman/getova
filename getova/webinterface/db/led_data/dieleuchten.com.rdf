@@ -1,0 +1,15 @@
+_:g2173771280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173771280 <http://fitman.sti2.at/company/produces> " lineare LED-Module " .
+_:g2173771280 <http://fitman.sti2.at/company/produces> " Möbeleinbauleuchten " .
+_:g2173771280 <http://fitman.sti2.at/company/produces> " Wohnaccessoires " .
+_:g2173771280 <http://fitman.sti2.at/company/produces> " Lichtfliesen " .
+_:g2173771280 <http://fitman.sti2.at/company/produces> " sonstige LED Leuchten " .
+_:g2173771280 <http://fitman.sti2.at/company/hasSpeciality> " Elektronik " .
+_:g2173771280 <http://fitman.sti2.at/company/hasWebsite> "http://www.dieleuchten.com" .
+_:g2173771280 <http://fitman.sti2.at/company/hasMail> "    info@ dieleuchten.com\n" .
+_:g2173771280 <http://fitman.sti2.at/company/name> "dieleuchten.com" .
+_:g2173771280 <http://fitman.sti2.at/company/hasLocality> "Freiburg" .
+_:g2173771280 <http://fitman.sti2.at/company/hasStreetAddress> "    Schwaighofstr. 20\n" .
+_:g2173771280 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173771280 <http://fitman.sti2.at/company/postalCode> "79100" .
+_:g2173771280 <http://fitman.sti2.at/company/country> "    Germany\n" .

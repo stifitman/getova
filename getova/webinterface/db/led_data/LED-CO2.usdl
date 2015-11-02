@@ -1,0 +1,13 @@
+_:g2164845560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2164845560 <http://purl.org/goodrelations/v1#category> " Einzelhandel (B2C) " .
+_:g2164845560 <http://xmlns.com/foaf/0.1/page> "http://www.led-co2.de" .
+_:g2164845560 <http://purl.org/goodrelations/v1#legalName> "LED-CO2" .
+_:g2164845560 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2160511160 .
+_:g2160511160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2160511160 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2160511160 <http://www.w3.org/2006/vcard/ns#locality> "Elmshorn" .
+_:g2160511160 <http://www.w3.org/2006/vcard/ns#postal_code> "25335" .
+_:g2160511160 <http://www.w3.org/2006/vcard/ns#street_address> "    Christa-Wehling-Weg 32\n" .
+_:g2160511160 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ LED-CO2.de\n" .
+_:g2160500240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2160500240 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)4121 - 469236\n" .

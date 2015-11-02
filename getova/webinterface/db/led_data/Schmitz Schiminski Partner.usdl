@@ -1,0 +1,15 @@
+_:g2160111520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2160111520 <http://purl.org/goodrelations/v1#offers> _:g2174558020 .
+_:g2160111520 <http://xmlns.com/foaf/0.1/page> "http://www.ssp-design.de" .
+_:g2160111520 <http://purl.org/goodrelations/v1#legalName> "Schmitz Schiminski Partner" .
+_:g2160111520 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174551660 .
+_:g2174558020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174558020 <http://purl.org/goodrelations/v1#name> " Lichtplanung " .
+_:g2174551660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174551660 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174551660 <http://www.w3.org/2006/vcard/ns#locality> "Hildesheim" .
+_:g2174551660 <http://www.w3.org/2006/vcard/ns#postal_code> "31137" .
+_:g2174551660 <http://www.w3.org/2006/vcard/ns#street_address> "    Langer Garten 23 - 25\n" .
+_:g2174551660 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ ssp-design.de\n" .
+_:g2174550500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174550500 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49(0)5121 - 28293 0\n" .

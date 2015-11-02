@@ -1,0 +1,22 @@
+_:g2160464520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2160464520 <http://purl.org/goodrelations/v1#offers> _:g2173933120 .
+_:g2160464520 <http://purl.org/goodrelations/v1#offers> _:g2173919140 .
+_:g2160464520 <http://purl.org/goodrelations/v1#offers> _:g2173915620 .
+_:g2160464520 <http://purl.org/goodrelations/v1#category> " Einzelhandel (B2C) " .
+_:g2160464520 <http://xmlns.com/foaf/0.1/page> "http://www.asmetec.de" .
+_:g2160464520 <http://purl.org/goodrelations/v1#legalName> "Asmetec" .
+_:g2160464520 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2164948000 .
+_:g2173933120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173933120 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2173919140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173919140 <http://purl.org/goodrelations/v1#name> " Raumbeleuchtung " .
+_:g2173915620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173915620 <http://purl.org/goodrelations/v1#name> " sonstige LED Leuchten " .
+_:g2164948000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2164948000 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2164948000 <http://www.w3.org/2006/vcard/ns#locality> "Bolanden" .
+_:g2164948000 <http://www.w3.org/2006/vcard/ns#postal_code> "67295" .
+_:g2164948000 <http://www.w3.org/2006/vcard/ns#street_address> "    Klosterwiesen 10\n" .
+_:g2164948000 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ asmetec.de\n" .
+_:g2164944760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2164944760 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)6352 - 75068 0\n" .

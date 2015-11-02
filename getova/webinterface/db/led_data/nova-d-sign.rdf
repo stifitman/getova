@@ -1,0 +1,12 @@
+_:g2175458640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175458640 <http://fitman.sti2.at/company/produces> " Wandfluter " .
+_:g2175458640 <http://fitman.sti2.at/company/produces> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2175458640 <http://fitman.sti2.at/company/produces> " LED-Kühlung " .
+_:g2175458640 <http://fitman.sti2.at/company/hasWebsite> "http://www.nova-d-sign.de" .
+_:g2175458640 <http://fitman.sti2.at/company/hasMail> "    info@ nova-d-sign.de\n" .
+_:g2175458640 <http://fitman.sti2.at/company/name> "nova-d-sign" .
+_:g2175458640 <http://fitman.sti2.at/company/hasLocality> "Litzendorf" .
+_:g2175458640 <http://fitman.sti2.at/company/hasStreetAddress> "    Am Kayweg 38\n" .
+_:g2175458640 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175458640 <http://fitman.sti2.at/company/postalCode> "96123" .
+_:g2175458640 <http://fitman.sti2.at/company/country> "    Germany\n" .

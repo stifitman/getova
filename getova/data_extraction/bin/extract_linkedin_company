@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require 'data_extraction'
+
+puts "Extracting LED"
+
+LinkedInExtraction::CompanyExtractor.new.start(
+  extractor_name: "LinkedIn Company Extractor",
+  command_line: true,
+  files: ARGV
+)

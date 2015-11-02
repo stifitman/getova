@@ -1,0 +1,10 @@
+_:g2173902620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173902620 <http://fitman.sti2.at/company/distribution_type> " Einzelhandel (B2C) " .
+_:g2173902620 <http://fitman.sti2.at/company/hasWebsite> "http://www.del-ko.de/" .
+_:g2173902620 <http://fitman.sti2.at/company/hasMail> "    info@ del-ko.de\n" .
+_:g2173902620 <http://fitman.sti2.at/company/name> "del-ko" .
+_:g2173902620 <http://fitman.sti2.at/company/hasLocality> "Augsburg" .
+_:g2173902620 <http://fitman.sti2.at/company/hasStreetAddress> "    Von-Richthofen-Str. 38\n" .
+_:g2173902620 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173902620 <http://fitman.sti2.at/company/postalCode> "86159" .
+_:g2173902620 <http://fitman.sti2.at/company/country> "    Germany\n" .

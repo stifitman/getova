@@ -1,0 +1,15 @@
+_:g2165303720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165303720 <http://purl.org/goodrelations/v1#offers> _:g2165259940 .
+_:g2165303720 <http://xmlns.com/foaf/0.1/page> "http://www.instrumentsystems.com" .
+_:g2165303720 <http://purl.org/goodrelations/v1#legalName> "Instrument Systems" .
+_:g2165303720 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165240160 .
+_:g2165259940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2165259940 <http://purl.org/goodrelations/v1#name> " Lichtmessung " .
+_:g2165240160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165240160 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165240160 <http://www.w3.org/2006/vcard/ns#locality> "München" .
+_:g2165240160 <http://www.w3.org/2006/vcard/ns#postal_code> "81673" .
+_:g2165240160 <http://www.w3.org/2006/vcard/ns#street_address> "    Neumarkter Str. 83\n" .
+_:g2165240160 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ instrumentsystems.com\n" .
+_:g2165237940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165237940 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)89 - 454943 0\n" .

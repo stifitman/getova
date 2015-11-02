@@ -1,0 +1,10 @@
+_:g2165795240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165795240 <http://fitman.sti2.at/company/produces> " COB-LED " .
+_:g2165795240 <http://fitman.sti2.at/company/hasWebsite> "http://www.microconnect.de" .
+_:g2165795240 <http://fitman.sti2.at/company/hasMail> "    info@ microconnect.de\n" .
+_:g2165795240 <http://fitman.sti2.at/company/name> "microconnect" .
+_:g2165795240 <http://fitman.sti2.at/company/hasLocality> "Allensbach" .
+_:g2165795240 <http://fitman.sti2.at/company/hasStreetAddress> "    Kaltbrunnerstraße 24\n" .
+_:g2165795240 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165795240 <http://fitman.sti2.at/company/postalCode> "78476" .
+_:g2165795240 <http://fitman.sti2.at/company/country> "    Germany\n" .

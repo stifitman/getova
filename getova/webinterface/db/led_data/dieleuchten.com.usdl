@@ -1,0 +1,30 @@
+_:g2173771280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173771280 <http://purl.org/goodrelations/v1#offers> _:g2165317820 .
+_:g2173771280 <http://xmlns.com/foaf/0.1/page> "http://www.dieleuchten.com" .
+_:g2173771280 <http://purl.org/goodrelations/v1#legalName> "dieleuchten.com" .
+_:g2173771280 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165302100 .
+_:g2165374780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165374780 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2165374780 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173771280 .
+_:g2165370600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165370600 <http://purl.org/goodrelations/v1#name> " Möbeleinbauleuchten " .
+_:g2165370600 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173771280 .
+_:g2165356740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165356740 <http://purl.org/goodrelations/v1#name> " Wohnaccessoires " .
+_:g2165356740 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173771280 .
+_:g2165334220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165334220 <http://purl.org/goodrelations/v1#name> " Lichtfliesen " .
+_:g2165334220 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173771280 .
+_:g2165322900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165322900 <http://purl.org/goodrelations/v1#name> " sonstige LED Leuchten " .
+_:g2165322900 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173771280 .
+_:g2165317820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2165317820 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2165302100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165302100 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165302100 <http://www.w3.org/2006/vcard/ns#locality> "Freiburg" .
+_:g2165302100 <http://www.w3.org/2006/vcard/ns#postal_code> "79100" .
+_:g2165302100 <http://www.w3.org/2006/vcard/ns#street_address> "    Schwaighofstr. 20\n" .
+_:g2165302100 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ dieleuchten.com\n" .
+_:g2165292640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165292640 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)761 - 7074042\n" .

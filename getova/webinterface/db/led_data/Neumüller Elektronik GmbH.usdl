@@ -1,0 +1,19 @@
+_:g2175406780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175406780 <http://purl.org/goodrelations/v1#offers> _:g2156763340 .
+_:g2175406780 <http://purl.org/goodrelations/v1#offers> _:g2156760680 .
+_:g2175406780 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2175406780 <http://xmlns.com/foaf/0.1/page> "http://www.neumueller.com" .
+_:g2175406780 <http://purl.org/goodrelations/v1#legalName> "Neumüller Elektronik GmbH" .
+_:g2175406780 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2166033080 .
+_:g2156763340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156763340 <http://purl.org/goodrelations/v1#name> " standard LED " .
+_:g2156760680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156760680 <http://purl.org/goodrelations/v1#name> " Hochleistungs LED " .
+_:g2166033080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2166033080 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2166033080 <http://www.w3.org/2006/vcard/ns#locality> "Markt" .
+_:g2166033080 <http://www.w3.org/2006/vcard/ns#postal_code> "85570" .
+_:g2166033080 <http://www.w3.org/2006/vcard/ns#street_address> "    Henleinstr. 1\n" .
+_:g2166033080 <http://www.w3.org/2006/vcard/ns#has_email> "    o.kafka@ neumueller.com\n" .
+_:g2166031920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2166031920 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)8121 - 2583 31\n" .

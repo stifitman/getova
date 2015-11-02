@@ -1,0 +1,15 @@
+_:g2174226920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174226920 <http://xmlns.com/foaf/0.1/page> "http://www.verysol.de" .
+_:g2174226920 <http://purl.org/goodrelations/v1#legalName> "VerySol" .
+_:g2174226920 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173944280 .
+_:g2174193220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174193220 <http://purl.org/goodrelations/v1#name> " Strassenbeleuchtung " .
+_:g2174193220 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174226920 .
+_:g2173944280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173944280 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173944280 <http://www.w3.org/2006/vcard/ns#locality> "Dortmund" .
+_:g2173944280 <http://www.w3.org/2006/vcard/ns#postal_code> "44139" .
+_:g2173944280 <http://www.w3.org/2006/vcard/ns#street_address> "    Sonnenstr. 84\n" .
+_:g2173944280 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ verysol.de\n" .
+_:g2173933820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173933820 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49(0)231 - 1772412\n" .

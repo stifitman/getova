@@ -1,0 +1,15 @@
+_:g2174407000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174407000 <http://purl.org/goodrelations/v1#offers> _:g2174370840 .
+_:g2174407000 <http://xmlns.com/foaf/0.1/page> "http://www.lucas-jena.de" .
+_:g2174407000 <http://purl.org/goodrelations/v1#legalName> "Lucas components GmbH" .
+_:g2174407000 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174355380 .
+_:g2174370840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174370840 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2174355380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174355380 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174355380 <http://www.w3.org/2006/vcard/ns#locality> "Jena" .
+_:g2174355380 <http://www.w3.org/2006/vcard/ns#postal_code> "07745" .
+_:g2174355380 <http://www.w3.org/2006/vcard/ns#street_address> "    Hermann-Löns-Str. 2\n" .
+_:g2174355380 <http://www.w3.org/2006/vcard/ns#has_email> "    andreas.schmidt@ lucas-jena.de\n" .
+_:g2174354200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174354200 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)3641 - 6686 138\n" .

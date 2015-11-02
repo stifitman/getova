@@ -1,0 +1,43 @@
+<htttp://sti2.at/test/TEST_CV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#CV> .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#aboutPerson> _:g2162655320 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasSkill> _:g2162038140 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasSkill> _:g2161973040 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasSkill> _:g2161004820 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasEducation> _:g2161384120 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasEducation> _:g2160441160 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasEducation> _:g2161774580 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#studiedIn> _:g2161379520 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#studiedIn> _:g2164280560 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#studiedIn> _:g2161771340 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasWorkHistory> _:g2162166700 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#hasWorkHistory> _:g2160676040 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#employedIn> _:g2162187200 .
+<htttp://sti2.at/test/TEST_CV> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#employedIn> _:g2160696060 .
+_:g2162655320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Person> .
+_:g2162655320 <http://xmlns.com/foaf/0.1/firstName> "Sankar" .
+_:g2162655320 <http://xmlns.com/foaf/0.1/lastName> "reddy" .
+_:g2162655320 <http://kaste.lv/~captsolo/semweb/resume/base.rdfs#gender> "male" .
+_:g2162038140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Skill> .
+_:g2162038140 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#skillName> "Platforms: Windows xp/98/95,2000,NT, Red hat Linux (9.0, ES, WS)\n" .
+_:g2161973040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Skill> .
+_:g2161973040 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#skillName> "Concepts: networking, operating systems\n" .
+_:g2161004820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Skill> .
+_:g2161004820 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#skillName> "Languages: C, C , CORE JAVA, VB 6.0,UNIX shell scripts, HTML\n" .
+_:g2161384120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Education> .
+_:g2161384120 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Notes> "B.TECH (Information Technology)\nPercentage scored: 67%\n" .
+_:g2161379520 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Name> "Maharaja Engineering College " .
+_:g2161379520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#EducationalOrg> .
+_:g2160441160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Education> .
+_:g2160441160 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Notes> "Percentage scored: 88%\n" .
+_:g2164280560 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Name> "Ganga Higher Secondary School " .
+_:g2164280560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#EducationalOrg> .
+_:g2161774580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Education> .
+_:g2161774580 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Notes> "Percentage scored: 68%\n" .
+_:g2161771340 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Name> "Boys Higher Secondary School " .
+_:g2161771340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#EducationalOrg> .
+_:g2162166700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#WorkHistory> .
+_:g2162166700 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#jobDescription> "Creating a Manual Dictionary in V.B. 6.\n" .
+_:g2162187200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Company> .
+_:g2160676040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#WorkHistory> .
+_:g2160676040 <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#jobDescription> "Expertise in: Installing Red hat Linux configuring servers (DNS, FTP, NFS, NIS, SAMBA, APACHE, DHCP, MAIL), Trouble shooting, user permissions (LVM)\nBrain-bench certified Linux Assessment #T20110714001A\n" .
+_:g2160696060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#Company> .

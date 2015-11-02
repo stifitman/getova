@@ -1,0 +1,22 @@
+_:g2165128800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " UV-LED " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " IR-LED (IRED) " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " COB-LED " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " DMX " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " analoge Ansteuerung " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " UV LED Medizintechnik " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " Hochleistungs LED " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " lineare LED-Module " .
+_:g2165128800 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2165128800 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2165128800 <http://fitman.sti2.at/company/hasSpeciality> " Elektronik " .
+_:g2165128800 <http://fitman.sti2.at/company/hasSpeciality> " optische Systeme " .
+_:g2165128800 <http://fitman.sti2.at/company/hasSpeciality> " Lichtmessung " .
+_:g2165128800 <http://fitman.sti2.at/company/hasWebsite> "http://www.futureled.de" .
+_:g2165128800 <http://fitman.sti2.at/company/hasMail> "    info@ futureled.de\n" .
+_:g2165128800 <http://fitman.sti2.at/company/name> "FUTURELED" .
+_:g2165128800 <http://fitman.sti2.at/company/hasLocality> "Berlin" .
+_:g2165128800 <http://fitman.sti2.at/company/hasStreetAddress> "    Köpenickerstr. 325 / Haus 201\n" .
+_:g2165128800 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165128800 <http://fitman.sti2.at/company/postalCode> "12555" .
+_:g2165128800 <http://fitman.sti2.at/company/country> "    Germany\n" .

@@ -1,0 +1,10 @@
+_:g2165273280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165273280 <http://fitman.sti2.at/company/produces> " Platinen " .
+_:g2165273280 <http://fitman.sti2.at/company/hasWebsite> "http://www.bergquist.de" .
+_:g2165273280 <http://fitman.sti2.at/company/hasMail> "    info@ bergquist.de\n" .
+_:g2165273280 <http://fitman.sti2.at/company/name> "Bergquist-ITC" .
+_:g2165273280 <http://fitman.sti2.at/company/hasLocality> "Pinneberg" .
+_:g2165273280 <http://fitman.sti2.at/company/hasStreetAddress> "    Haderslebenerstr. 19a\n" .
+_:g2165273280 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165273280 <http://fitman.sti2.at/company/postalCode> "25421" .
+_:g2165273280 <http://fitman.sti2.at/company/country> "    Germany\n" .

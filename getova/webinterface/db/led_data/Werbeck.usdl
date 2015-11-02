@@ -1,0 +1,13 @@
+_:g2164389460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2164389460 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2164389460 <http://xmlns.com/foaf/0.1/page> "http://www.werbeck.de" .
+_:g2164389460 <http://purl.org/goodrelations/v1#legalName> "Werbeck" .
+_:g2164389460 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2172902220 .
+_:g2172902220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2172902220 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2172902220 <http://www.w3.org/2006/vcard/ns#locality> "Hamburg" .
+_:g2172902220 <http://www.w3.org/2006/vcard/ns#postal_code> "20357" .
+_:g2172902220 <http://www.w3.org/2006/vcard/ns#street_address> "    Agathenstraße 10\n" .
+_:g2172902220 <http://www.w3.org/2006/vcard/ns#has_email> "    eyeleds@ werbeck.de\n" .
+_:g2172716460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2172716460 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)40 - 441626\n" .

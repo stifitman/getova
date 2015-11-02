@@ -1,0 +1,15 @@
+_:g2156412160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156412160 <http://xmlns.com/foaf/0.1/page> "http://www.leuchtwand.de" .
+_:g2156412160 <http://purl.org/goodrelations/v1#legalName> "Licht und Glas" .
+_:g2156412160 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165030360 .
+_:g2165062060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165062060 <http://purl.org/goodrelations/v1#name> " Lichtwände " .
+_:g2165062060 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156412160 .
+_:g2165030360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165030360 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165030360 <http://www.w3.org/2006/vcard/ns#locality> "Berlin" .
+_:g2165030360 <http://www.w3.org/2006/vcard/ns#postal_code> "10439" .
+_:g2165030360 <http://www.w3.org/2006/vcard/ns#street_address> "    Wichertstraße 21\n" .
+_:g2165030360 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ leuchtwand.de\n" .
+_:g2165023940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165023940 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)30 - 436596 38\n" .

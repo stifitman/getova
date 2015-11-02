@@ -1,0 +1,11 @@
+<% unless @clusterresult.nil? %>
+  <visualization></visualization>
+<%= render "companies/visual_cluster" %>
+<pre>  <%= @clusterresult %>  </pre>
+<% else %>
+  <%= "Clustering is currently happening"%>
+<% end %>
+
+<FORM>
+  <INPUT TYPE="button" onClick="history.go(0)" VALUE="Refresh">
+</FORM>

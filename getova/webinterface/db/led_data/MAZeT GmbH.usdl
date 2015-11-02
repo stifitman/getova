@@ -1,0 +1,21 @@
+_:g2165500400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165500400 <http://purl.org/goodrelations/v1#offers> _:g2160774220 .
+_:g2165500400 <http://purl.org/goodrelations/v1#offers> _:g2160771540 .
+_:g2165500400 <http://purl.org/goodrelations/v1#offers> _:g2160817980 .
+_:g2165500400 <http://xmlns.com/foaf/0.1/page> "http://www.mazet.de" .
+_:g2165500400 <http://purl.org/goodrelations/v1#legalName> "MAZeT GmbH" .
+_:g2165500400 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174934600 .
+_:g2160774220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160774220 <http://purl.org/goodrelations/v1#name> " Entwicklung & Fertigung " .
+_:g2160771540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160771540 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2160817980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160817980 <http://purl.org/goodrelations/v1#name> " Platinenbestückung " .
+_:g2174934600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174934600 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174934600 <http://www.w3.org/2006/vcard/ns#locality> "Jena" .
+_:g2174934600 <http://www.w3.org/2006/vcard/ns#postal_code> "07745" .
+_:g2174934600 <http://www.w3.org/2006/vcard/ns#street_address> "    Göschwitzer Str. 32\n" .
+_:g2174934600 <http://www.w3.org/2006/vcard/ns#has_email> "    sales@ mazet.de\n" .
+_:g2174933440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174933440 <http://www.w3.org/2006/vcard/ns#hasValue> "    03641 2809-0\n" .

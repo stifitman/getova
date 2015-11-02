@@ -1,0 +1,15 @@
+_:g2173111420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173111420 <http://purl.org/goodrelations/v1#offers> _:g2160318760 .
+_:g2173111420 <http://xmlns.com/foaf/0.1/page> "http://www.dilitronics.com" .
+_:g2173111420 <http://purl.org/goodrelations/v1#legalName> "dilitronics" .
+_:g2173111420 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2164750040 .
+_:g2160318760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160318760 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2164750040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2164750040 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2164750040 <http://www.w3.org/2006/vcard/ns#locality> "Jena" .
+_:g2164750040 <http://www.w3.org/2006/vcard/ns#postal_code> "07745" .
+_:g2164750040 <http://www.w3.org/2006/vcard/ns#street_address> "    Moritz-von-Rohr-Str. 1a\n" .
+_:g2164750040 <http://www.w3.org/2006/vcard/ns#has_email> "    contact@ dilitronics.com\n" .
+_:g2164735720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2164735720 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)3641 - 875757 0\n" .

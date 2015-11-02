@@ -1,0 +1,12 @@
+_:g2174419840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174419840 <http://fitman.sti2.at/company/produces> " flexible LED-Module " .
+_:g2174419840 <http://fitman.sti2.at/company/produces> " gesockelte LED " .
+_:g2174419840 <http://fitman.sti2.at/company/produces> " sonstige Komponenten " .
+_:g2174419840 <http://fitman.sti2.at/company/hasWebsite> "http://www.barthelme.de" .
+_:g2174419840 <http://fitman.sti2.at/company/hasMail> "    info@ barthelme.de\n" .
+_:g2174419840 <http://fitman.sti2.at/company/name> "Barthelme" .
+_:g2174419840 <http://fitman.sti2.at/company/hasLocality> "Nürnberg" .
+_:g2174419840 <http://fitman.sti2.at/company/hasStreetAddress> "    Oedenberger Str. 149\n" .
+_:g2174419840 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2174419840 <http://fitman.sti2.at/company/postalCode> "90491" .
+_:g2174419840 <http://fitman.sti2.at/company/country> "    Germany\n" .

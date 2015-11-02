@@ -1,0 +1,15 @@
+_:g2175854660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175854660 <http://xmlns.com/foaf/0.1/page> "http://www.osa-opto.com" .
+_:g2175854660 <http://purl.org/goodrelations/v1#legalName> "OSA Opto Light GmbH" .
+_:g2175854660 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2166641240 .
+_:g2166624700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2166624700 <http://purl.org/goodrelations/v1#name> " standard LED " .
+_:g2166624700 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2175854660 .
+_:g2166641240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2166641240 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2166641240 <http://www.w3.org/2006/vcard/ns#locality> "Berlin" .
+_:g2166641240 <http://www.w3.org/2006/vcard/ns#postal_code> "12555" .
+_:g2166641240 <http://www.w3.org/2006/vcard/ns#street_address> "    Köpenicker Str. 325 / Haus 201\n" .
+_:g2166641240 <http://www.w3.org/2006/vcard/ns#has_email> "    contact@ osa-opto.com\n" .
+_:g2166640080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2166640080 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)30 - 65762683\n" .

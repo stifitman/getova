@@ -1,0 +1,21 @@
+_:g2156524020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156524020 <http://xmlns.com/foaf/0.1/page> "http://www.waldmann.com/" .
+_:g2156524020 <http://purl.org/goodrelations/v1#legalName> "WaldmannÜber Waldmann" .
+_:g2156524020 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2156445620 .
+_:g2156487180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156487180 <http://purl.org/goodrelations/v1#name> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2156487180 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156524020 .
+_:g2156475260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156475260 <http://purl.org/goodrelations/v1#name> " Arbeits- und Leseleuchten " .
+_:g2156475260 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156524020 .
+_:g2156471780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156471780 <http://purl.org/goodrelations/v1#name> " LED Maschinenleuchten " .
+_:g2156471780 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156524020 .
+_:g2156445620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2156445620 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2156445620 <http://www.w3.org/2006/vcard/ns#locality> "Villingen-Schwenningen" .
+_:g2156445620 <http://www.w3.org/2006/vcard/ns#postal_code> "78056" .
+_:g2156445620 <http://www.w3.org/2006/vcard/ns#street_address> "    Peter-Henlein-Strasse 5\n" .
+_:g2156445620 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ waldmann.com\n" .
+_:g2156444380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2156444380 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7720 - 601 100\n" .

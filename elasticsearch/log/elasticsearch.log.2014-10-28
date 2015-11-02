@@ -1,0 +1,640 @@
+[2014-10-28 05:01:51,147][DEBUG][action.search.type       ] [Death Adder] [companies][2], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@60c815fa] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][2]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:51,147][DEBUG][action.search.type       ] [Death Adder] [companies][1], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@60c815fa]
+org.elasticsearch.search.SearchParseException: [companies][1]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:51,152][DEBUG][action.search.type       ] [Death Adder] All shards failed for phase: [query]
+[2014-10-28 05:01:51,147][DEBUG][action.search.type       ] [Death Adder] [companies][4], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@60c815fa] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][4]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:51,147][DEBUG][action.search.type       ] [Death Adder] [companies][0], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@60c815fa] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][0]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:51,147][DEBUG][action.search.type       ] [Death Adder] [companies][3], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@60c815fa] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][3]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:57,194][DEBUG][action.search.type       ] [Death Adder] [companies][4], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@4f35aa51] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][4]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:57,194][DEBUG][action.search.type       ] [Death Adder] [companies][3], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@4f35aa51] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][3]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:57,194][DEBUG][action.search.type       ] [Death Adder] [companies][0], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@4f35aa51] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][0]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:57,194][DEBUG][action.search.type       ] [Death Adder] [companies][1], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@4f35aa51] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][1]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:57,196][DEBUG][action.search.type       ] [Death Adder] [companies][2], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@4f35aa51]
+org.elasticsearch.search.SearchParseException: [companies][2]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:01:57,200][DEBUG][action.search.type       ] [Death Adder] All shards failed for phase: [query]
+[2014-10-28 05:02:17,650][DEBUG][action.search.type       ] [Death Adder] [companies][4], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6b1d1609] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][4]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:02:17,650][DEBUG][action.search.type       ] [Death Adder] [companies][2], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6b1d1609]
+org.elasticsearch.search.SearchParseException: [companies][2]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:02:17,652][DEBUG][action.search.type       ] [Death Adder] All shards failed for phase: [query]
+[2014-10-28 05:02:17,650][DEBUG][action.search.type       ] [Death Adder] [companies][3], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6b1d1609] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][3]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:02:17,650][DEBUG][action.search.type       ] [Death Adder] [companies][1], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6b1d1609] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][1]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:02:17,650][DEBUG][action.search.type       ] [Death Adder] [companies][0], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6b1d1609] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][0]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalcode","hasWebsite"],"like_text":null,"max_query_terms":"4"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 05:58:52,900][INFO ][cluster.metadata         ] [Death Adder] [tags] deleting index
+[2014-10-28 06:00:02,458][INFO ][cluster.metadata         ] [Death Adder] [tags] creating index, cause [auto(index api)], shards [5]/[1], mappings []
+[2014-10-28 06:00:03,588][INFO ][cluster.metadata         ] [Death Adder] [tags] update_mapping [tag] (dynamic)
+[2014-10-28 06:01:42,849][INFO ][cluster.metadata         ] [Death Adder] [companies] update_mapping [rdf] (dynamic)
+[2014-10-28 06:49:11,821][DEBUG][action.search.type       ] [Death Adder] [companies][2], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6ac3ef85] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][2]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:11,822][DEBUG][action.search.type       ] [Death Adder] [companies][1], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6ac3ef85]
+org.elasticsearch.search.SearchParseException: [companies][1]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:11,824][DEBUG][action.search.type       ] [Death Adder] All shards failed for phase: [query]
+[2014-10-28 06:49:11,822][DEBUG][action.search.type       ] [Death Adder] [companies][0], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6ac3ef85] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][0]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:11,821][DEBUG][action.search.type       ] [Death Adder] [companies][3], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6ac3ef85] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][3]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:11,821][DEBUG][action.search.type       ] [Death Adder] [companies][4], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@6ac3ef85] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][4]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:20,509][DEBUG][action.search.type       ] [Death Adder] [companies][4], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@65125acc] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][4]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:20,509][DEBUG][action.search.type       ] [Death Adder] [companies][0], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@65125acc]
+org.elasticsearch.search.SearchParseException: [companies][0]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:20,511][DEBUG][action.search.type       ] [Death Adder] All shards failed for phase: [query]
+[2014-10-28 06:49:20,509][DEBUG][action.search.type       ] [Death Adder] [companies][2], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@65125acc] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][2]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:20,509][DEBUG][action.search.type       ] [Death Adder] [companies][1], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@65125acc] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][1]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 06:49:20,509][DEBUG][action.search.type       ] [Death Adder] [companies][3], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@65125acc] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][3]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 10:30:56,054][DEBUG][action.search.type       ] [Death Adder] [companies][4], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@53c867ca] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][4]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 10:30:56,056][DEBUG][action.search.type       ] [Death Adder] [companies][1], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@53c867ca]
+org.elasticsearch.search.SearchParseException: [companies][1]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 10:30:56,058][DEBUG][action.search.type       ] [Death Adder] All shards failed for phase: [query]
+[2014-10-28 10:30:56,056][DEBUG][action.search.type       ] [Death Adder] [companies][0], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@53c867ca] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][0]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 10:30:56,054][DEBUG][action.search.type       ] [Death Adder] [companies][3], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@53c867ca] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][3]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more
+[2014-10-28 10:30:56,054][DEBUG][action.search.type       ] [Death Adder] [companies][2], node[a44GCJlpRCe5Qu2fzxgjsw], [P], s[STARTED]: Failed to execute [org.elasticsearch.action.search.SearchRequest@53c867ca] lastShard [true]
+org.elasticsearch.search.SearchParseException: [companies][2]: from[-1],size[-1]: Parse Failure [Failed to parse source [{"query":{"fuzzy_like_this":{"fields":["c:name","c:produces","c:sells","c:distribution_for","c:hasLocality","c:locatedInRegion","c:hasSpeciality","c:country","c:distributed_by","c:distribution_for","c:distribution_type","c:postalCode","c:hasWebsite","c:hasStreetAddress","c:hasMail"],"like_text":null,"max_query_terms":"30"}}}]]
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:664)
+	at org.elasticsearch.search.SearchService.createContext(SearchService.java:515)
+	at org.elasticsearch.search.SearchService.createAndPutContext(SearchService.java:487)
+	at org.elasticsearch.search.SearchService.executeQueryPhase(SearchService.java:256)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:206)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$5.call(SearchServiceTransportAction.java:203)
+	at org.elasticsearch.search.action.SearchServiceTransportAction$23.run(SearchServiceTransportAction.java:517)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.elasticsearch.index.query.QueryParsingException: [companies] fuzzy_like_this requires 'like_text' to be specified
+	at org.elasticsearch.index.query.FuzzyLikeThisQueryParser.parse(FuzzyLikeThisQueryParser.java:118)
+	at org.elasticsearch.index.query.QueryParseContext.parseInnerQuery(QueryParseContext.java:234)
+	at org.elasticsearch.index.query.IndexQueryParserService.innerParse(IndexQueryParserService.java:342)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:268)
+	at org.elasticsearch.index.query.IndexQueryParserService.parse(IndexQueryParserService.java:263)
+	at org.elasticsearch.search.query.QueryParseElement.parse(QueryParseElement.java:33)
+	at org.elasticsearch.search.SearchService.parseSource(SearchService.java:648)
+	... 9 more

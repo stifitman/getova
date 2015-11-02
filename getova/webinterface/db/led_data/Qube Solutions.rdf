@@ -1,0 +1,10 @@
+_:g2161247700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2161247700 <http://fitman.sti2.at/company/distribution_type> " OnlineShops " .
+_:g2161247700 <http://fitman.sti2.at/company/hasWebsite> "http://www.qube-solutions.de" .
+_:g2161247700 <http://fitman.sti2.at/company/hasMail> "    info@ qube-solutions.de\n" .
+_:g2161247700 <http://fitman.sti2.at/company/name> "Qube Solutions" .
+_:g2161247700 <http://fitman.sti2.at/company/hasLocality> "Herrenberg" .
+_:g2161247700 <http://fitman.sti2.at/company/hasStreetAddress> "    Luitgardweg 18\n" .
+_:g2161247700 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2161247700 <http://fitman.sti2.at/company/postalCode> "71083" .
+_:g2161247700 <http://fitman.sti2.at/company/country> "    Germany\n" .

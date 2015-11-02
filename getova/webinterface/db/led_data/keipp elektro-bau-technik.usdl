@@ -1,0 +1,16 @@
+_:g2173933100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173933100 <http://purl.org/goodrelations/v1#offers> _:g2173895900 .
+_:g2173933100 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2173933100 <http://xmlns.com/foaf/0.1/page> "http://www.keipp.com/sloanled" .
+_:g2173933100 <http://purl.org/goodrelations/v1#legalName> "keipp elektro-bau-technik" .
+_:g2173933100 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173866380 .
+_:g2173895900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173895900 <http://purl.org/goodrelations/v1#name> " LED-Ketten " .
+_:g2173866380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173866380 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173866380 <http://www.w3.org/2006/vcard/ns#locality> "Ludwigshafen" .
+_:g2173866380 <http://www.w3.org/2006/vcard/ns#postal_code> "67059" .
+_:g2173866380 <http://www.w3.org/2006/vcard/ns#street_address> "    Kaiser-WilhelmStr. 16\n" .
+_:g2173866380 <http://www.w3.org/2006/vcard/ns#has_email> "    \n" .
+_:g2173865100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173865100 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)621 - 52054 26\n" .

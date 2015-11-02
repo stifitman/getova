@@ -1,0 +1,2529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>A2B Plastics Ltd</LegalName>
+    <Description />
+    <Website>www.a2bplastics.co.uk</Website>
+    <LegalAddress>Swan Road
+Mochdre Business Park
+, Colwyn Bay, LL28 5HB</LegalAddress>
+    <HQAddress>Colwyn Bay, LL28 5HB</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Decorative Trim Decals Materials Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.325</ClassValue>
+              <Label>Decorative Trim Decals Materials</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Actemium</LegalName>
+    <Description />
+    <Website>www.actemium.co.uk</Website>
+    <LegalAddress>Pant Industrial Estate
+Dowlais
+, Merthyr Tydfil, CF48 2SS</LegalAddress>
+    <HQAddress>Merthyr Tydfil, CF48 2SS</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Industrial Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3212</ClassValue>
+              <Label>Industrial Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Allevard Springs</LegalName>
+    <Description>Suspension springs for cars and light vans</Description>
+    <Website>www.sogefigroup.com</Website>
+    <LegalAddress>Cambrian Industrial Park
+Clydach Vale
+Tonypandy
+, Rhondda, CF40 2XX</LegalAddress>
+    <HQAddress>Rhondda, CF40 2XX</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Suspension Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3229</ClassValue>
+              <Label>Suspension Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>ASTUTE - Advanced Sustainable Manufacturing Technologies</LegalName>
+    <Description>ASTUTE is a project for the manufacturing industry in the Welsh convergence area. It has been part-funded by the EU’s Convergence European Regional Development Fund through the Welsh Government. The partnership of 8 Universities across Wales brings expertise in engineering, science and business to support Welsh companies to grow by adopting advanced design and manufacturing technologies and improve their sustainability by reducing their environmental impact </Description>
+    <Website>www.astutewales.com</Website>
+    <LegalAddress>ASTUTE Project Office, Digital Technium
+Swansea University
+Singleton Park, Swansea, SA2 8PP</LegalAddress>
+    <HQAddress>Swansea, SA2 8PP</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Research and Development Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3223</ClassValue>
+              <Label>Research and Development</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Atebion Software Ltd</LegalName>
+    <Description />
+    <Website>www,atebionsoftware.com</Website>
+    <LegalAddress>Business Development Centre
+Main Avenue
+Treforest Industrial Estate, Pontypridd, CF37 5UR</LegalAddress>
+    <HQAddress>Pontypridd, CF37 5UR</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Industrial Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3212</ClassValue>
+              <Label>Industrial Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Anglesey Circuit / Trac Môn</LegalName>
+    <Description>Fully licensed MSA and ACU racing circuit with four configurations available, International Circuit (2.1 miles), Coastal Circuit (1.55 miles), National Circuit (1.2 miles) &amp; Club Circuit (0.8 miles) – the National and Club circuits can be operated simultaneously. Pit complex includes a state of the art three storey control building and 22 pit garages capable of accommodating 44 cars and over 80 motorcycles. In house ARDS licensed Performance Driving Centre offering experience days, corporate days and race training</Description>
+    <Website>www.angleseycircuit.com</Website>
+    <LegalAddress>Ty Croes
+
+, Anglesey, LL63 5TG</LegalAddress>
+    <HQAddress>Anglesey, LL63 5TG</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Motorsport Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3217</ClassValue>
+              <Label>Motorsport</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Avalon Plastics South Wales</LegalName>
+    <Description />
+    <Website>www.avalonplasticssouthwales.co.uk</Website>
+    <LegalAddress>Unit 6&amp;7 Penallta Industrial Estate, Hengoed, CF82 7SW</LegalAddress>
+    <HQAddress>Hengoed, CF82 7SW</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Plastic Injection Mouldings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3219</ClassValue>
+              <Label>Plastic Injection Mouldings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Applied Component Technologies (ACT)</LegalName>
+    <Description>Safety barrier nets, Sunblinds, Loadspace Covers, Rigid PU Foam Mouldings, Injection Mouldings, Tooling, CNC Machining,  Prototyping &amp; 3D Non Contact Laser Scanning</Description>
+    <Website>www.applied-components.com</Website>
+    <LegalAddress>54 Clywedog Road South
+Wrexham Industrial Estate
+, Wrexham, LL13 9XS</LegalAddress>
+    <HQAddress>Wrexham, LL13 9XS</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Decorative Trim Decals Materials Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.325</ClassValue>
+              <Label>Decorative Trim Decals Materials</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Accelero Digital Solutions Ltd</LegalName>
+    <Description>Bespoke Software Development, Workflow and Integration Engine, Automated Code Generation Tools, Digital Pen and Paper, Mobile Working Solutions, Staff Performance Development Tools, Online Digital Interview Platform, Accident Reporting Software</Description>
+    <Website>www.accelero-digital.com</Website>
+    <LegalAddress>Unit 2, Bridgend Business Centre,
+Bennett Street, 
+Bridgend Industrial Estate, Bridgend, CF31 3SH</LegalAddress>
+    <HQAddress>Bridgend, CF31 3SH</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services />
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Ben Hughes Engineering</LegalName>
+    <Description />
+    <Website />
+    <LegalAddress>Gwydr Place
+Laughor, Swansea, SA4 6TW</LegalAddress>
+    <HQAddress>Swansea, SA4 6TW</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Precision Engineering Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3221</ClassValue>
+              <Label>Precision Engineering</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Bergstrom Europe Ltd</LegalName>
+    <Description>Design and manufacture of air conditioning and heaters for off-highway vehicles and equipment and Niche automotive</Description>
+    <Website>www.bergstrominc.com</Website>
+    <LegalAddress>41, Sycamore Close
+Dyffryn Business Park, Ystrad Mynach, CF82 7RJ</LegalAddress>
+    <HQAddress>Ystrad Mynach, CF82 7RJ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>HVAC Cooling Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.316</ClassValue>
+              <Label>HVAC Cooling Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>BIC Innovation</LegalName>
+    <Description>Consultancy, Design, Project Management, Business Planning, Marketing, Feasibility Studies</Description>
+    <Website>www.bic-innovation.com</Website>
+    <LegalAddress>Pencoed Technology Centre
+
+, Pencoed, CF35 5HZ</LegalAddress>
+    <HQAddress>Pencoed, CF35 5HZ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Professional Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3222</ClassValue>
+              <Label>Professional Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>BJ Seals</LegalName>
+    <Description>Oil seals, gaskets, rubber/metal bonded, steering parts (links, bushes and mountings), plastic mouldings, hoses, cables and fasteners</Description>
+    <Website />
+    <LegalAddress>Mayphil Industrial Estate
+Goatmill Road
+, Merthyr Tydfil, CF48 3TF</LegalAddress>
+    <HQAddress>Merthyr Tydfil, CF48 3TF</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Gaskets Seals Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3211</ClassValue>
+              <Label>Gaskets Seals</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Calsonic Kansei</LegalName>
+    <Description>Design and Manufacture of Heat Exchange, Climate Control and Exhaust Systems, Cockpit Modules, Compressors and Electronics, Climatic Wind Tunnel Testing Facility </Description>
+    <Website>www.ckeurope.com</Website>
+    <LegalAddress>Llethri Road
+Felinfoel
+, Llanelli Carmarthenshire, United Kingdom, SA14 8HU</LegalAddress>
+    <HQAddress>Llanelli Carmarthenshire, United Kingdom, SA14 8HU</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Exhaust Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.327</ClassValue>
+              <Label>Exhaust Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Continental Teves</LegalName>
+    <Description>Hydraulic braking systems for the Original Equipment Manufacturers in addition to Original  Equipment spares and after Market sales. Duo Servo parking brakes for OEM and After Market</Description>
+    <Website>www.contiteves.com</Website>
+    <LegalAddress>Waun-y-Pound Industrial Estate
+, Ebbw Vale, NP23 6PL</LegalAddress>
+    <HQAddress>Ebbw Vale, NP23 6PL</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Brake Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.322</ClassValue>
+              <Label>Brake Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>CastAlum</LegalName>
+    <Description>Diecast and machined alumnium components, Design for manufacture</Description>
+    <Website>www.Castalum.com</Website>
+    <LegalAddress>Buttington Cross Enterprise Park
+Welshpool
+, Powys, SY21 8SL</LegalAddress>
+    <HQAddress>Powys, SY21 8SL</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Castings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.323</ClassValue>
+              <Label>Castings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Cats &amp; Pipes Ltd</LegalName>
+    <Description>Manufacture of Diesel particulate filters, Catalytic converter , Substrates. Research and Development of catalyst coatings for CNG / LPG / Diesel / Petrol / Marine. Direct fit applications, Engineering division</Description>
+    <Website>www.catsandpipes.co.uk</Website>
+    <LegalAddress>Merllyn Office
+The Village
+Babell
+, Flintshire, CH8 8PZ</LegalAddress>
+    <HQAddress>Flintshire, CH8 8PZ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Exhaust Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.327</ClassValue>
+              <Label>Exhaust Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Canning Brett</LegalName>
+    <Description>Manufacture of Engineered Fasteners and Components, Design of Engineered Fastening Solutions, Engineering Recommendations, Prototype Manufacture, Product Testing, Product Development, Project Management</Description>
+    <Website>www.canningbrett.com</Website>
+    <LegalAddress>Pontardawe Industrial Estate
+Pontardawe
+, Swansea, SA8 4EP</LegalAddress>
+    <HQAddress>Swansea, SA8 4EP</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Fasteners Fixings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.328</ClassValue>
+              <Label>Fasteners Fixings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Caerbont Automotive Instruments</LegalName>
+    <Description>Design and manufacture of automotive instrumentation, instrument panels, sensors and transducers and wiring harnesses and audio equipment.  Motorsport instruments including intelligent tachometeres, shift lamps etc.  Mechanical cables, control cables, drive cables etc.  Light precision pressings.</Description>
+    <Website>www.caigauge.com</Website>
+    <LegalAddress>Caerbont
+Abercrave
+, Swansea, SA9 1SH</LegalAddress>
+    <HQAddress>Swansea, SA9 1SH</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+
+        <Name>Instrumentation Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3214</ClassValue>
+              <Label>Instrumentation</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Control &amp; Machinery Services</LegalName>
+    <Description>All aspects of Measuring Devices; CNC Machining and Inspection</Description>
+    <Website>www.camscardiffltd.co.uk</Website>
+    <LegalAddress>1st Floor, Manor House
+Ipswich Road
+, Cardiff, CF23 9AQ</LegalAddress>
+    <HQAddress>Cardiff, CF23 9AQ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Industrial Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3212</ClassValue>
+              <Label>Industrial Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Cardiff &amp; Vale College</LegalName>
+    <Description />
+    <Website>www.cavc.ac.uk</Website>
+    <LegalAddress>Trowbridge Campus
+Trowbridge
+, Cardiff, CF3 1XZ</LegalAddress>
+    <HQAddress>Cardiff, CF3 1XZ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Research and Development Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3223</ClassValue>
+              <Label>Research and Development</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Centric Recruitment</LegalName>
+    <Description>Vast experience of supplying quality staff to the automotive sector (both Temporary &amp; Permanent). Coupled with a training division that specialises in the delivery of BIT / LEAN training. A network of offices managed by some of the industries leading consultants.</Description>
+    <Website>www.centricpeople.com</Website>
+    <LegalAddress>Head Office
+Tudor House
+Hanbury Road
+, Pontypool, NP4 6JL</LegalAddress>
+    <HQAddress>Pontypool, NP4 6JL</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Professional Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3222</ClassValue>
+              <Label>Professional Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Clarkslegal LLP</LegalName>
+    <Description>Legal services</Description>
+    <Website>www.clarkslegal.com</Website>
+    <LegalAddress>2 Caspian Point
+Caspian Way
+Cardiff Bay
+, Cardiff, CF10 4DQ</LegalAddress>
+    <HQAddress>Cardiff, CF10 4DQ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Professional Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3222</ClassValue>
+              <Label>Professional Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Clear Image Automotive</LegalName>
+    <Description>Durable, market leading wet spray finishes on materials ranging from plastics to metals, woods to ceramics and markets to include aerospace, military, automotive, health, fashion, film and consumer industries</Description>
+    <Website>www.clearimageltd.co.uk</Website>
+    <LegalAddress>Units 9-10/11
+Tafarnaubach Industrial Estate
+Tafarnaubach
+, Gwent, NP22 3AA</LegalAddress>
+    <HQAddress>Gwent, NP22 3AA</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Paints Coatings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3218</ClassValue>
+              <Label>Paints Coatings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Cogent Passenger Seating</LegalName>
+    <Description>Passenger seating for bus, coach, mini bus, welfare and general application. Up-seating of buses/coaches to 70+ seats for school run use</Description>
+    <Website>www.cogentseating.co.uk</Website>
+    <LegalAddress>Unit 12 Prydwen Road
+Swansea West Business Park
+Fforestfach
+, Swansea, SA5 4HN</LegalAddress>
+    <HQAddress>Swansea, SA5 4HN</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Seating Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3226</ClassValue>
+              <Label>Seating</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Cooper Engineering</LegalName>
+    <Description />
+    <Website>www.precisionengineer.co.uk</Website>
+    <LegalAddress>8B Leighton Centre
+, Nr Welshpool, SY21 8HJ</LegalAddress>
+    <HQAddress>Nr Welshpool, SY21 8HJ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Precision Engineering Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3221</ClassValue>
+              <Label>Precision Engineering</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Crabb Engineering</LegalName>
+    <Description>CNC machining of turned and milled precision components from customer drawings using ferrous and non- ferrous materials, small fabrication and welding services,  customer product assembly services.</Description>
+    <Website>www.crabbengineering.co.uk</Website>
+    <LegalAddress>Unit 12 Aber Park Industrial Estate, Flint, CH6 5EX</LegalAddress>
+    <HQAddress>Flint, CH6 5EX</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Precision Engineering Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3221</ClassValue>
+              <Label>Precision Engineering</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>CSM Pressings</LegalName>
+    <Description>Manufacture of metal pressings, tooling, welding and associated assembly</Description>
+    <Website>www.csmpressings.co.uk</Website>
+    <LegalAddress>Unit 40/41
+Hirwaun Industrial Estate, Aberdare, CF44 9UP</LegalAddress>
+    <HQAddress>Aberdare, CF44 9UP</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Assemblies Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.321</ClassValue>
+              <Label>Assemblies</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Dawson Shanahan</LegalName>
+    <Description />
+    <Website>www.dawson-shanahan.co.uk</Website>
+    <LegalAddress>Henfaes Lane
+, Welshpool, SY21 7BE</LegalAddress>
+    <HQAddress>Welshpool, SY21 7BE</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Precision Engineering Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3221</ClassValue>
+              <Label>Precision Engineering</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Electronic Motion Systems UK Ltd</LegalName>
+    <Description>Design and Manufacturing of Electronic Systems </Description>
+    <Website>www.electronicmotionsystems.co.uk</Website>
+    <LegalAddress>Heol y Ddraig
+Penllergaer Business Park
+, Swansea, SA4 9HL</LegalAddress>
+    <HQAddress>Swansea, SA4 9HL</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Electrical Electronic Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.315</ClassValue>
+              <Label>Electrical Electronic</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>EBS Automation Ltd</LegalName>
+    <Description>Design and manufacture of Special Purpose Production, Machinery, Automated &amp; Robotic Systems, Production Line improvements, Production Line and Machinery Concepts, New Product introduction, Prototype and early batch component manufacture</Description>
+    <Website>www.ebs.uk.com</Website>
+    <LegalAddress>7 Heol Cropin
+Parc Dafen
+Dafen
+, Llanelli, SA14 8QW</LegalAddress>
+    <HQAddress>Llanelli, SA14 8QW</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Precision Engineering Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3221</ClassValue>
+              <Label>Precision Engineering</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Espack Eurologistica</LegalName>
+    <Description>Warehousing, Repackaging, Sub-Assembly, Software Development, Pick and Pack</Description>
+    <Website>www.grupointerpack.com</Website>
+    <LegalAddress>Unit 2 New Street
+Bridgend Industrial Estate
+, Bridgend, CF31 1UD</LegalAddress>
+    <HQAddress>Bridgend, CF31 1UD</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Logistics Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3216</ClassValue>
+              <Label>Logistics</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Eurgent Ecspress</LegalName>
+    <Description />
+    <Website>www.eurgent.co.uk</Website>
+    <LegalAddress>1B Charnwood Park
+, Bridgend, CF31 3PL</LegalAddress>
+    <HQAddress>Bridgend, CF31 3PL</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Logistics Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3216</ClassValue>
+              <Label>Logistics</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Euro Quality Coatings</LegalName>
+    <Description>Powder Coating, Electrophoretic Coating, Paint Stripping</Description>
+    <Website>www.euroqualitycoatings.co.uk</Website>
+    <LegalAddress>Wentloog Corporate Park
+Wentloog Road
+, Cardiff, CF3 2ER</LegalAddress>
+    <HQAddress>Cardiff, CF3 2ER</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Paints Coatings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3218</ClassValue>
+              <Label>Paints Coatings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Evans Cooling Systems (part of Hydra Technologies Ltd)</LegalName>
+    <Description>Waterless Engine Coolants and Heat Transfer Fluids</Description>
+    <Website>www.evanscoolants.co.uk</Website>
+    <LegalAddress>Unit 5, Europa Way
+Swansea West Business Park
+Fforestfach
+, Swansea, SA5 4AJ</LegalAddress>
+    <HQAddress>Swansea, SA5 4AJ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>HVAC Cooling Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.316</ClassValue>
+              <Label>HVAC Cooling Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Fibre Components Ltd</LegalName>
+    <Description>The manufacture and supply of tool cut components in Greyboard, Fibreboard, Hardboard, HDPE and other substrates to the automotive industry along with ECB boxes and bins for use on production lines.</Description>
+    <Website>www.fibrecomponents.co.uk</Website>
+    <LegalAddress>Factory B26, Ford Road
+Treforest Industrial Estate, Nr Pontypridd
+, Mid Glamorgan, CF37 5TT</LegalAddress>
+    <HQAddress>Mid Glamorgan, CF37 5TT</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Decorative Trim Decals Materials Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.325</ClassValue>
+              <Label>Decorative Trim Decals Materials</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Flowtech Precision Mouldings Ltd</LegalName>
+    <Description>Product Design, Product Development, Product Management, Mass Production, Technical Support, Product Spray Painting Facility</Description>
+    <Website />
+    <LegalAddress>Unit 2 Cambrian Ind. Est
+Clydach Vale
+, Tonypandy, CF40 2XX</LegalAddress>
+    <HQAddress>Tonypandy, CF40 2XX</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Plastic Injection Mouldings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3219</ClassValue>
+              <Label>Plastic Injection Mouldings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>FSG Tool &amp; Die</LegalName>
+    <Description>Design &amp; Manufacture of precision tooling for injection moulding, press tools and forging. Prototyping of components</Description>
+    <Website>www.fsgtoolanddie.co.uk</Website>
+    <LegalAddress>Unit 5 Llantrisant Business Park, Llantrisant, CF72 8LF</LegalAddress>
+    <HQAddress>Llantrisant, CF72 8LF</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Precision Engineering Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3221</ClassValue>
+              <Label>Precision Engineering</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>GSM Automotive</LegalName>
+    <Description>We offer Technical support through development to line fit of vehicle decal graphics, body stripes, décor strips, labels, nameplates, injection moulded ‘script badges, paint over chrome badges, aluminium and stainless steel treadplates, illuminated treadplates, vehicle ‘running’ boards, pressed / machined interior pedal kits, assembled cosmetic component trim together with the  installation and commissioning of thermal transfer print equipment</Description>
+    <Website>www.gsmautomotive.co.uk</Website>
+    <LegalAddress>Ffrwdgrech Industrial Estate
+Brecon
+, Powys, LD3 8LA</LegalAddress>
+    <HQAddress>Powys, LD3 8LA</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Decorative Trim Decals Materials Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.325</ClassValue>
+              <Label>Decorative Trim Decals Materials</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>GTS Flexible Materials Ltd</LegalName>
+    <Description>Materials for flexible printed wiring, insulation and bonding</Description>
+    <Website>www.gts-flexible.co.uk</Website>
+    <LegalAddress>41, Rassau Industrial Estate
+Ebbw Vale
+, Gwent, NP23 5SD</LegalAddress>
+    <HQAddress>Gwent, NP23 5SD</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Electrical Electronic Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.315</ClassValue>
+              <Label>Electrical Electronic</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>GX Group</LegalName>
+    <Description>GX Design Engineers offer our clients a multidisciplinary approach to Product Design and Development. We can take your ideas and turn them into commercially viable products that meet the demanding requirements of your market.  Services include electronics, industrial/mechanical design, RP, software, optronics, microfluidics, value engineering and regulatory support. GX Systems is a leading automation, control, I.T solutions and web-based tracking developer. Services include design, install and programme industrial PLC, SCADA, HMI and Mobile Workflow control systems; offering our clients bespoke solutions to meet their specific needs. No matter how ambitious your original idea, or how challenging the issues, we have the technical skill, creative talent and sheer commercial know-how to make it possible! </Description>
+    <Website>www.gxgroup.com</Website>
+    <LegalAddress>The Mayfield, Usk, NP15 1SY</LegalAddress>
+    <HQAddress>Usk, NP15 1SY</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Research and Development Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3223</ClassValue>
+              <Label>Research and Development</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>HI-LEX Cable System Co Ltd</LegalName>
+    <Description>Design, Development and Manufacture of Automotive Mechanical Control Cables and Window Regulators</Description>
+    <Website>www.hi-lex.co.uk</Website>
+    <LegalAddress>Baglan Energy Park, Port Talbot, SA12 7AX</LegalAddress>
+    <HQAddress>Port Talbot, SA12 7AX</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Cables Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.312</ClassValue>
+              <Label>Cables</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Hayakawa</LegalName>
+    <Description>Custom made Wire Harnesses and Cable Assemblies along with Value Added components and processes</Description>
+    <Website>www.hayakawa.co.uk</Website>
+    <LegalAddress>Units 4&amp;5 Pinfold Lane
+Llay Industrial Estate
+, Wrexham, LL12 0TU</LegalAddress>
+    <HQAddress>Wrexham, LL12 0TU</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Electrical Electronic Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.315</ClassValue>
+              <Label>Electrical Electronic</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Hardstaff Group</LegalName>
+    <Description />
+    <Website>www.hardstaffgroup.co.uk</Website>
+    <LegalAddress>c/o Dynevor Arms LNG Storage Depot
+LLwydcoed, Aberdare, CF44 0ND</LegalAddress>
+    <HQAddress>Aberdare, CF44 0ND</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Research and Development Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3223</ClassValue>
+              <Label>Research and Development</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Industrial Automation and Control Ltd</LegalName>
+    <Description>Systems Integration of Automation Process to Support Manufacturing, Design and Manufacturing of Production Machinery and Automation Systems, Process Control Instrumentation</Description>
+    <Website>www.iac-ltd.co.uk</Website>
+    <LegalAddress>Delta House, Meadows Road
+Queensway Meadows
+, Newport, NP19 4SS</LegalAddress>
+    <HQAddress>Newport, NP19 4SS</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Control Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.314</ClassValue>
+              <Label>Control Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>International Rectifier</LegalName>
+    <Description>Power MOSFETs, IGBTs, High voltage gate drivers, Intelligent power switches, High voltage ASICs</Description>
+    <Website>www.irf.com</Website>
+    <LegalAddress>Cardiff Road
+Newport
+, Gwent, NP10 8YJ</LegalAddress>
+    <HQAddress>Gwent, NP10 8YJ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Clear Vision Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.313</ClassValue>
+              <Label>Clear Vision Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Isringhausen GB Ltd</LegalName>
+    <Description>Manufacture commercial vehicle seats</Description>
+    <Website>www.isri.de</Website>
+    <LegalAddress>Second Avenue
+Redwither Business Park
+, Wrexham, LL13 9XQ</LegalAddress>
+    <HQAddress>Wrexham, LL13 9XQ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Seating Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3226</ClassValue>
+              <Label>Seating</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Jordon Industrial Ltd</LegalName>
+    <Description>Asset Management, Surplus equipment buying and sales, Quality used equipment locating, including lead supplier to PSA and Renault SA in France, Asset evaluations globally, including North &amp; South America</Description>
+    <Website />
+    <LegalAddress>5, Hutchwns Close
+Porthcawl
+, Bridgend , CF36 3LD</LegalAddress>
+    <HQAddress>Bridgend , CF36 3LD</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Industrial Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3212</ClassValue>
+              <Label>Industrial Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>JTEKT Automotive UK Ltd</LegalName>
+    <Description>Manufacturer of Power Steering and Axle components</Description>
+    <Website>www.jtekt.co.jp/e/</Website>
+    <LegalAddress>Neath Vale Supplier Park
+Resolven
+, Neath, SA11 4SP</LegalAddress>
+    <HQAddress>Neath, SA11 4SP</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Steering Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3228</ClassValue>
+              <Label>Steering Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Kautex Textron CVS Ltd</LegalName>
+    <Description>Clear Vision Systems, Screenwash / Headlamp Cleaning – this includes hoses, water containers and nozzles</Description>
+    <Website>www.kautex.com</Website>
+    <LegalAddress>3 Alder Avenue
+Dyffryn Business Park, Ystrad Mynach
+, Hengoed, CF82 7TW</LegalAddress>
+    <HQAddress>Hengoed, CF82 7TW</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Clear Vision Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.313</ClassValue>
+              <Label>Clear Vision Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Kay Premium Marking Films</LegalName>
+    <Description>Stone chip protection, Functional films, self adhesive decorative films</Description>
+    <Website>www.kpmf.com</Website>
+    <LegalAddress>Oakwood Close
+Penyfan Industrial Park
+Crumlin
+, Newport, NP11 3HY</LegalAddress>
+    <HQAddress>Newport, NP11 3HY</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Decorative Trim Decals Materials Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.325</ClassValue>
+              <Label>Decorative Trim Decals Materials</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>K&amp;S European Services Ltd</LegalName>
+    <Description />
+    <Website>www.k-and-s.com</Website>
+    <LegalAddress>7 Orchard Close
+The Grove, Merthyr Tydfil, CF48 4TF</LegalAddress>
+    <HQAddress>Merthyr Tydfil, CF48 4TF</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Industrial Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3212</ClassValue>
+              <Label>Industrial Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Knight Manufacturing Group</LegalName>
+    <Description>Plastic Injection Moulding (30T-500T) including Storage, KANBAN distribution, Pad printing, Toolmaking for All Plastic Processes and Die castings, Jig and Fixture manufacturing, OEM Assembly including Electical, CNC Engineering including 5-AXIS, Tool and Product Design CAD/CAM, Prototype manufacture, Fixtures for Electronics manufacture</Description>
+    <Website>www.knightprecisionmoulding.com</Website>
+    <LegalAddress>Unit 84, Seawall Rd, Cardiff, CF24 5TH</LegalAddress>
+    <HQAddress>Cardiff, CF24 5TH</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Plastic Injection Mouldings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3219</ClassValue>
+              <Label>Plastic Injection Mouldings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Linea Resourcing</LegalName>
+    <Description>Specialist recruitment for Engineering, Manufacturing and Technical sectors, Delivering talent to clients on a permanent, contract and interim basis</Description>
+    <Website>www.linearesourcing.co.uk</Website>
+    <LegalAddress>Eastern Business Park
+St Mellons
+, Cardiff, CF3 5EA</LegalAddress>
+    <HQAddress>Cardiff, CF3 5EA</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Professional Services Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3222</ClassValue>
+              <Label>Professional Services</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Loyalty Logistix Ltd</LegalName>
+    <Description>Loyalty Smartcard, CSI System, Contact Management, ABI Dashboard, Residual Value Tracking</Description>
+    <Website>www.loyaltylogistix.com</Website>
+    <LegalAddress>Ty Menai
+Fford Penlan
+Parc Menai
+, Bangor, LL57 4HJ</LegalAddress>
+    <HQAddress>Bangor, LL57 4HJ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Logistics Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3216</ClassValue>
+              <Label>Logistics</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Meritor HVBS (UK) Ltd</LegalName>
+    <Description>Design and Manufacture of Truck Braking Systems</Description>
+    <Website>www.meritor.com</Website>
+    <LegalAddress>Grange Road
+Cwmbran, Torfaen, NP44 3XU</LegalAddress>
+    <HQAddress>Torfaen, NP44 3XU</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Brake Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.322</ClassValue>
+              <Label>Brake Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Mitsui</LegalName>
+    <Description>Side Door Latch, Back Door Latch, Trunk Latch, Slide Door Parts, Power Drive Units &amp; ECU, Other Latch Assemblies</Description>
+    <Website>www.mitsuicomponents.co.uk</Website>
+    <LegalAddress>Unit 2 Parc Hendre
+Capel Hendre Industrial Estate
+Ammanford
+, Carmarthenshire, SA18 3SD</LegalAddress>
+    <HQAddress>Carmarthenshire, SA18 3SD</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Door Lock Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.326</ClassValue>
+              <Label>Door Lock Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Magor Designs</LegalName>
+    <Description>Design Engineering,  Precision Engineering</Description>
+    <Website>www.magordesigns.co.uk</Website>
+    <LegalAddress>Neath Vale Business Park
+Resolven
+, Neath, SA11 4SR</LegalAddress>
+    <HQAddress>Neath, SA11 4SR</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Precision Engineering Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3221</ClassValue>
+              <Label>Precision Engineering</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Mollertech</LegalName>
+    <Description>Plastic injection moulding including, low pressure in-mould decoration, 2 component and gas-assisted moulding technologies, Air bag system assemblies, nylon flocking facilities, JIT assembly operations</Description>
+    <Website>www.moellergroup.com</Website>
+    <LegalAddress>Unit 1, Nine Mile Point Ind. Estate
+Cwmfelinfach
+, Newport, NP11 7HZ</LegalAddress>
+    <HQAddress>Newport, NP11 7HZ</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Plastic Injection Mouldings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3219</ClassValue>
+              <Label>Plastic Injection Mouldings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Northern Automotive Systems Ltd</LegalName>
+    <Description>IP facia, Door trims, Badging, Centre console, Trend Plates</Description>
+    <Website>www.norcorp.com</Website>
+    <LegalAddress>Gilwern Park
+Gilwern
+Abergavenny
+, Monmouthshire, NP7 0EB</LegalAddress>
+    <HQAddress>Monmouthshire, NP7 0EB</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Decorative Trim Decals Materials Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.325</ClassValue>
+              <Label>Decorative Trim Decals Materials</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>PSM International</LegalName>
+    <Description>The manufacture &amp; supply of specialist fasteners to the automotive industry, including proprietary products :Flangeform, TRI-STEP™, AVK &amp; System Zero, Inserts for plastic &amp; Sheet Metal Fasteners as well as non proprietary products including ‘specials’</Description>
+    <Website>www.psminternational.com</Website>
+    <LegalAddress>Ferry Lane, Pembroke, SA71 4RE</LegalAddress>
+    <HQAddress>Pembroke, SA71 4RE</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Fasteners Fixings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.328</ClassValue>
+              <Label>Fasteners Fixings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Paintflow</LegalName>
+    <Description>A Painter moulder, Robotic and hand spraying plastic components, General Assemblies</Description>
+    <Website />
+    <LegalAddress>Units 13-18 Rising Sun Industrial Estate
+Blaina
+, Abertillery, NP13 3JW</LegalAddress>
+    <HQAddress>Abertillery, NP13 3JW</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Paints Coatings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3218</ClassValue>
+              <Label>Paints Coatings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Schaltbau Machine Electrics Ltd  (SME)</LegalName>
+    <Description>SME are a manufacturer of DC contactors for a wide variety of industries including Materials Handling, Truck &amp; Bus, Special vehicles including Ambulances, Marine Markets, Construction Markets, Access Lifts, Lifts, Rail, Aerospace markets / Airports.  We also manufacture a wide range of switches for the rail industry for Train doors as well as Master Controller panels for trains and many other products.  We are also a distributor for Anderson Connectors which are widely used in the commercial vehicle market as well as UPS, Solar Panels, Wind Turbines as well as all of the other markets mentioned. Our customer base includes Linde, Still, Nissan, Jungheinrich, Fredricks, Alstrom, Bombardier, Hitachi, Mitsubishi, Unipart, Wabco and many others.  SME is part of Schaltbau Holding based in Munich, 60% in Rail 20% Materials Handling 20% Automotive €350m T/O 1800 employee’s world-wide, manufacturing plants in Germany and China, sales offices world-wide.</Description>
+    <Website>www.schaltbau-me.com</Website>
+    <LegalAddress>335/336 Springvale Industrial Estate
+Woodside Way
+, Cwmbran, NP44 5BR </LegalAddress>
+    <HQAddress>Cwmbran, NP44 5BR </HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Electrical Electronic Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.315</ClassValue>
+              <Label>Electrical Electronic</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Sumitomo Electrical Wiring Systems</LegalName>
+    <Description>Automotive Electrical wiring systems, Design and, Development, CAD Design</Description>
+    <Website>www.sews-e.com</Website>
+    <LegalAddress>Unit 1, Woodlands Business Park
+Ystradgynlais
+, Swansea, SA9 1JW</LegalAddress>
+    <HQAddress>Swansea, SA9 1JW</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Electrical Electronic Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.315</ClassValue>
+              <Label>Electrical Electronic</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Sekisui Alveo</LegalName>
+    <Description>Manufacturer of specialised foam</Description>
+    <Website>www.sekisuialveo.com</Website>
+    <LegalAddress>Merthyr Tydfil Industrial Park
+Cardiff Road
+Troedyrhiw
+, Merthyr Tydfil, CF48 4DR</LegalAddress>
+    <HQAddress>Merthyr Tydfil, CF48 4DR</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Foam Manufacturing Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.329</ClassValue>
+              <Label>Foam Manufacturing</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>South Wales Forgemasters</LegalName>
+    <Description>Forged Components</Description>
+    <Website>www.swforgemasters.co.uk</Website>
+    <LegalAddress>Garth Works
+Taffs Well
+, Cardiff, CF15 7YF</LegalAddress>
+    <HQAddress>Cardiff, CF15 7YF</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Forgings Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.3210</ClassValue>
+              <Label>Forgings</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>TRW</LegalName>
+    <Description>Manufacturer of braking systems</Description>
+    <Website>www.trw.com</Website>
+    <LegalAddress>New Road, New Inn
+Pontypool, Torfaen, NP4 0TL</LegalAddress>
+    <HQAddress>Torfaen, NP4 0TL</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Brake Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.322</ClassValue>
+              <Label>Brake Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Torchwood Technologies Ltd</LegalName>
+    <Description>Manufacture of a range of bespoke RFID / barcode tags for the tracking of vehicles, materials and assets (already provide tags for BMW) Design / project management / installation of a wide range of tracking solutions. Supply and installation of the most advanced finger biometric system for access control, time and attendance. This technology can also be used to enhance health and safety standards on machinery so that only those qualified can operate each machine within a production line.</Description>
+    <Website>www.dectag.com</Website>
+    <LegalAddress>Unit D8.1 Forest Court
+Main Avenue
+Treforest Industrial Estate
+Treforest
+, Pontypridd, CF37 5UR</LegalAddress>
+    <HQAddress>Pontypridd, CF37 5UR</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Decorative Trim Decals Materials Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.325</ClassValue>
+              <Label>Decorative Trim Decals Materials</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>TRB Ltd</LegalName>
+    <Description>Switches Automotive</Description>
+    <Website>www.trb-ltd.com</Website>
+    <LegalAddress>1 TRB Drive, 
+St Asaph Business Park
+St. Asaph
+, Denbighshire, LL17 0JB</LegalAddress>
+    <HQAddress>Denbighshire, LL17 0JB</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Electrical Electronic Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.315</ClassValue>
+              <Label>Electrical Electronic</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>Tenneco (UK) Ltd</LegalName>
+    <Description>Manufacturer of Exhaust Systems for Vehicle Assemblers</Description>
+    <Website>www.tenneco.com</Website>
+    <LegalAddress>Unit 3 Tafarnaubach Industrial Estate
+Tafarnaubach, 
+Tredegar, Gwent, NP22 3AA</LegalAddress>
+    <HQAddress>Gwent, NP22 3AA</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Exhaust Systems Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.327</ClassValue>
+              <Label>Exhaust Systems</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+  <Member>
+    <MemberId>0</MemberId>
+    <LegalName>United Aerospace Ltd</LegalName>
+    <Description>CAD design, tooling design, composite component manufacturer finishers and sprayers</Description>
+    <Website>www.united-aerospace.com</Website>
+    <LegalAddress>Ferry Lane
+Pembroke Dock
+, Pembrokeshire, SA71 4RE</LegalAddress>
+    <HQAddress>Pembrokeshire, SA71 4RE</HQAddress>
+    <LegalForm>WAF</LegalForm>
+    <MemberClassifications />
+    <ProcessModels />
+    <Services>
+      <Service>
+        <ServiceId>0</ServiceId>
+        <MemberId>0</MemberId>
+        <Name>Composites Service</Name>
+        <Interactions />
+        <Interfaces />
+        <ProcessModels />
+        <Properties />
+        <ServiceClassifications>
+          <ServiceClassification>
+            <Id>0</Id>
+            <ServiceId>0</ServiceId>
+            <ClassificationId>0</ClassificationId>
+            <Classification>
+              <ClassificationId>0</ClassificationId>
+              <ClassValue>http://ec.europa.eu/eurostat/ramon/rdfdata/nace_r2/29.324</ClassValue>
+              <Label>Composites</Label>
+            </Classification>
+          </ServiceClassification>
+        </ServiceClassifications>
+      </Service>
+    </Services>
+  </Member>
+</ArrayOfMember>

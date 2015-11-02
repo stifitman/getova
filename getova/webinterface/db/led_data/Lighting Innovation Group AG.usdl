@@ -1,0 +1,63 @@
+_:g2174113900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174113900 <http://purl.org/goodrelations/v1#offers> _:g2173326780 .
+_:g2174113900 <http://purl.org/goodrelations/v1#offers> _:g2173656700 .
+_:g2174113900 <http://purl.org/goodrelations/v1#offers> _:g2173651320 .
+_:g2174113900 <http://purl.org/goodrelations/v1#offers> _:g2174485880 .
+_:g2174113900 <http://xmlns.com/foaf/0.1/page> "http://www.lig.ht" .
+_:g2174113900 <http://purl.org/goodrelations/v1#legalName> "Lighting Innovation Group AG" .
+_:g2174113900 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174468800 .
+_:g2174048100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174048100 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2174048100 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2174044940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174044940 <http://purl.org/goodrelations/v1#name> " flächige LED-Module " .
+_:g2174044940 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2174033840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174033840 <http://purl.org/goodrelations/v1#name> " KNX/EIB " .
+_:g2174033840 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2174012900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174012900 <http://purl.org/goodrelations/v1#name> " DMX " .
+_:g2174012900 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2174000660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174000660 <http://purl.org/goodrelations/v1#name> " DALI " .
+_:g2174000660 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173997020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173997020 <http://purl.org/goodrelations/v1#name> " analoge Ansteuerung " .
+_:g2173997020 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173967240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173967240 <http://purl.org/goodrelations/v1#name> " Bodeneinbauleuchten " .
+_:g2173967240 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173734580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173734580 <http://purl.org/goodrelations/v1#name> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2173734580 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173353720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173353720 <http://purl.org/goodrelations/v1#name> " Unterwasser LED-Leuchten " .
+_:g2173353720 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173348600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173348600 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2173348600 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173720000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173720000 <http://purl.org/goodrelations/v1#name> " Wandfluter " .
+_:g2173720000 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173715280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173715280 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2173715280 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173342220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173342220 <http://purl.org/goodrelations/v1#name> " sonstige LED Leuchten " .
+_:g2173342220 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174113900 .
+_:g2173326780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173326780 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2173656700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173656700 <http://purl.org/goodrelations/v1#name> " optische Systeme " .
+_:g2173651320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2173651320 <http://purl.org/goodrelations/v1#name> " Platinenbestückung " .
+_:g2174485880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174485880 <http://purl.org/goodrelations/v1#name> " Lichtplanung " .
+_:g2174468800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174468800 <http://www.w3.org/2006/vcard/ns#country_name> "    Switzerland\n" .
+_:g2174468800 <http://www.w3.org/2006/vcard/ns#locality> "Schaffhausen" .
+_:g2174468800 <http://www.w3.org/2006/vcard/ns#postal_code> "8200" .
+_:g2174468800 <http://www.w3.org/2006/vcard/ns#street_address> "    Mühlentalstrasse 28\n" .
+_:g2174468800 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ lig.ht\n" .
+_:g2174459400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174459400 <http://www.w3.org/2006/vcard/ns#hasValue> "    +41 (0)52 - 6202850\n" .

@@ -1,0 +1,10 @@
+_:g2156756520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2156756520 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2156756520 <http://fitman.sti2.at/company/hasWebsite> "http://www.ir-led.de" .
+_:g2156756520 <http://fitman.sti2.at/company/hasMail> "    info@ muevo-technik.de\n" .
+_:g2156756520 <http://fitman.sti2.at/company/name> "Muevo-Vertrieb" .
+_:g2156756520 <http://fitman.sti2.at/company/hasLocality> "Wipperfürth" .
+_:g2156756520 <http://fitman.sti2.at/company/hasStreetAddress> "    Joseph-Mäurer-Str.18\n" .
+_:g2156756520 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2156756520 <http://fitman.sti2.at/company/postalCode> "51688" .
+_:g2156756520 <http://fitman.sti2.at/company/country> "    Germany\n" .

@@ -1,0 +1,10 @@
+
+CONSTRUCT {
+    :x :y _:a.
+    _:a :z _:t.
+    _:t :u :m.
+}
+WHERE {
+
+}
+

@@ -1,0 +1,20 @@
+_:g2174485780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " Arbeits- und Leseleuchten " .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " Möbeleinbauleuchten " .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " LED-Strahler " .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " Raumbeleuchtung " .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " Notleuchten " .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " Bodeneinbauleuchten " .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " Wandfluter " .
+_:g2174485780 <http://fitman.sti2.at/company/sells> " Unterwasser LED-Leuchten " .
+_:g2174485780 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2174485780 <http://fitman.sti2.at/company/distribution_type> " Einzelhandel (B2C) " .
+_:g2174485780 <http://fitman.sti2.at/company/hasSpeciality> " Lichtplanung " .
+_:g2174485780 <http://fitman.sti2.at/company/hasWebsite> "http://www.lampenwelt.de" .
+_:g2174485780 <http://fitman.sti2.at/company/hasMail> "    info@ lampenwelt.de\n" .
+_:g2174485780 <http://fitman.sti2.at/company/name> "Lampenwelt.de" .
+_:g2174485780 <http://fitman.sti2.at/company/hasLocality> "Schlitz" .
+_:g2174485780 <http://fitman.sti2.at/company/hasStreetAddress> "    Ringmauer 20\n" .
+_:g2174485780 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2174485780 <http://fitman.sti2.at/company/postalCode> "36110" .
+_:g2174485780 <http://fitman.sti2.at/company/country> "    Germany\n" .

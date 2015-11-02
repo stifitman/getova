@@ -1,0 +1,15 @@
+_:g2156820740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156820740 <http://xmlns.com/foaf/0.1/page> "http://www.quadled.com" .
+_:g2156820740 <http://purl.org/goodrelations/v1#legalName> "QuadLED" .
+_:g2156820740 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2161206040 .
+_:g2156831320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156831320 <http://purl.org/goodrelations/v1#name> " flächige LED-Module " .
+_:g2156831320 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156820740 .
+_:g2161206040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2161206040 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2161206040 <http://www.w3.org/2006/vcard/ns#locality> "Aachen" .
+_:g2161206040 <http://www.w3.org/2006/vcard/ns#postal_code> "52072" .
+_:g2161206040 <http://www.w3.org/2006/vcard/ns#street_address> "    Kackertstr. 11\n" .
+_:g2161206040 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ quadled.com\n" .
+_:g2166185600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2166185600 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)241 - 99009920\n" .

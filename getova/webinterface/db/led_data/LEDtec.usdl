@@ -1,0 +1,16 @@
+_:g2174110360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174110360 <http://fitman.sti2.at/company/distributed_by> "Createled Electronnics CoLTD" .
+_:g2174110360 <http://xmlns.com/foaf/0.1/page> "http://www.ledtec.eu" .
+_:g2174110360 <http://purl.org/goodrelations/v1#legalName> "LEDtec" .
+_:g2174110360 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174000740 .
+_:g2174046920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174046920 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2174046920 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174110360 .
+_:g2174000740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174000740 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174000740 <http://www.w3.org/2006/vcard/ns#locality> "Rüthen-Oestereiden" .
+_:g2174000740 <http://www.w3.org/2006/vcard/ns#postal_code> "59602" .
+_:g2174000740 <http://www.w3.org/2006/vcard/ns#street_address> "    Dusternweg 10\n" .
+_:g2174000740 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ ledtec.eu\n" .
+_:g2173999140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173999140 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49(0)2954 - 97966 0\n" .

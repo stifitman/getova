@@ -1,0 +1,10 @@
+_:g2160493040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2160493040 <http://fitman.sti2.at/company/produces> " LED Informationssysteme " .
+_:g2160493040 <http://fitman.sti2.at/company/hasWebsite> "http://www.praeniteo.de" .
+_:g2160493040 <http://fitman.sti2.at/company/hasMail> "    info@ praeniteo.de\n" .
+_:g2160493040 <http://fitman.sti2.at/company/name> "praeniteo" .
+_:g2160493040 <http://fitman.sti2.at/company/hasLocality> "Osnabrück" .
+_:g2160493040 <http://fitman.sti2.at/company/hasStreetAddress> "    Mindener Str. 306a\n" .
+_:g2160493040 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2160493040 <http://fitman.sti2.at/company/postalCode> "49086" .
+_:g2160493040 <http://fitman.sti2.at/company/country> "    Germany\n" .

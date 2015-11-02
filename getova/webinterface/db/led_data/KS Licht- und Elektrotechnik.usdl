@@ -1,0 +1,19 @@
+_:g2156390900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156390900 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2156390900 <http://purl.org/goodrelations/v1#offers> _:g2165009960 .
+_:g2156390900 <http://xmlns.com/foaf/0.1/page> "http://www.ks-germany.com" .
+_:g2156390900 <http://purl.org/goodrelations/v1#legalName> "KS Licht- und Elektrotechnik" .
+_:g2156390900 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165000960 .
+_:g2165057300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165057300 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2165057300 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156390900 .
+_:g2165009960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2165009960 <http://purl.org/goodrelations/v1#name> " Lichtplanung " .
+_:g2165000960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165000960 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165000960 <http://www.w3.org/2006/vcard/ns#locality> "Essen" .
+_:g2165000960 <http://www.w3.org/2006/vcard/ns#postal_code> "45141" .
+_:g2165000960 <http://www.w3.org/2006/vcard/ns#street_address> "    Manderscheidtstraße 8c\n" .
+_:g2165000960 <http://www.w3.org/2006/vcard/ns#has_email> "    service@ ks-germany.com\n" .
+_:g2164948320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2164948320 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)201 - 89924 0\n" .

@@ -1,0 +1,51 @@
+<h1>Introduction </h1>
+Most of the functionality of GeToVa is available via a RESTful API.
+The API is running on GeToVa Server:
+
+fitman.sti2.at
+
+or alternativeley on the local running instance:
+
+usually at: localhost:3000 (unless otherwisely configured)
+
+
+<h1>GET POST PATCH PUT DELETE /tanet_linkedins </h1>
+
+
+<p> Manages extracted Linked profile resources </p>
+
+
+
+<h1>GET /scrape_linkedin</h1>
+<p>
+Scrapes a Linkedin profiles
+requires to send json with the following structure:
+{'url' => "https://at.linkedin.com/in/ioantoma"}
+</p>
+
+<h1>GET POST PATCH PUT DELETE /tenders</h1>
+<p> Manages extracted Tenders from sell2wales resources</p>
+<h1>GET POST PATCH PUT DELETE /complus</h1>
+<p> Manages extracted companies from led-info resources</p>
+<h1>POST  /fetch_led_company</h1>
+<p> Fetches data from downloaded HTML from led-info</p>
+<h1>GET POST PATCH PUT DELETE /tanets</h1>
+<p> Manages data required for the Tanet usecase</p>
+
+<h1>GET /companies/run_clustering</h1>
+<p> Starts the clustering and gives feedback of whether the clusering is finished. Once the clustering is finished, detailed results of the clustering are returned.
+</p>
+<h1>GET /companies/clustering_visual</h1>
+<p> Return a compact version of the cluster results. This service is used by the visualization as well</p>
+<h1>GET /companies/search/:search</h1>
+<p> Run a search for a keyword specified in :search. It returns a list of companies matching the criteria</p>
+<h1>GET POST PATCH PUT DELETE /companies</h1>
+<p> Manages the companies resources</p>
+
+
+<h1>GET POST PATCH PUT DELETE /individuals</h1>
+<p> Manages all the CV resources</p>
+<h1>GET POST PATCH PUT DELETE /representations</h1>
+<p> Manages the CV representaitons resources (e.g. congrete formats for a certain CV. Like the CV represented as JSON)</p>
+<h1>GET POST PATCH PUT DELETE /individual_formats</h1>
+<p> Manges all the formats supported by the platform for transformation of people profiles</p>

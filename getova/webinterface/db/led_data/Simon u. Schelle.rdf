@@ -1,0 +1,10 @@
+_:g2156742320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2156742320 <http://fitman.sti2.at/company/produces> " Arbeits- und Leseleuchten " .
+_:g2156742320 <http://fitman.sti2.at/company/hasWebsite> "http://www.sische.de" .
+_:g2156742320 <http://fitman.sti2.at/company/hasMail> "    info@ sische.de\n" .
+_:g2156742320 <http://fitman.sti2.at/company/name> "Simon u. Schelle" .
+_:g2156742320 <http://fitman.sti2.at/company/hasLocality> "Sundern" .
+_:g2156742320 <http://fitman.sti2.at/company/hasStreetAddress> "    Silmecke 47\n" .
+_:g2156742320 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2156742320 <http://fitman.sti2.at/company/postalCode> "59846" .
+_:g2156742320 <http://fitman.sti2.at/company/country> "    Germany\n" .

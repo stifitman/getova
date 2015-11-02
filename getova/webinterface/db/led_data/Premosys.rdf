@@ -1,0 +1,10 @@
+_:g2175058000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175058000 <http://fitman.sti2.at/company/hasSpeciality> " optische Systeme " .
+_:g2175058000 <http://fitman.sti2.at/company/hasWebsite> "http://www.premosys.com" .
+_:g2175058000 <http://fitman.sti2.at/company/hasMail> "    info@ premosys.com\n" .
+_:g2175058000 <http://fitman.sti2.at/company/name> "Premosys" .
+_:g2175058000 <http://fitman.sti2.at/company/hasLocality> "Wiesbaum" .
+_:g2175058000 <http://fitman.sti2.at/company/hasStreetAddress> "    Higis-Ring 20\n" .
+_:g2175058000 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175058000 <http://fitman.sti2.at/company/postalCode> "54578" .
+_:g2175058000 <http://fitman.sti2.at/company/country> "    Germany\n" .

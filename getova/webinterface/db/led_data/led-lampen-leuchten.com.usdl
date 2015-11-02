@@ -1,0 +1,13 @@
+_:g2174062980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174062980 <http://purl.org/goodrelations/v1#category> " OnlineShops " .
+_:g2174062980 <http://xmlns.com/foaf/0.1/page> "http://www.led-lampen-leuchten.com" .
+_:g2174062980 <http://purl.org/goodrelations/v1#legalName> "led-lampen-leuchten.com" .
+_:g2174062980 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173994360 .
+_:g2173994360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173994360 <http://www.w3.org/2006/vcard/ns#country_name> "    Italy\n" .
+_:g2173994360 <http://www.w3.org/2006/vcard/ns#locality> "Mühlbach" .
+_:g2173994360 <http://www.w3.org/2006/vcard/ns#postal_code> "39037" .
+_:g2173994360 <http://www.w3.org/2006/vcard/ns#street_address> "    Holderweg 3\n" .
+_:g2173994360 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ led-lampen-leuchten.com\n" .
+_:g2173960360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173960360 <http://www.w3.org/2006/vcard/ns#hasValue> "    00390472886535\n" .

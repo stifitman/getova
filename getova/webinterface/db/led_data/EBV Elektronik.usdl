@@ -1,0 +1,13 @@
+_:g2174044860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174044860 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2174044860 <http://xmlns.com/foaf/0.1/page> "http://www.ebv.com" .
+_:g2174044860 <http://purl.org/goodrelations/v1#legalName> "EBV Elektronik" .
+_:g2174044860 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173994580 .
+_:g2173994580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173994580 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173994580 <http://www.w3.org/2006/vcard/ns#locality> "Poing" .
+_:g2173994580 <http://www.w3.org/2006/vcard/ns#postal_code> "85586" .
+_:g2173994580 <http://www.w3.org/2006/vcard/ns#street_address> "    Im Technologiepark 2-8\n" .
+_:g2173994580 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ ebv.com\n" .
+_:g2173993160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173993160 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0) 8121 - 774 0\n" .

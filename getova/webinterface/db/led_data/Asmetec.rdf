@@ -1,0 +1,13 @@
+_:g2160464520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2160464520 <http://fitman.sti2.at/company/sells> " LED-Strahler " .
+_:g2160464520 <http://fitman.sti2.at/company/sells> " Raumbeleuchtung " .
+_:g2160464520 <http://fitman.sti2.at/company/sells> " sonstige LED Leuchten " .
+_:g2160464520 <http://fitman.sti2.at/company/distribution_type> " Einzelhandel (B2C) " .
+_:g2160464520 <http://fitman.sti2.at/company/hasWebsite> "http://www.asmetec.de" .
+_:g2160464520 <http://fitman.sti2.at/company/hasMail> "    info@ asmetec.de\n" .
+_:g2160464520 <http://fitman.sti2.at/company/name> "Asmetec" .
+_:g2160464520 <http://fitman.sti2.at/company/hasLocality> "Bolanden" .
+_:g2160464520 <http://fitman.sti2.at/company/hasStreetAddress> "    Klosterwiesen 10\n" .
+_:g2160464520 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2160464520 <http://fitman.sti2.at/company/postalCode> "67295" .
+_:g2160464520 <http://fitman.sti2.at/company/country> "    Germany\n" .

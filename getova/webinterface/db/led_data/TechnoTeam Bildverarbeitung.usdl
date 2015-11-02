@@ -1,0 +1,15 @@
+_:g2174059420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174059420 <http://xmlns.com/foaf/0.1/page> "http://www.technoteam.de" .
+_:g2174059420 <http://purl.org/goodrelations/v1#legalName> "TechnoTeam Bildverarbeitung" .
+_:g2174059420 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173984280 .
+_:g2174010460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174010460 <http://purl.org/goodrelations/v1#name> " Messtechnikgeräte " .
+_:g2174010460 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174059420 .
+_:g2173984280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173984280 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173984280 <http://www.w3.org/2006/vcard/ns#locality> "Ilmenau" .
+_:g2173984280 <http://www.w3.org/2006/vcard/ns#postal_code> "98693" .
+_:g2173984280 <http://www.w3.org/2006/vcard/ns#street_address> "    Werner-von-Siemens-Str. 10\n" .
+_:g2173984280 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ technoteam.de\n" .
+_:g2173983120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173983120 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)3677 - 4624 0\n" .

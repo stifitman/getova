@@ -1,0 +1,15 @@
+_:g2164329280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2164329280 <http://xmlns.com/foaf/0.1/page> "http://www.luxero.eu" .
+_:g2164329280 <http://purl.org/goodrelations/v1#legalName> "Luxero" .
+_:g2164329280 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174619520 .
+_:g2156006740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156006740 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2156006740 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2164329280 .
+_:g2174619520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174619520 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174619520 <http://www.w3.org/2006/vcard/ns#locality> "Dreieich" .
+_:g2174619520 <http://www.w3.org/2006/vcard/ns#postal_code> "63303" .
+_:g2174619520 <http://www.w3.org/2006/vcard/ns#street_address> "    Daimlerstr. 1e\n" .
+_:g2174619520 <http://www.w3.org/2006/vcard/ns#has_email> "    \n" .
+_:g2174618360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174618360 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)6103 - 30116 0\n" .

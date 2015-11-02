@@ -1,0 +1,10 @@
+_:g2164389460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2164389460 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2164389460 <http://fitman.sti2.at/company/hasWebsite> "http://www.werbeck.de" .
+_:g2164389460 <http://fitman.sti2.at/company/hasMail> "    eyeleds@ werbeck.de\n" .
+_:g2164389460 <http://fitman.sti2.at/company/name> "Werbeck" .
+_:g2164389460 <http://fitman.sti2.at/company/hasLocality> "Hamburg" .
+_:g2164389460 <http://fitman.sti2.at/company/hasStreetAddress> "    Agathenstraße 10\n" .
+_:g2164389460 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2164389460 <http://fitman.sti2.at/company/postalCode> "20357" .
+_:g2164389460 <http://fitman.sti2.at/company/country> "    Germany\n" .

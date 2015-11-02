@@ -1,0 +1,21 @@
+_:g2156868260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156868260 <http://xmlns.com/foaf/0.1/page> "http://www.spectral-online.de" .
+_:g2156868260 <http://purl.org/goodrelations/v1#legalName> "spectral" .
+_:g2156868260 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175469300 .
+_:g2175458460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175458460 <http://purl.org/goodrelations/v1#name> " Arbeits- und Leseleuchten " .
+_:g2175458460 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156868260 .
+_:g2175455660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175455660 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2175455660 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156868260 .
+_:g2175452900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175452900 <http://purl.org/goodrelations/v1#name> " Lichtböden / -decken " .
+_:g2175452900 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156868260 .
+_:g2175469300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175469300 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175469300 <http://www.w3.org/2006/vcard/ns#locality> "Freiburg" .
+_:g2175469300 <http://www.w3.org/2006/vcard/ns#postal_code> "79111" .
+_:g2175469300 <http://www.w3.org/2006/vcard/ns#street_address> "    Bötzinger Straße 31\n" .
+_:g2175469300 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ spectral-online.de\n" .
+_:g2175468140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175468140 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)761 - 45242 0\n" .

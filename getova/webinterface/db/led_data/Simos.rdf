@@ -1,0 +1,12 @@
+_:g2165957940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165957940 <http://fitman.sti2.at/company/sells> " Hochleistungs LED " .
+_:g2165957940 <http://fitman.sti2.at/company/sells> " flächige LED-Module " .
+_:g2165957940 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2165957940 <http://fitman.sti2.at/company/hasWebsite> "http://www.simos.de" .
+_:g2165957940 <http://fitman.sti2.at/company/hasMail> "    \n" .
+_:g2165957940 <http://fitman.sti2.at/company/name> "Simos" .
+_:g2165957940 <http://fitman.sti2.at/company/hasLocality> "Dachau" .
+_:g2165957940 <http://fitman.sti2.at/company/hasStreetAddress> "    Fraunhoferstrasse 9\n" .
+_:g2165957940 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165957940 <http://fitman.sti2.at/company/postalCode> "85221" .
+_:g2165957940 <http://fitman.sti2.at/company/country> "    Germany\n" .

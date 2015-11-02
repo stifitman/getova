@@ -1,0 +1,31 @@
+# DataExtraction
+
+This Gem is used by the GeToVa frontend and the API to extract data
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'data_extraction'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install data_extraction
+
+## Usage
+
+
+
+## Contributing
+
+1. Fork it ( https://github.com/[my-github-username]/data_extraction/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request

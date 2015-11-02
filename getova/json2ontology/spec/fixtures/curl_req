@@ -1,0 +1,1 @@
+curl -k https://europass.cedefop.europa.eu/rest/v1/document/to/xml-cv -H "Content-Type: application/json" -d @cvexample1.json  -o cv-out.xml

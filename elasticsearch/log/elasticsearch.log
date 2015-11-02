@@ -1,0 +1,15 @@
+[2015-03-23 13:34:19,942][INFO ][node                     ] [Elektra] version[1.4.4], pid[1], build[c88f77f/2015-02-19T13:05:36Z]
+[2015-03-23 13:34:19,947][INFO ][node                     ] [Elektra] initializing ...
+[2015-03-23 13:34:19,954][INFO ][plugins                  ] [Elektra] loaded [], sites []
+[2015-03-23 13:34:24,792][INFO ][node                     ] [Elektra] initialized
+[2015-03-23 13:34:24,792][INFO ][node                     ] [Elektra] starting ...
+[2015-03-23 13:34:24,950][INFO ][transport                ] [Elektra] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/172.17.0.6:9300]}
+[2015-03-23 13:34:25,005][INFO ][discovery                ] [Elektra] elasticsearch/bI1siqtDQt6DcUxegZ0g7g
+[2015-03-23 13:34:28,843][INFO ][cluster.service          ] [Elektra] new_master [Elektra][bI1siqtDQt6DcUxegZ0g7g][e5e50134a019][inet[/172.17.0.6:9300]], reason: zen-disco-join (elected_as_master)
+[2015-03-23 13:34:28,946][INFO ][http                     ] [Elektra] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/172.17.0.6:9200]}
+[2015-03-23 13:34:28,951][INFO ][node                     ] [Elektra] started
+[2015-03-23 13:34:31,220][INFO ][gateway                  ] [Elektra] recovered [7] indices into cluster_state
+[2015-03-23 14:54:59,766][INFO ][cluster.metadata         ] [Elektra] [tags] update_mapping [tag] (dynamic)
+[2015-03-23 14:55:00,133][INFO ][cluster.metadata         ] [Elektra] [companies] update_mapping [usdl] (dynamic)
+[2015-03-23 14:55:00,541][INFO ][cluster.metadata         ] [Elektra] [companies] update_mapping [rdf] (dynamic)
+[2015-03-23 15:35:31,910][INFO ][cluster.metadata         ] [Elektra] [companies] update_mapping [rdf] (dynamic)

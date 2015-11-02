@@ -1,0 +1,10 @@
+_:g2165658300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165658300 <http://fitman.sti2.at/company/hasSpeciality> " Lichtplanung " .
+_:g2165658300 <http://fitman.sti2.at/company/hasWebsite> "http://www.prediger-licht.de" .
+_:g2165658300 <http://fitman.sti2.at/company/hasMail> "    b.meisner@ prediger-licht.de\n" .
+_:g2165658300 <http://fitman.sti2.at/company/name> "prediger Licht" .
+_:g2165658300 <http://fitman.sti2.at/company/hasLocality> "Hamburg" .
+_:g2165658300 <http://fitman.sti2.at/company/hasStreetAddress> "    Mönckebergstrasse 25\n" .
+_:g2165658300 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165658300 <http://fitman.sti2.at/company/postalCode> "20095" .
+_:g2165658300 <http://fitman.sti2.at/company/country> "    Germany\n" .

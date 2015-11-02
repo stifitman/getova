@@ -1,0 +1,21 @@
+_:g2174419840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174419840 <http://xmlns.com/foaf/0.1/page> "http://www.barthelme.de" .
+_:g2174419840 <http://purl.org/goodrelations/v1#legalName> "Barthelme" .
+_:g2174419840 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174353640 .
+_:g2174377920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174377920 <http://purl.org/goodrelations/v1#name> " flexible LED-Module " .
+_:g2174377920 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174419840 .
+_:g2174375140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174375140 <http://purl.org/goodrelations/v1#name> " gesockelte LED " .
+_:g2174375140 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174419840 .
+_:g2174371200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174371200 <http://purl.org/goodrelations/v1#name> " sonstige Komponenten " .
+_:g2174371200 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174419840 .
+_:g2174353640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174353640 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174353640 <http://www.w3.org/2006/vcard/ns#locality> "Nürnberg" .
+_:g2174353640 <http://www.w3.org/2006/vcard/ns#postal_code> "90491" .
+_:g2174353640 <http://www.w3.org/2006/vcard/ns#street_address> "    Oedenberger Str. 149\n" .
+_:g2174353640 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ barthelme.de\n" .
+_:g2174344080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174344080 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)911 - 42476 0\n" .

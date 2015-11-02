@@ -1,0 +1,21 @@
+<%= form_for(@tender) do |f| %>
+  <% if @tender.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@tender.errors.count, "error") %> prohibited this tender from being saved:</h2>
+
+      <ul>
+      <% @tender.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :data %><br>
+    <%= f.text_field :data %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

@@ -1,0 +1,12 @@
+_:g2173338640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173338640 <http://fitman.sti2.at/company/produces> " LED Maschinenleuchten " .
+_:g2173338640 <http://fitman.sti2.at/company/produces> " Machine Vision " .
+_:g2173338640 <http://fitman.sti2.at/company/produces> " Arbeits- und Leseleuchten " .
+_:g2173338640 <http://fitman.sti2.at/company/hasWebsite> "http://www.dianaelectronic.de" .
+_:g2173338640 <http://fitman.sti2.at/company/hasMail> "    info@ dianaelectronic.de\n" .
+_:g2173338640 <http://fitman.sti2.at/company/name> "Diana electronic-Systeme GmbH" .
+_:g2173338640 <http://fitman.sti2.at/company/hasLocality> "Waiblingen" .
+_:g2173338640 <http://fitman.sti2.at/company/hasStreetAddress> "    Kriegsbergstr. 3\n" .
+_:g2173338640 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173338640 <http://fitman.sti2.at/company/postalCode> "71336" .
+_:g2173338640 <http://fitman.sti2.at/company/country> "    Germany\n" .

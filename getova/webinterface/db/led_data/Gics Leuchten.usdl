@@ -1,0 +1,15 @@
+_:g2173731660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173731660 <http://xmlns.com/foaf/0.1/page> "http://www.gics.de" .
+_:g2173731660 <http://purl.org/goodrelations/v1#legalName> "Gics Leuchten" .
+_:g2173731660 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173323640 .
+_:g2173343260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173343260 <http://purl.org/goodrelations/v1#name> " Strassenbeleuchtung " .
+_:g2173343260 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173731660 .
+_:g2173323640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173323640 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173323640 <http://www.w3.org/2006/vcard/ns#locality> "Hamm" .
+_:g2173323640 <http://www.w3.org/2006/vcard/ns#postal_code> "59067" .
+_:g2173323640 <http://www.w3.org/2006/vcard/ns#street_address> "    Am Boonekamp 7\n" .
+_:g2173323640 <http://www.w3.org/2006/vcard/ns#has_email> "    post@ gics.de\n" .
+_:g2173657020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173657020 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)2381 - 94860\n" .

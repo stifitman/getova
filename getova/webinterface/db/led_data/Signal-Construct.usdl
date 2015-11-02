@@ -1,0 +1,15 @@
+_:g2165703400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165703400 <http://xmlns.com/foaf/0.1/page> "http://www.signal-construct.de" .
+_:g2165703400 <http://purl.org/goodrelations/v1#legalName> "Signal-Construct" .
+_:g2165703400 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165796440 .
+_:g2165779900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2165779900 <http://purl.org/goodrelations/v1#name> " gesockelte LED " .
+_:g2165779900 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165703400 .
+_:g2165796440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165796440 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165796440 <http://www.w3.org/2006/vcard/ns#locality> "Niefern-Öschelbronn" .
+_:g2165796440 <http://www.w3.org/2006/vcard/ns#postal_code> "75223" .
+_:g2165796440 <http://www.w3.org/2006/vcard/ns#street_address> "    Brückenäckerweg 4\n" .
+_:g2165796440 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ signal-construct.de\n" .
+_:g2165795280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165795280 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7233 - 9531 0\n" .

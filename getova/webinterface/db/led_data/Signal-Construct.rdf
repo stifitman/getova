@@ -1,0 +1,10 @@
+_:g2165703400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165703400 <http://fitman.sti2.at/company/produces> " gesockelte LED " .
+_:g2165703400 <http://fitman.sti2.at/company/hasWebsite> "http://www.signal-construct.de" .
+_:g2165703400 <http://fitman.sti2.at/company/hasMail> "    info@ signal-construct.de\n" .
+_:g2165703400 <http://fitman.sti2.at/company/name> "Signal-Construct" .
+_:g2165703400 <http://fitman.sti2.at/company/hasLocality> "Niefern-Öschelbronn" .
+_:g2165703400 <http://fitman.sti2.at/company/hasStreetAddress> "    Brückenäckerweg 4\n" .
+_:g2165703400 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165703400 <http://fitman.sti2.at/company/postalCode> "75223" .
+_:g2165703400 <http://fitman.sti2.at/company/country> "    Germany\n" .

@@ -1,0 +1,15 @@
+_:g2175294680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175294680 <http://xmlns.com/foaf/0.1/page> "http://www.pur-led.de" .
+_:g2175294680 <http://purl.org/goodrelations/v1#legalName> "PUR-LED Technik" .
+_:g2175294680 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175321920 .
+_:g2175305360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175305360 <http://purl.org/goodrelations/v1#name> " flexible LED-Module " .
+_:g2175305360 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2175294680 .
+_:g2175321920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175321920 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175321920 <http://www.w3.org/2006/vcard/ns#locality> "Selzen" .
+_:g2175321920 <http://www.w3.org/2006/vcard/ns#postal_code> "55278" .
+_:g2175321920 <http://www.w3.org/2006/vcard/ns#street_address> "    Bahnhofstr. 18\n" .
+_:g2175321920 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ pur-led.de\n" .
+_:g2175320760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175320760 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)6737 - 711551\n" .

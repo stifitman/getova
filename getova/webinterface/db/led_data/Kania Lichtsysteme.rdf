@@ -1,0 +1,10 @@
+_:g2173738880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173738880 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2173738880 <http://fitman.sti2.at/company/hasWebsite> "http://www.kania.de" .
+_:g2173738880 <http://fitman.sti2.at/company/hasMail> "    info@ kania.de\n" .
+_:g2173738880 <http://fitman.sti2.at/company/name> "Kania Lichtsysteme" .
+_:g2173738880 <http://fitman.sti2.at/company/hasLocality> "Witten" .
+_:g2173738880 <http://fitman.sti2.at/company/hasStreetAddress> "    Wullener Feld 7d\n" .
+_:g2173738880 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173738880 <http://fitman.sti2.at/company/postalCode> "58454" .
+_:g2173738880 <http://fitman.sti2.at/company/country> "    Germany\n" .

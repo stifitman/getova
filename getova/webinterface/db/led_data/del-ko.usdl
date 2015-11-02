@@ -1,0 +1,13 @@
+_:g2173902620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173902620 <http://purl.org/goodrelations/v1#category> " Einzelhandel (B2C) " .
+_:g2173902620 <http://xmlns.com/foaf/0.1/page> "http://www.del-ko.de/" .
+_:g2173902620 <http://purl.org/goodrelations/v1#legalName> "del-ko" .
+_:g2173902620 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173850620 .
+_:g2173850620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173850620 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173850620 <http://www.w3.org/2006/vcard/ns#locality> "Augsburg" .
+_:g2173850620 <http://www.w3.org/2006/vcard/ns#postal_code> "86159" .
+_:g2173850620 <http://www.w3.org/2006/vcard/ns#street_address> "    Von-Richthofen-Str. 38\n" .
+_:g2173850620 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ del-ko.de\n" .
+_:g2173849280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173849280 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)821 - 2594387\n" .

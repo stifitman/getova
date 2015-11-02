@@ -1,0 +1,22 @@
+_:g2174065000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174065000 <http://fitman.sti2.at/company/distributed_by> "LUMITRONIX® LEDTechnik GmbH" .
+_:g2174065000 <http://xmlns.com/foaf/0.1/page> "http://www.osram-os.com" .
+_:g2174065000 <http://purl.org/goodrelations/v1#legalName> "Osram OS" .
+_:g2174065000 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173351240 .
+_:g2174011560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174011560 <http://purl.org/goodrelations/v1#name> " LED-Chips " .
+_:g2174011560 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174065000 .
+_:g2173999680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173999680 <http://purl.org/goodrelations/v1#name> " Hochleistungs LED " .
+_:g2173999680 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174065000 .
+_:g2173996060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173996060 <http://purl.org/goodrelations/v1#name> " IR-LED (IRED) " .
+_:g2173996060 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174065000 .
+_:g2173351240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173351240 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173351240 <http://www.w3.org/2006/vcard/ns#locality> "Regensburg" .
+_:g2173351240 <http://www.w3.org/2006/vcard/ns#postal_code> "93047" .
+_:g2173351240 <http://www.w3.org/2006/vcard/ns#street_address> "    Wernerwerkstr. 2\n" .
+_:g2173351240 <http://www.w3.org/2006/vcard/ns#has_email> "    support@ osram-os.com\n" .
+_:g2173349740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173349740 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)941 - 850 1700\n" .

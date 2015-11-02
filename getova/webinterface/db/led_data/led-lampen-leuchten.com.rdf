@@ -1,0 +1,10 @@
+_:g2174062980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174062980 <http://fitman.sti2.at/company/distribution_type> " OnlineShops " .
+_:g2174062980 <http://fitman.sti2.at/company/hasWebsite> "http://www.led-lampen-leuchten.com" .
+_:g2174062980 <http://fitman.sti2.at/company/hasMail> "    info@ led-lampen-leuchten.com\n" .
+_:g2174062980 <http://fitman.sti2.at/company/name> "led-lampen-leuchten.com" .
+_:g2174062980 <http://fitman.sti2.at/company/hasLocality> "Mühlbach" .
+_:g2174062980 <http://fitman.sti2.at/company/hasStreetAddress> "    Holderweg 3\n" .
+_:g2174062980 <http://fitman.sti2.at/company/locatedInRegion> "    Italy\n" .
+_:g2174062980 <http://fitman.sti2.at/company/postalCode> "39037" .
+_:g2174062980 <http://fitman.sti2.at/company/country> "    Italy\n" .

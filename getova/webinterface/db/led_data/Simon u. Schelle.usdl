@@ -1,0 +1,15 @@
+_:g2156742320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156742320 <http://xmlns.com/foaf/0.1/page> "http://www.sische.de" .
+_:g2156742320 <http://purl.org/goodrelations/v1#legalName> "Simon u. Schelle" .
+_:g2156742320 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2156753340 .
+_:g2161111340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2161111340 <http://purl.org/goodrelations/v1#name> " Arbeits- und Leseleuchten " .
+_:g2161111340 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2156742320 .
+_:g2156753340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2156753340 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2156753340 <http://www.w3.org/2006/vcard/ns#locality> "Sundern" .
+_:g2156753340 <http://www.w3.org/2006/vcard/ns#postal_code> "59846" .
+_:g2156753340 <http://www.w3.org/2006/vcard/ns#street_address> "    Silmecke 47\n" .
+_:g2156753340 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ sische.de\n" .
+_:g2156752180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2156752180 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)2933 - 8350\n" .

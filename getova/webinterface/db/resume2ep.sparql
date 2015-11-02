@@ -1,0 +1,368 @@
+
+PREFIX resb: <http://kaste.lv/~captsolo/semweb/resume/base.rdfs#>
+PREFIX res: <http://kaste.lv/~captsolo/semweb/resume/cv.rdfs#>
+PREFIX fit: <http://fitman.sti2.at/base/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+
+CONSTRUCT {
+  ?root fit:SkillsPassport ?cv.#TODO
+##################################################
+#Information about the person                    #
+##################################################
+    ?cv fit:LearnerInfo ?learner.#TODO
+    ?learner fit:Identification ?identification.#TODO
+    ?identification fit:ContactInfo ?contactinfo.#TODO
+    ?identification fit:PersonName ?personname.#TODO
+    ?personname fit:FirstName ?firstname.#TODO
+    ?personname fit:Surname ?surname.#TODO
+
+    ?identification fit:ContactInfo ?contactinfo.#TODO
+    ?contactinfo fit:Address ?address.#TODO
+    ?address  fit:Contact ?contact.#TODO
+    ?contact fit:AddressLine ?addressline.#TODO
+    ?contact fit:PostalCode ?postalcode.#TODO
+    ?contact fit:Municipality ?municipality.#TODO
+    ?contact fit:Country ?country.#TODO
+
+    ?identification fit:Demographics ?demographics .#TODO
+    ?demographics fit:Birthdate ?birthdate .#TODO
+    ?birthdate fit:Year ?year .#TODO
+    ?birthdate fit:Month ?month .#TODO
+    ?birthdate fit:Day ?day .#TODO
+    ?demographics fit:Gender ?gender .#TODO
+    ?gender fit:Label ?genderLabel .#TODO
+#
+###################################################
+##Workexperience  / Employer                      #
+###################################################
+    ?learner fit:WorkExperience ?workexperience .#TODO
+    ?workexperience fit:Activities ?activity .#TODO
+#?workexperience fit:Period :employerPeriod .#TODO
+    ?workexperience fit:Employer ?employer .#TODO
+
+    ?workexperience fit:Position ?jobTitleL .#TODO
+    ?jobTitleL fit:Label ?jobTitle .#TODO
+#
+    ?employer fit:Name ?employerName .#TODO
+    ?employer fit:Sector ?employerSector .#TODO
+    ?employerSector fit:Label ?employerSector.#TODO
+    ?employer fit:ContactInfo ?employerContactinfo .#TODO
+    ?employerContactinfo fit:Address ?employerAddress .#TODO
+    ?employerAddress fit:Contact ?employerContact .#TODO
+    ?employerContact fit:AddressLine ?employerNotes. #TODO#TODO
+    ?employerContact fit:PostalCode ?employerNotes. #TODO#TODO
+    ?employerContact fit:Municipality ?employerLocality.#TODO
+    ?employerContact fit:Country ?employerCountry . #TODO
+    ?employerCountry fit:Label ?employerCountry. #TODO
+#
+###################################################
+##Periods of employment:                          #
+###################################################
+#
+#   :employerPeriod fit:From :employerFrom .#TODO
+#   :employerPeriod fit:To ?employerTo . #TODO
+#   :employerPeriod fit:Current ?employerCurrent .#TODO
+#
+#   :employerFrom fit:Year ?yearw .#TODO
+#   :employerFrom fit:Month ?monthw .#TODO
+#   :employerFrom fit:Day ?dayw.#TODO
+#
+#   :employerTo fit:Year ?yearToEmployer. #TODO
+#   :employerTo fit:Month ?monthToEmployer .#TODO
+#   :employerTo fit:Day ?dayToEmployer.#TODO
+#
+##bind ( COALESCE(?dayw, "00") As ?dayw)#TODO
+##bind ( COALESCE(?yearw, "") As ?yearw)#TODO
+##bind ( COALESCE(?monthw, "") As ?monthw)#TODO
+#
+##bind(CONCAT(str(?yearw), "-",str(?monthw),"-",str(?dayw)) As ?fromDateEmployer) .#TODO
+#
+##bind ( COALESCE(?dayToEmployer, "00") As ?dayToEmployer)#TODO
+##bind ( COALESCE(?yearToEmployer, "") As ?yearToEmployer)#TODO
+##bind ( COALESCE(?monthToEmployer, "") As ?monthToEmployer)#TODO
+#
+##bind(CONCAT(str(?yearToEmployer), "-",str(?monthToEmployer),"-",str(?dayToEmployer)) As ?toDateEmployer).  #TODO
+#
+###################################################
+##Education of the Person:                        #
+###################################################
+#
+    ?learner fit:Education ?education .#TODO
+    ?education fit:Organisation ?educationOrganisation .#TODO
+#
+    ?education fit:Activities ?eduDescription.#TODO
+    ?education fit:Title ?eduNotes.#TODO
+    ?educationOrganisation fit:Name ?educationOrganisationName .#TODO
+    ?educationOrganisation fit:ContactInfo ?educationOrganisation .#TODO
+    ?educationOrganisation fit:Address ?educationOrganisation .#TODO
+    ?educationOrganisation fit:Contact ?educationOrganisation .#TODO
+    ?educationOrganisation fit:Municipality ?educationMunicipality .#TODO
+    ?educationOrganisation fit:Country ?educationCountry .#TODO
+    ?educationCountry fit:Label ?educationCountry .#TODO
+#
+#
+    ?education fit:Period ?educationPeriod .#TODO
+
+#:educationPeriod fit:From ?educationFrom .#TODO
+#:educationPeriod fit:To ?educationTo . #TODO
+#:educationPeriod fit:Current ?educationCurrent .#TODO
+
+#:educationFrom fit:Year ?yearFromEducation .#TODO
+#:educationFrom fit:Month ?monthFromEducation .#TODO
+#:educationFrom fit:Day ?dayFromEducation.#TODO
+
+#:educationTo fit:Year ?yearToEducation. #TODO
+#:educationTo fit:Month ?monthToEducation .#TODO
+#:educationTo fit:Day ?dayToEducation.#TODO
+#
+###################################################
+##Skills of the employer:  Linguistics            #
+###################################################
+    ?learner fit:Skills ?skill .#TODO
+
+    ?skill fit:Linguistic ?linguistics .#TODO
+    ?linguistics fit:MotherTongue ?motherTongueL .#TODO
+    ?linguistics fit:ForeignLanguage ?foreignLanguageL .#TODO
+
+    ?motherTongueL fit:Description ?motherTongueD .#TODO
+    ?motherTongueD fit:Label ?motherTongue .#TODO
+
+    ?foreignLanguageL fit:ProficiencyLevel ?foreignLanguageLevel .#TODO
+    ?foreignLanguageLevel fit:Writing ?foreignLanguageWriting .#TODO
+    ?foreignLanguageLevel fit:Reading ?foreignLanguageLReading .#TODO
+    ?foreignLanguageLevel fit:Listening ?foreignLanguageSpoken .#TODO
+    ?foreignLanguageLevel fit:Listening ?foreignLanguageSpoken .#TODO
+    ?foreignLanguageL fit:Description ?foreignLanguageD .#TODO
+    ?foreignLanguageD fit:Label ?foreignLanguage .#TODO
+
+###################################################
+##Other information about the person:             #
+###################################################
+    ?skill fit:Communication ?communication .#TODO
+    ?communication fit:Description ?communicationDescription .#TODO
+
+    ?skill fit:Organisational ?organisationalOther .#TODO
+    ?organisationalOther fit:Description ?organisationalDescription .#TODO
+
+    ?skill fit:Computer ?computerOther .#TODO
+    ?computerOther fit:Description ?computerDescription .#TODO
+
+    ?skill fit:Driving ?drivingOther .#TODO
+    ?drivingOther fit:Description ?drivingDescription .#TODO
+
+    ?skill fit:Other ?otherOther .#TODO
+    ?otherOther fit:Description ?otherDescription .#TODO
+}
+WHERE {
+
+  bind(BNODE() as ?root).
+    bind(BNODE() as ?learner).
+    bind(BNODE() as ?identification).
+    bind(BNODE() as ?personname).
+    bind(BNODE() as ?contactinfo).
+    bind(BNODE() as ?contact).
+    bind(BNODE() as ?address).
+
+    bind(BNODE() as ?demographics).
+    bind(BNODE() as ?birthdate).
+    bind(BNODE() as ?gender).
+
+    bind(BNODE() as ?linguistics).
+
+
+#bind(BNODE() as ?skill).
+#bind(BNODE() as ?communication).
+#bind(BNODE() as ?organisationalOther).
+#bind(BNODE() as ?computerOther).
+#bind(BNODE() as ?otherOther).
+
+
+    ?cv a res:CV.
+
+##################################################
+#Properties of Organisations:                    #
+##################################################
+    ?cv res:aboutPerson ?person .
+
+    ?person a res:Person.
+    ?person foaf:firstName ?firstname .   
+    ?person foaf:lastName ?surname .
+    OPTIONAL { ?person res:gender ?genderLabel.}
+  OPTIONAL { ?person res:hasDriversLicense ?drivingDescription.}
+##	?person res:birthPlace TODO
+##	?person res:hasCitizenship TODO
+##	?person res:hasNationality TODO
+##	?person res:maritalStatus TODO
+##	?person res:noOfChildren TODO
+
+  OPTIONAL {?cv res:hasWorkHistory ?workexperience.}
+  OPTIONAL {?workexperience a res:WorkHistory.}
+#
+###################################################
+#	#Properties of Organisations:             #
+###################################################
+#
+  OPTIONAL {    ?employer a res:Company.}
+  OPTIONAL {    ?employer res:Name ?employerName.}
+  OPTIONAL {    ?employer res:Country ?employerCountry .}
+  OPTIONAL {    ?employer res:Locality ?employerLocality.}
+  OPTIONAL {    ?employer res:Notes ?employerNotes. }
+##	?employer res:URL ?employerURL. #TODO
+  OPTIONAL {    ?employer res:Industry ?employerSector. }
+##
+##	##################################################
+##	#Properties of Workhistory:                      #
+##	##################################################
+##?workexperience res:employedIn ?employer.#TODO
+##
+
+  OPTIONAL {    ?workexperience res:startDate ?fromDateEmployer. }
+OPTIONAL {    ?workexperience res:endDate ?toDateEmployer.	}
+OPTIONAL {      ?workexperience res:jobDescription ?activity.}
+OPTIONAL {      ?workexperience res:jobTitle ?jobTitle. }
+##?workexperience res:careerLevel TODO
+##?workexperience res:numSubordinates TODO
+##	#?workexperience res:jobType TODO
+##?workexperience res:isCurrent ?current.
+##
+##	##################################################
+##	#Properties of Education:                        #
+##	##################################################
+##	
+  OPTIONAL {    ?education a res:Education .} 
+#
+OPTIONAL {    ?educationOrganisation a res:EducationalOrg .}
+OPTIONAL {      ?educationOrganisation res:Name ?educationOrganisationName .}
+OPTIONAL {      ?educationOrganisation res:Country ?educationCountry .}
+OPTIONAL {      ?educationOrganisation res:Locality ?educationMunicipality.}
+OPTIONAL {      ?educationOrganisation res:Notes ?eduNotes. }
+##?studiedIn res:URL ?employerURL. #TODO
+##?studiedIn res:Industry ?employerSector. 
+#
+##bind ( COALESCE(?dayFromEducation, "00") As ?dayFromEducation) .#TODO
+##bind ( COALESCE(?yearFromEducation, "") As ?yearFromEducation) .#TODO
+##bind ( COALESCE(?monthFromEducation, "") As ?monthFromEducation) .#TODO
+#
+##bind(CONCAT(str(?yearFromEducation), "-",str(?monthFromEducation),"-",str(?dayFromEducation)) As ?fromDateEducation) .  #TODO
+#
+##bind ( COALESCE(?dayToEducation, "00") As ?dayToEducation) .#TODO
+##bind ( COALESCE(?yearToEducation, "") As ?yearToEducation) .#TODO
+##bind ( COALESCE(?monthToEducation, "") As ?monthToEducation) .#TODO
+#
+##bind(CONCAT(str(?yearToEducation), "-",str(?monthToEducation),"-",str(?dayToEducation)) As ?toDateEducation).  #TODO
+#
+##	?education res:studiedIn ?educationOrganisation . #TODO
+#    ?education res:eduStartDate ?fromDateEducation . 
+#    ?education res:eduGradDate ?toDateEducation.  
+#    ?education res:isCurrent ?educationCurrent. 
+##	#:education res:degreeType TODO
+##	#:education res:eduMajor TODO
+##	#:education res:eduMinor TODO
+#    ?education res:eduDescription ?eduDescription. #TODO
+##
+##	#Properties of Courses taken by the Person:      #
+##	##################################################
+##	?course a res:Course .# TODO
+##	#?cv res:hasCourse ?course TODO
+##
+##?course res:organizedBy TODO
+##	#?course res:isCertification TODO
+##	#?course res:courseTitle TODO
+##	#?course res:courseDescription TODO
+##	#?course res:courseURL TODO
+##	#?course res:courseStartDate TODO
+##	#?course res:courseFinishedDate TODO
+##
+##	##################################################
+##	#Properties of Skill of the Person:              #
+##	##################################################
+  OPTIONAL {    ?skill a res:Skill . }
+  OPTIONAL {    ?cv res:hasSkill ?skill . }
+  OPTIONAL {    ?cv res:hasSkill ?motherTongueL .	
+                ?motherTongueL res:skillName ?motherTongue .
+                ?motherTongueL a res:LanguageSkill .}
+  OPTIONAL {    ?cv res:hasSkill ?foreignLanguageL .
+                ?foreignLanguageL a res:LanguageSkill .}
+# ?motherTongueL res:skillLevel "5" .
+#?motherTongueL res:lngSkillLevelReading "5" .
+#?motherTongueL res:lngSkillLevelWritten "5" .
+###
+  OPTIONAL {    ?foreignLanguageL res:skillName ?foreignLanguage .
+    ?foreignLanguageL res:skillLevel ?foreignLanguageSpoken .
+      ?foreignLanguageL res:lngSkillLevelReading ?foreignLanguageLReading .
+      ?foreignLanguageL res:lngSkillLevelWritten ?foreignLanguageWriting .}
+##?skill res:skillLastUsed TODO
+###?skill res:skillYearsExperience TODO
+##
+##	##################################################
+##	#Properties of References::                      #
+##	##################################################
+##	#?ref a res:ProfessionalReference TODO
+##	#?ref a res:PersonalReference TODO
+##	#?cv res:hasReference ?ref TODO
+##	#?ref res:referenceBy TODO
+##
+##	##################################################
+##	#Properties of Targets:       TODO               #
+##	##################################################
+##	#?target a res:Target
+##	#?target res:targetCareerLevel
+##	#?target res:targetCompanyDescription
+##	#?target res:targetCompanyIndustry
+##	#?target res:targetCompanySize
+##	#?target res:targetCountry
+##	#?target res:targetJobDescription
+##	#?target res:targetJobMode
+##	#?target res:targetJobType
+##	#?target res:targetSalary
+##	#?target res:targetSalaryCurrency
+##	#?target res:weeksNoticePeriod
+##	#?target res:conditionWillRelocate
+##	#?target res:conditionWillTravel
+##
+##	#?cv res:hasTarget ?target TODO
+##
+##	##################################################
+##	#Properties of other Information:                #
+##	##################################################
+  OPTIONAL {    ?communication a res:OtherInfo .
+    ?cv res:hasOtherInfo ?communication .
+      ?communication res:otherInfoType "Communication" .
+      ?communcation res:otherInfoDescription ?communicationDescription .}
+
+  OPTIONAL {    ?organisationalOther a res:OtherInfo .
+    ?cv res:hasOtherInfo ?organisationalOther .
+      ?organisationalOther res:otherInfoType "Organisational" .
+      ?organisationalOther res:otherInfoDescription ?organisationalDescription .}
+
+  OPTIONAL {    ?computerOther a res:OtherInfo .
+    ?cv res:hasOtherInfo ?computerOther .
+      ?computerOther res:otherInfoType "Computer".
+      ?computerOther res:otherInfoDescription ?computerDescription .}
+
+  OPTIONAL {    ?drivingOther a res:OtherInfo .
+    ?cv res:hasOtherInfo ?drivingOther .
+      ?drivingOther res:otherInfoType "Driving" .
+      ?drivingOther res:otherInfoDescription ?drivingDescription .}
+
+
+  OPTIONAL {    ?otherOther a res:OtherInfo .
+    ?cv res:hasOtherInfo ?otherOther .
+      ?otherOther res:otherInfoType "Other" .
+      ?otherOther res:otherInfoDescription ?otherDescription .}
+
+###################################################
+##Properties of the CV:                           #
+###################################################
+#
+##	#?cv res:lastUpdate TODO
+##	#?cv res:cvTitle TODO 
+##	#?cv res:cvDescription
+##	#?cv res:cvCopyright
+##	#?cv res:cvIsConfidential
+##	#?cv res:cvIsActive	
+#
+#
+}
+#performance issue!
+#

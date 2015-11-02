@@ -1,0 +1,6 @@
+require_relative 'complus/led/company_extractor'
+require_relative 'linkedin/linkedin_company_extractor'
+require_relative 'tanet/aerospace/company_extractor'
+require_relative 'tanet/sell2wales/tender_extractor'
+require_relative 'tanet/waf_database_extraction_1/company_extractor'
+require_relative 'tanet/waf_database_extraction_2/company_extractor'

@@ -1,0 +1,13 @@
+_:g2156756520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2156756520 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2156756520 <http://xmlns.com/foaf/0.1/page> "http://www.ir-led.de" .
+_:g2156756520 <http://purl.org/goodrelations/v1#legalName> "Muevo-Vertrieb" .
+_:g2156756520 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165870180 .
+_:g2165870180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165870180 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165870180 <http://www.w3.org/2006/vcard/ns#locality> "Wipperfürth" .
+_:g2165870180 <http://www.w3.org/2006/vcard/ns#postal_code> "51688" .
+_:g2165870180 <http://www.w3.org/2006/vcard/ns#street_address> "    Joseph-Mäurer-Str.18\n" .
+_:g2165870180 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ muevo-technik.de\n" .
+_:g2165869020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165869020 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)2267 - 828339\n" .

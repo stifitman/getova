@@ -1,0 +1,12 @@
+_:g2175406780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175406780 <http://fitman.sti2.at/company/sells> " standard LED " .
+_:g2175406780 <http://fitman.sti2.at/company/sells> " Hochleistungs LED " .
+_:g2175406780 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2175406780 <http://fitman.sti2.at/company/hasWebsite> "http://www.neumueller.com" .
+_:g2175406780 <http://fitman.sti2.at/company/hasMail> "    o.kafka@ neumueller.com\n" .
+_:g2175406780 <http://fitman.sti2.at/company/name> "Neumüller Elektronik GmbH" .
+_:g2175406780 <http://fitman.sti2.at/company/hasLocality> "Markt" .
+_:g2175406780 <http://fitman.sti2.at/company/hasStreetAddress> "    Henleinstr. 1\n" .
+_:g2175406780 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175406780 <http://fitman.sti2.at/company/postalCode> "85570" .
+_:g2175406780 <http://fitman.sti2.at/company/country> "    Germany\n" .

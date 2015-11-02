@@ -1,0 +1,10 @@
+_:g2173721860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173721860 <http://fitman.sti2.at/company/hasSpeciality> " Lichtplanung " .
+_:g2173721860 <http://fitman.sti2.at/company/hasWebsite> "http://www.dayandlight.de" .
+_:g2173721860 <http://fitman.sti2.at/company/hasMail> "    info@ dayandlight.de\n" .
+_:g2173721860 <http://fitman.sti2.at/company/name> "Day & Light" .
+_:g2173721860 <http://fitman.sti2.at/company/hasLocality> "München" .
+_:g2173721860 <http://fitman.sti2.at/company/hasStreetAddress> "    Bereiteranger 15\n" .
+_:g2173721860 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173721860 <http://fitman.sti2.at/company/postalCode> "81541" .
+_:g2173721860 <http://fitman.sti2.at/company/country> "    Germany\n" .

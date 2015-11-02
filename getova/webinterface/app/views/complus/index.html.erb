@@ -1,0 +1,29 @@
+<h1>Extact data from Led-info.de </h1>
+<table>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <p style="font-size: 2em"> Upload downloaded webpage from http://led-info.de/</p> 
+    <%= form_tag("/fetch_led_company",action: "upload", method: "post", multipart: true) do %>
+      <%= file_field_tag 'html_data' %>
+      <p>
+      <input name="Upload LED-Technik HTML" type="submit" />
+      </p>
+    <% end %>
+
+    <% @complus.each do |complu| %>
+      <tr>
+        <td><%= complu.data[0..500] %></td>
+        <td><%= link_to 'Show', complu %></td>
+        <td><%= link_to 'Edit', edit_complu_path(complu) %></td>
+        <td><%= link_to 'Destroy', complu, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>

@@ -1,0 +1,10 @@
+_:g2173832300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173832300 <http://fitman.sti2.at/company/produces> " LED-Optiken " .
+_:g2173832300 <http://fitman.sti2.at/company/hasWebsite> "http://www.polymer-optix.de" .
+_:g2173832300 <http://fitman.sti2.at/company/hasMail> "    info@ polymer-optix.de\n" .
+_:g2173832300 <http://fitman.sti2.at/company/name> "Polymeroptix" .
+_:g2173832300 <http://fitman.sti2.at/company/hasLocality> "Goch" .
+_:g2173832300 <http://fitman.sti2.at/company/hasStreetAddress> "    Siemensstraße 4\n" .
+_:g2173832300 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173832300 <http://fitman.sti2.at/company/postalCode> "47574" .
+_:g2173832300 <http://fitman.sti2.at/company/country> "    Germany\n" .

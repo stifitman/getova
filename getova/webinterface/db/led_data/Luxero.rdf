@@ -1,0 +1,10 @@
+_:g2164329280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2164329280 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2164329280 <http://fitman.sti2.at/company/hasWebsite> "http://www.luxero.eu" .
+_:g2164329280 <http://fitman.sti2.at/company/hasMail> "    \n" .
+_:g2164329280 <http://fitman.sti2.at/company/name> "Luxero" .
+_:g2164329280 <http://fitman.sti2.at/company/hasLocality> "Dreieich" .
+_:g2164329280 <http://fitman.sti2.at/company/hasStreetAddress> "    Daimlerstr. 1e\n" .
+_:g2164329280 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2164329280 <http://fitman.sti2.at/company/postalCode> "63303" .
+_:g2164329280 <http://fitman.sti2.at/company/country> "    Germany\n" .

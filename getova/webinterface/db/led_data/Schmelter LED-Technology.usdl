@@ -1,0 +1,13 @@
+_:g2165291500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165291500 <http://purl.org/goodrelations/v1#category> " OnlineShops " .
+_:g2165291500 <http://xmlns.com/foaf/0.1/page> "http://www.led-schmelter.de" .
+_:g2165291500 <http://purl.org/goodrelations/v1#legalName> "Schmelter LED-Technology" .
+_:g2165291500 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165227260 .
+_:g2165227260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165227260 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165227260 <http://www.w3.org/2006/vcard/ns#locality> "Bestwig" .
+_:g2165227260 <http://www.w3.org/2006/vcard/ns#postal_code> "59909" .
+_:g2165227260 <http://www.w3.org/2006/vcard/ns#street_address> "    Fliederweg 26\n" .
+_:g2165227260 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ led-schmelter.de\n" .
+_:g2165224640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165224640 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)2904 - 712055\n" .

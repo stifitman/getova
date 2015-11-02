@@ -1,0 +1,73 @@
+_:g2164394100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2164360660 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2164327680 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2164296100 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2156183180 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2160131360 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2160110440 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2156007240 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2155978420 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2156546200 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2165435580 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2165421920 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2165418400 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2174159340 .
+_:g2164394100 <http://purl.org/goodrelations/v1#offers> _:g2174146660 .
+_:g2164394100 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2164394100 <http://purl.org/goodrelations/v1#category> " Einzelhandel (B2C) " .
+_:g2164394100 <http://purl.org/goodrelations/v1#category> " OnlineShops " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Seoul " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Osram OS " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Cree " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Carclo Technical Plastics Ltd " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " Nichia " .
+_:g2164394100 <http://fitman.sti2.at/company/distribution_for> " LUMITRONIX® LEDTechnik GmbH " .
+_:g2164394100 <http://fitman.sti2.at/company/distributed_by> "LUMITRONIX® LEDTechnik GmbH" .
+_:g2164394100 <http://xmlns.com/foaf/0.1/page> "http://www.leds.de" .
+_:g2164394100 <http://purl.org/goodrelations/v1#legalName> "LUMITRONIX® LED-Technik GmbH" .
+_:g2164394100 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174111840 .
+_:g2164519160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164519160 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2164519160 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2164394100 .
+_:g2164503740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164503740 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2164503740 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2164394100 .
+_:g2164486240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164486240 <http://purl.org/goodrelations/v1#name> " Möbeleinbauleuchten " .
+_:g2164486240 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2164394100 .
+_:g2164360660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2164360660 <http://purl.org/goodrelations/v1#name> " LED-Module " .
+_:g2164327680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2164327680 <http://purl.org/goodrelations/v1#name> " LED " .
+_:g2164296100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2164296100 <http://purl.org/goodrelations/v1#name> " LED Ansteuerung " .
+_:g2156183180 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156183180 <http://purl.org/goodrelations/v1#name> " LED-Ketten " .
+_:g2160131360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160131360 <http://purl.org/goodrelations/v1#name> " Hochleistungs LED " .
+_:g2160110440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160110440 <http://purl.org/goodrelations/v1#name> " standard LED " .
+_:g2156007240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156007240 <http://purl.org/goodrelations/v1#name> " LED Taschenlampen " .
+_:g2155978420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2155978420 <http://purl.org/goodrelations/v1#name> " IR-LED (IRED) " .
+_:g2156546200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2156546200 <http://purl.org/goodrelations/v1#name> " UV-LED " .
+_:g2165435580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2165435580 <http://purl.org/goodrelations/v1#name> " LED-Optiken " .
+_:g2165421920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2165421920 <http://purl.org/goodrelations/v1#name> " Bodeneinbauleuchten " .
+_:g2165418400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2165418400 <http://purl.org/goodrelations/v1#name> " Raumbeleuchtung " .
+_:g2174159340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174159340 <http://purl.org/goodrelations/v1#name> " Lichtmessung " .
+_:g2174146660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174146660 <http://purl.org/goodrelations/v1#name> " Entwicklung & Fertigung " .
+_:g2174111840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174111840 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174111840 <http://www.w3.org/2006/vcard/ns#locality> "Hechingen" .
+_:g2174111840 <http://www.w3.org/2006/vcard/ns#postal_code> "72379" .
+_:g2174111840 <http://www.w3.org/2006/vcard/ns#street_address> "    Haigerlocher Str. 42\n" .
+_:g2174111840 <http://www.w3.org/2006/vcard/ns#has_email> "    mail@ leds.de\n" .
+_:g2174110340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174110340 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7471 - 96014 0\n" .

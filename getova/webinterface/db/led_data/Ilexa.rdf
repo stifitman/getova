@@ -1,0 +1,10 @@
+_:g2165000540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2165000540 <http://fitman.sti2.at/company/hasSpeciality> " Lichtmessung " .
+_:g2165000540 <http://fitman.sti2.at/company/hasWebsite> "http://www.ilexa.de" .
+_:g2165000540 <http://fitman.sti2.at/company/hasMail> "    jordanow@ ilexa.de\n" .
+_:g2165000540 <http://fitman.sti2.at/company/name> "Ilexa" .
+_:g2165000540 <http://fitman.sti2.at/company/hasLocality> "Ilmenau" .
+_:g2165000540 <http://fitman.sti2.at/company/hasStreetAddress> "    Werner-von-Siemens-Straße 4a\n" .
+_:g2165000540 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2165000540 <http://fitman.sti2.at/company/postalCode> "98693" .
+_:g2165000540 <http://fitman.sti2.at/company/country> "    Germany\n" .

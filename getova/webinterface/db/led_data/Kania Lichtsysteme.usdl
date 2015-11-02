@@ -1,0 +1,15 @@
+_:g2173738880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2173738880 <http://xmlns.com/foaf/0.1/page> "http://www.kania.de" .
+_:g2173738880 <http://purl.org/goodrelations/v1#legalName> "Kania Lichtsysteme" .
+_:g2173738880 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2173339980 .
+_:g2173718800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173718800 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2173718800 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2173738880 .
+_:g2173339980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2173339980 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2173339980 <http://www.w3.org/2006/vcard/ns#locality> "Witten" .
+_:g2173339980 <http://www.w3.org/2006/vcard/ns#postal_code> "58454" .
+_:g2173339980 <http://www.w3.org/2006/vcard/ns#street_address> "    Wullener Feld 7d\n" .
+_:g2173339980 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ kania.de\n" .
+_:g2173338560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2173338560 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)2302 - 960100\n" .

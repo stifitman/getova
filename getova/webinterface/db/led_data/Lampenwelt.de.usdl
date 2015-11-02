@@ -1,0 +1,47 @@
+_:g2174485780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174441740 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174438860 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174426520 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174421760 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174410020 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174406460 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174403540 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174390280 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174387120 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174375660 .
+_:g2174485780 <http://purl.org/goodrelations/v1#offers> _:g2174357860 .
+_:g2174485780 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2174485780 <http://purl.org/goodrelations/v1#category> " Einzelhandel (B2C) " .
+_:g2174485780 <http://xmlns.com/foaf/0.1/page> "http://www.lampenwelt.de" .
+_:g2174485780 <http://purl.org/goodrelations/v1#legalName> "Lampenwelt.de" .
+_:g2174485780 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2174342660 .
+_:g2174441740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174441740 <http://purl.org/goodrelations/v1#name> " Arbeits- und Leseleuchten " .
+_:g2174438860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174438860 <http://purl.org/goodrelations/v1#name> " Möbeleinbauleuchten " .
+_:g2174426520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174426520 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2174421760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174421760 <http://purl.org/goodrelations/v1#name> " Raumbeleuchtung " .
+_:g2174410020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174410020 <http://purl.org/goodrelations/v1#name> " Notleuchten " .
+_:g2174406460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174406460 <http://purl.org/goodrelations/v1#name> " Bodeneinbauleuchten " .
+_:g2174403540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174403540 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2174390280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174390280 <http://purl.org/goodrelations/v1#name> " Wandfluter " .
+_:g2174387120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174387120 <http://purl.org/goodrelations/v1#name> " Wandfluter " .
+_:g2174375660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174375660 <http://purl.org/goodrelations/v1#name> " Unterwasser LED-Leuchten " .
+_:g2174357860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2174357860 <http://purl.org/goodrelations/v1#name> " Lichtplanung " .
+_:g2174342660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2174342660 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2174342660 <http://www.w3.org/2006/vcard/ns#locality> "Schlitz" .
+_:g2174342660 <http://www.w3.org/2006/vcard/ns#postal_code> "36110" .
+_:g2174342660 <http://www.w3.org/2006/vcard/ns#street_address> "    Ringmauer 20\n" .
+_:g2174342660 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ lampenwelt.de\n" .
+_:g2174341160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2174341160 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)6642 - 40699 0\n" .

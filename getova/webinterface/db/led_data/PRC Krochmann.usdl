@@ -1,0 +1,15 @@
+_:g2174886220 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2174886220 <http://xmlns.com/foaf/0.1/page> "http://www.prc-krochmann.de" .
+_:g2174886220 <http://purl.org/goodrelations/v1#legalName> "PRC Krochmann" .
+_:g2174886220 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2160946280 .
+_:g2174921700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2174921700 <http://purl.org/goodrelations/v1#name> " Messtechnikgeräte " .
+_:g2174921700 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2174886220 .
+_:g2160946280 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2160946280 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2160946280 <http://www.w3.org/2006/vcard/ns#locality> "Berlin" .
+_:g2160946280 <http://www.w3.org/2006/vcard/ns#postal_code> "14109" .
+_:g2160946280 <http://www.w3.org/2006/vcard/ns#street_address> "    Am Sandwerder 47\n" .
+_:g2160946280 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ prc-krochmann.de\n" .
+_:g2160945120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2160945120 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)30 - 7517007\n" .

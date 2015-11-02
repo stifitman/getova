@@ -1,0 +1,14 @@
+To run the whole GeToVa application see the README.md in the parent directory.
+
+
+
+Running this application (without using docker) requires:
+
+Ruby (Tested for ruby 2.1.1p76 (2014-02-24 revision 45161) [x86_64-darwin12.0])
+Rails
+
+An easy setup for Ruby on Rails can be found on: http://railsinstaller.org/en
+
+To use all features of the application it is required to run an ElasticSearch Server instance and define
+the IP of the server via the environment variable elastic_search_ip.
+

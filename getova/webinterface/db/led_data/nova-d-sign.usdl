@@ -1,0 +1,21 @@
+_:g2175458640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175458640 <http://xmlns.com/foaf/0.1/page> "http://www.nova-d-sign.de" .
+_:g2175458640 <http://purl.org/goodrelations/v1#legalName> "nova-d-sign" .
+_:g2175458640 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175504820 .
+_:g2175469240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175469240 <http://purl.org/goodrelations/v1#name> " Wandfluter " .
+_:g2175469240 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2175458640 .
+_:g2175491100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175491100 <http://purl.org/goodrelations/v1#name> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2175491100 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2175458640 .
+_:g2175488380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2175488380 <http://purl.org/goodrelations/v1#name> " LED-Kühlung " .
+_:g2175488380 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2175458640 .
+_:g2175504820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175504820 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175504820 <http://www.w3.org/2006/vcard/ns#locality> "Litzendorf" .
+_:g2175504820 <http://www.w3.org/2006/vcard/ns#postal_code> "96123" .
+_:g2175504820 <http://www.w3.org/2006/vcard/ns#street_address> "    Am Kayweg 38\n" .
+_:g2175504820 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ nova-d-sign.de\n" .
+_:g2175503660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175503660 <http://www.w3.org/2006/vcard/ns#hasValue> "    0951/9931442\n" .

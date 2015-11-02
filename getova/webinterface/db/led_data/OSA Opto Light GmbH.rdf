@@ -1,0 +1,10 @@
+_:g2175854660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175854660 <http://fitman.sti2.at/company/produces> " standard LED " .
+_:g2175854660 <http://fitman.sti2.at/company/hasWebsite> "http://www.osa-opto.com" .
+_:g2175854660 <http://fitman.sti2.at/company/hasMail> "    contact@ osa-opto.com\n" .
+_:g2175854660 <http://fitman.sti2.at/company/name> "OSA Opto Light GmbH" .
+_:g2175854660 <http://fitman.sti2.at/company/hasLocality> "Berlin" .
+_:g2175854660 <http://fitman.sti2.at/company/hasStreetAddress> "    Köpenicker Str. 325 / Haus 201\n" .
+_:g2175854660 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175854660 <http://fitman.sti2.at/company/postalCode> "12555" .
+_:g2175854660 <http://fitman.sti2.at/company/country> "    Germany\n" .

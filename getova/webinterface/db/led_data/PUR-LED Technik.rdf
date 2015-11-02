@@ -1,0 +1,10 @@
+_:g2175294680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175294680 <http://fitman.sti2.at/company/produces> " flexible LED-Module " .
+_:g2175294680 <http://fitman.sti2.at/company/hasWebsite> "http://www.pur-led.de" .
+_:g2175294680 <http://fitman.sti2.at/company/hasMail> "    info@ pur-led.de\n" .
+_:g2175294680 <http://fitman.sti2.at/company/name> "PUR-LED Technik" .
+_:g2175294680 <http://fitman.sti2.at/company/hasLocality> "Selzen" .
+_:g2175294680 <http://fitman.sti2.at/company/hasStreetAddress> "    Bahnhofstr. 18\n" .
+_:g2175294680 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175294680 <http://fitman.sti2.at/company/postalCode> "55278" .
+_:g2175294680 <http://fitman.sti2.at/company/country> "    Germany\n" .

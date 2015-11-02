@@ -1,0 +1,10 @@
+_:g2174196560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174196560 <http://fitman.sti2.at/company/produces> " LED-Videodisplays " .
+_:g2174196560 <http://fitman.sti2.at/company/hasWebsite> "http://www.leuro.com" .
+_:g2174196560 <http://fitman.sti2.at/company/hasMail> "    info@ leuro.com\n" .
+_:g2174196560 <http://fitman.sti2.at/company/name> "Leurocom" .
+_:g2174196560 <http://fitman.sti2.at/company/hasLocality> "Winnenden" .
+_:g2174196560 <http://fitman.sti2.at/company/hasStreetAddress> "    Marie-Curie-Str. 10\n" .
+_:g2174196560 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2174196560 <http://fitman.sti2.at/company/postalCode> "71364" .
+_:g2174196560 <http://fitman.sti2.at/company/country> "    Germany\n" .

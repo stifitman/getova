@@ -1,0 +1,15 @@
+_:g2175715080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175715080 <http://purl.org/goodrelations/v1#offers> _:g2175748700 .
+_:g2175715080 <http://xmlns.com/foaf/0.1/page> "http://www.rapid-e-engineering.de" .
+_:g2175715080 <http://purl.org/goodrelations/v1#legalName> "Rapid-e-Engineering" .
+_:g2175715080 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2166469000 .
+_:g2175748700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175748700 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2166469000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2166469000 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2166469000 <http://www.w3.org/2006/vcard/ns#locality> "München" .
+_:g2166469000 <http://www.w3.org/2006/vcard/ns#postal_code> "80805" .
+_:g2166469000 <http://www.w3.org/2006/vcard/ns#street_address> "    Biedersteiner Str. 59\n" .
+_:g2166469000 <http://www.w3.org/2006/vcard/ns#has_email> "    steffen@ rapid-e-engineering.de\n" .
+_:g2166467840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2166467840 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)89 - 3618011\n" .

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>jQuery UI Autocomplete - Remote datasource</title>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css"> 
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <style>
+      .ui-autocomplete-category {
+        font-weight: bold;
+        padding: .2em .4em;
+        margin: .8em 0 .2em;
+        line-height: 1.5;
+      }
+    </style>
+    <script>
+      var ready = function() {
+
+      console.log("AUTOCOMPLETE was LOADED!!!!");
+
+      $.widget( "custom.catcomplete", $.ui.autocomplete, {
+      _create: function() {
+      this._super();
+      this.widget().menu( "option", "items", "> :not(.ui-autocomplete-category)" );
+      },
+      _renderMenu: function( ul, items ) {
+      var that = this,
+      currentCategory = "";
+
+      $.each( items, function( index, item ) {
+      var li;
+      if ( item.value != currentCategory ) {
+      ul.append( "<li class='ui-autocomplete-category'>" + item.value + "</li>" );
+      currentCategory = item.value;
+      }
+      li = that._renderItemData( ul, item );
+      if ( item.value ) {
+      li.attr( "aria-label", item.value + " : " + item.label );
+      }
+      });
+      }
+      });
+
+      $( "#companies" ).catcomplete({
+      source: "/companies/search/auto",
+      minLength: 2,
+      select: function( event, ui ) {
+      window.location.replace("/companies?terms="+ui.item.label);
+      }
+      });
+      };
+
+      $(document).ready(ready);
+      $(document).on('page:load', ready);
+
+    </script>
+  </head>
+  <body>
+
+
+    <p>If the search is not workin refresh the page</p>
+    <div class="ui-widget">
+      <label for="companies">Company search: </label>
+      <input id="companies">
+    </div>
+  </body>
+</html>

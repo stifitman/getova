@@ -1,0 +1,15 @@
+_:g2165658300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165658300 <http://purl.org/goodrelations/v1#offers> _:g2165692060 .
+_:g2165658300 <http://xmlns.com/foaf/0.1/page> "http://www.prediger-licht.de" .
+_:g2165658300 <http://purl.org/goodrelations/v1#legalName> "prediger Licht" .
+_:g2165658300 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165726660 .
+_:g2165692060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2165692060 <http://purl.org/goodrelations/v1#name> " Lichtplanung " .
+_:g2165726660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165726660 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165726660 <http://www.w3.org/2006/vcard/ns#locality> "Hamburg" .
+_:g2165726660 <http://www.w3.org/2006/vcard/ns#postal_code> "20095" .
+_:g2165726660 <http://www.w3.org/2006/vcard/ns#street_address> "    Mönckebergstrasse 25\n" .
+_:g2165726660 <http://www.w3.org/2006/vcard/ns#has_email> "    b.meisner@ prediger-licht.de\n" .
+_:g2165725500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165725500 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)40 - 3258590\n" .

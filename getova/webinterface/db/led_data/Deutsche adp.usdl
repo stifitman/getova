@@ -1,0 +1,22 @@
+_:g2160315120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2160315120 <http://purl.org/goodrelations/v1#offers> _:g2164392400 .
+_:g2160315120 <http://purl.org/goodrelations/v1#category> " Grosshandel (B2B) " .
+_:g2160315120 <http://xmlns.com/foaf/0.1/page> "http://www.deutsche-adp.de" .
+_:g2160315120 <http://purl.org/goodrelations/v1#legalName> "Deutsche adp" .
+_:g2160315120 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2160202800 .
+_:g2164419920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164419920 <http://purl.org/goodrelations/v1#name> " LED-Ketten " .
+_:g2164419920 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160315120 .
+_:g2164411440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164411440 <http://purl.org/goodrelations/v1#name> " LED Werbetechnik " .
+_:g2164411440 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160315120 .
+_:g2164392400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2164392400 <http://purl.org/goodrelations/v1#name> " LED-Ketten " .
+_:g2160202800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2160202800 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2160202800 <http://www.w3.org/2006/vcard/ns#locality> "Ergolding/Landshut" .
+_:g2160202800 <http://www.w3.org/2006/vcard/ns#postal_code> "84030" .
+_:g2160202800 <http://www.w3.org/2006/vcard/ns#street_address> "    Untere Sonnenstraße 3\n" .
+_:g2160202800 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ deutsche-adp.de\n" .
+_:g2160189340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2160189340 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)871 - 1434090\n" .

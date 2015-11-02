@@ -1,0 +1,10 @@
+_:g2173055740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2173055740 <http://fitman.sti2.at/company/hasSpeciality> " Elektronik " .
+_:g2173055740 <http://fitman.sti2.at/company/hasWebsite> "http://www.clp-gmbh.de" .
+_:g2173055740 <http://fitman.sti2.at/company/hasMail> "    info@ clp-gmbh.de\n" .
+_:g2173055740 <http://fitman.sti2.at/company/name> "CLP GmbH" .
+_:g2173055740 <http://fitman.sti2.at/company/hasLocality> "Pinneberg" .
+_:g2173055740 <http://fitman.sti2.at/company/hasStreetAddress> "    Osterholder Allee 2\n" .
+_:g2173055740 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2173055740 <http://fitman.sti2.at/company/postalCode> "25421" .
+_:g2173055740 <http://fitman.sti2.at/company/country> "    Germany\n" .

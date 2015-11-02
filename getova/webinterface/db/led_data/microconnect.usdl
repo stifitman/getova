@@ -1,0 +1,15 @@
+_:g2165795240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165795240 <http://xmlns.com/foaf/0.1/page> "http://www.microconnect.de" .
+_:g2165795240 <http://purl.org/goodrelations/v1#legalName> "microconnect" .
+_:g2165795240 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2165814560 .
+_:g2156704900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2156704900 <http://purl.org/goodrelations/v1#name> " COB-LED " .
+_:g2156704900 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2165795240 .
+_:g2165814560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2165814560 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2165814560 <http://www.w3.org/2006/vcard/ns#locality> "Allensbach" .
+_:g2165814560 <http://www.w3.org/2006/vcard/ns#postal_code> "78476" .
+_:g2165814560 <http://www.w3.org/2006/vcard/ns#street_address> "    Kaltbrunnerstraße 24\n" .
+_:g2165814560 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ microconnect.de\n" .
+_:g2165813400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2165813400 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)7533 - 93190\n" .

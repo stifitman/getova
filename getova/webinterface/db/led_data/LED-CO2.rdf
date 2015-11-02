@@ -1,0 +1,10 @@
+_:g2164845560 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2164845560 <http://fitman.sti2.at/company/distribution_type> " Einzelhandel (B2C) " .
+_:g2164845560 <http://fitman.sti2.at/company/hasWebsite> "http://www.led-co2.de" .
+_:g2164845560 <http://fitman.sti2.at/company/hasMail> "    info@ LED-CO2.de\n" .
+_:g2164845560 <http://fitman.sti2.at/company/name> "LED-CO2" .
+_:g2164845560 <http://fitman.sti2.at/company/hasLocality> "Elmshorn" .
+_:g2164845560 <http://fitman.sti2.at/company/hasStreetAddress> "    Christa-Wehling-Weg 32\n" .
+_:g2164845560 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2164845560 <http://fitman.sti2.at/company/postalCode> "25335" .
+_:g2164845560 <http://fitman.sti2.at/company/country> "    Germany\n" .

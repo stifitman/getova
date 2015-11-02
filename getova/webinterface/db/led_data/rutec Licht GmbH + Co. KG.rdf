@@ -1,0 +1,24 @@
+_:g2175704680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " flexible LED-Module " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " lineare LED-Module " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " LED-Module " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " gesockelte LED " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " LED-Ketten " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " LED Ansteuerung " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " Netzteile " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " DALI " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " DMX " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " Möbeleinbauleuchten " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " Bodeneinbauleuchten " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " Unterwasser LED-Leuchten " .
+_:g2175704680 <http://fitman.sti2.at/company/sells> " Raumbeleuchtung " .
+_:g2175704680 <http://fitman.sti2.at/company/distribution_type> " Grosshandel (B2B) " .
+_:g2175704680 <http://fitman.sti2.at/company/hasSpeciality> " Lichtplanung " .
+_:g2175704680 <http://fitman.sti2.at/company/hasWebsite> "http://www.rutec.de" .
+_:g2175704680 <http://fitman.sti2.at/company/hasMail> "    info@ rutec.de\n" .
+_:g2175704680 <http://fitman.sti2.at/company/name> "rutec Licht GmbH + Co. KG" .
+_:g2175704680 <http://fitman.sti2.at/company/hasLocality> "Syke" .
+_:g2175704680 <http://fitman.sti2.at/company/hasStreetAddress> "    Carl-Zeiss-Str. 15\n" .
+_:g2175704680 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2175704680 <http://fitman.sti2.at/company/postalCode> "28857" .
+_:g2175704680 <http://fitman.sti2.at/company/country> "    Germany\n" .

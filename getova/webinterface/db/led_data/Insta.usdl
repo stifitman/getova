@@ -1,0 +1,66 @@
+_:g2160511940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2160511940 <http://purl.org/goodrelations/v1#offers> _:g2160205080 .
+_:g2160511940 <http://purl.org/goodrelations/v1#offers> _:g2160185340 .
+_:g2160511940 <http://xmlns.com/foaf/0.1/page> "http://www.insta.de" .
+_:g2160511940 <http://purl.org/goodrelations/v1#legalName> "Insta" .
+_:g2160511940 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2160149200 .
+_:g2173425720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173425720 <http://purl.org/goodrelations/v1#name> " lineare LED-Module " .
+_:g2173425720 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2173410300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173410300 <http://purl.org/goodrelations/v1#name> " flächige LED-Module " .
+_:g2173410300 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2173397440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173397440 <http://purl.org/goodrelations/v1#name> " Netzteile " .
+_:g2173397440 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2173382700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173382700 <http://purl.org/goodrelations/v1#name> " KNX/EIB " .
+_:g2173382700 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2173372580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173372580 <http://purl.org/goodrelations/v1#name> " DALI " .
+_:g2173372580 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2173107860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173107860 <http://purl.org/goodrelations/v1#name> " DMX " .
+_:g2173107860 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2173055600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173055600 <http://purl.org/goodrelations/v1#name> " analoge Ansteuerung " .
+_:g2173055600 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2173039240 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2173039240 <http://purl.org/goodrelations/v1#name> " Wandfluter " .
+_:g2173039240 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2172964480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2172964480 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2172964480 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2160331500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2160331500 <http://purl.org/goodrelations/v1#name> " Konturbeleuchtung / Fassadenbeleuchtung " .
+_:g2160331500 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2160293360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2160293360 <http://purl.org/goodrelations/v1#name> " Möbeleinbauleuchten " .
+_:g2160293360 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2164747460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164747460 <http://purl.org/goodrelations/v1#name> " LED-Strahler " .
+_:g2164747460 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2164702960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164702960 <http://purl.org/goodrelations/v1#name> " Lichtfliesen " .
+_:g2164702960 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2164418060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164418060 <http://purl.org/goodrelations/v1#name> " Lichtböden / -decken " .
+_:g2164418060 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2164395840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164395840 <http://purl.org/goodrelations/v1#name> " Bodeneinbauleuchten " .
+_:g2164395840 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2164388300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#ProductOrService> .
+_:g2164388300 <http://purl.org/goodrelations/v1#name> " LED-Ketten " .
+_:g2164388300 <http://purl.org/goodrelations/v1#hasManufacturer> _:g2160511940 .
+_:g2160205080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160205080 <http://purl.org/goodrelations/v1#name> " Elektronik " .
+_:g2160185340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2160185340 <http://purl.org/goodrelations/v1#name> " Platinenbestückung " .
+_:g2160149200 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2160149200 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2160149200 <http://www.w3.org/2006/vcard/ns#locality> "Lüdenscheid" .
+_:g2160149200 <http://www.w3.org/2006/vcard/ns#postal_code> "58509" .
+_:g2160149200 <http://www.w3.org/2006/vcard/ns#street_address> "    Hohe Steinert 10\n" .
+_:g2160149200 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ insta.de\n" .
+_:g2172933660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2172933660 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)2351 - 936 0\n" .

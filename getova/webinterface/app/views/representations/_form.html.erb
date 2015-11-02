@@ -1,0 +1,26 @@
+<%= form_for @representation, :html => { :class => 'form-horizontal' } do |f| %>
+  <div class="control-group">
+    <%= f.label :individual_id, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :individual_id, :class => 'text_field', disabled: true %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :content, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_area :content, :class => 'text_field', cols: 30, rows: 20 %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :format_id, :class => 'control-label' %>
+    <div class="controls">
+      <%= f.text_field :format_id, :class => 'text_field', disabled: true %>
+    </div>
+  </div>
+
+  <div class="form-actions">
+    <%= f.submit nil, :class => 'btn btn-primary' %>
+    <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+                representations_path, :class => 'btn' %>
+  </div>
+<% end %>

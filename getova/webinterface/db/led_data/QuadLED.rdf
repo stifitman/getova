@@ -1,0 +1,10 @@
+_:g2156820740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2156820740 <http://fitman.sti2.at/company/produces> " flächige LED-Module " .
+_:g2156820740 <http://fitman.sti2.at/company/hasWebsite> "http://www.quadled.com" .
+_:g2156820740 <http://fitman.sti2.at/company/hasMail> "    info@ quadled.com\n" .
+_:g2156820740 <http://fitman.sti2.at/company/name> "QuadLED" .
+_:g2156820740 <http://fitman.sti2.at/company/hasLocality> "Aachen" .
+_:g2156820740 <http://fitman.sti2.at/company/hasStreetAddress> "    Kackertstr. 11\n" .
+_:g2156820740 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2156820740 <http://fitman.sti2.at/company/postalCode> "52072" .
+_:g2156820740 <http://fitman.sti2.at/company/country> "    Germany\n" .

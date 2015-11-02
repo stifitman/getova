@@ -1,0 +1,10 @@
+_:g2174394300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://fitman.sti2.at/company/Company> .
+_:g2174394300 <http://fitman.sti2.at/company/produces> " LED-Strahler " .
+_:g2174394300 <http://fitman.sti2.at/company/hasWebsite> "http://www.illumics.de" .
+_:g2174394300 <http://fitman.sti2.at/company/hasMail> "    info@ illumics.de\n" .
+_:g2174394300 <http://fitman.sti2.at/company/name> "Illumics" .
+_:g2174394300 <http://fitman.sti2.at/company/hasLocality> "Küps/Oberlangenstadt" .
+_:g2174394300 <http://fitman.sti2.at/company/hasStreetAddress> "    Alte Poststraße 45a\n" .
+_:g2174394300 <http://fitman.sti2.at/company/locatedInRegion> "    Germany\n" .
+_:g2174394300 <http://fitman.sti2.at/company/postalCode> "96328" .
+_:g2174394300 <http://fitman.sti2.at/company/country> "    Germany\n" .

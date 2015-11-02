@@ -1,0 +1,15 @@
+_:g2175058000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2175058000 <http://purl.org/goodrelations/v1#offers> _:g2175091820 .
+_:g2175058000 <http://xmlns.com/foaf/0.1/page> "http://www.premosys.com" .
+_:g2175058000 <http://purl.org/goodrelations/v1#legalName> "Premosys" .
+_:g2175058000 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2175110080 .
+_:g2175091820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2175091820 <http://purl.org/goodrelations/v1#name> " optische Systeme " .
+_:g2175110080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2175110080 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2175110080 <http://www.w3.org/2006/vcard/ns#locality> "Wiesbaum" .
+_:g2175110080 <http://www.w3.org/2006/vcard/ns#postal_code> "54578" .
+_:g2175110080 <http://www.w3.org/2006/vcard/ns#street_address> "    Higis-Ring 20\n" .
+_:g2175110080 <http://www.w3.org/2006/vcard/ns#has_email> "    info@ premosys.com\n" .
+_:g2175108920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2175108920 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)6593 - 998682\n" .

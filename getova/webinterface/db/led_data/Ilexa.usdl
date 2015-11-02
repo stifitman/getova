@@ -1,0 +1,15 @@
+_:g2165000540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> .
+_:g2165000540 <http://purl.org/goodrelations/v1#offers> _:g2164862040 .
+_:g2165000540 <http://xmlns.com/foaf/0.1/page> "http://www.ilexa.de" .
+_:g2165000540 <http://purl.org/goodrelations/v1#legalName> "Ilexa" .
+_:g2165000540 <http://www.linked-usdl.org/ns/usdl-core#hasCommunicationChannel> _:g2164817600 .
+_:g2164862040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#Offering> .
+_:g2164862040 <http://purl.org/goodrelations/v1#name> " Lichtmessung " .
+_:g2164817600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2164817600 <http://www.w3.org/2006/vcard/ns#country_name> "    Germany\n" .
+_:g2164817600 <http://www.w3.org/2006/vcard/ns#locality> "Ilmenau" .
+_:g2164817600 <http://www.w3.org/2006/vcard/ns#postal_code> "98693" .
+_:g2164817600 <http://www.w3.org/2006/vcard/ns#street_address> "    Werner-von-Siemens-Straße 4a\n" .
+_:g2164817600 <http://www.w3.org/2006/vcard/ns#has_email> "    jordanow@ ilexa.de\n" .
+_:g2164814500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Voice> .
+_:g2164814500 <http://www.w3.org/2006/vcard/ns#hasValue> "    +49 (0)3677 - 46633 0\n" .
